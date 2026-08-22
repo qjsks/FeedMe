@@ -1,0 +1,149 @@
+{
+  "sourceUrl": "https://github.blog/feed/",
+  "title": "The GitHub Blog",
+  "description": "Updates, ideas, and inspiration from GitHub to help developers build and design software.",
+  "link": "https://github.blog/",
+  "items": [
+    {
+      "title": "The August 17 outage, and the work ahead",
+      "link": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+      "pubDate": "Thu, 20 Aug 2026 18:36:11 +0000",
+      "isoDate": "2026-08-20T18:36:11.000Z",
+      "content": "<p>An update on the August 17 outage and the steps we're taking to improve reliability.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/\">The August 17 outage, and the work ahead</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "An update on the August 17 outage and the steps we're taking to improve reliability.\nThe post The August 17 outage, and the work ahead appeared first on The GitHub Blog.",
+      "creator": "Vlad Fedorov",
+      "summaries": {
+        "zh": "GitHub 发布了一篇关于8月17日服务中断的更新，并说明了为提高可靠性正在采取的措施。该文章来自GitHub官方博客，内容简短，主要向用户通报了此次事件及后续改进方向，但未提供具体细节。整体而言，这是一份关于故障处理和可靠性提升的简要声明。",
+        "en": "The GitHub Blog published a post titled \"The August 17 outage, and the work ahead.\" The post provides an update on the service outage that occurred on August 17. It outlines the steps GitHub is taking to improve reliability going forward. The post serves as an official communication regarding the incident and the company's planned actions. No further technical details about the cause, duration, or specific impacts of the outage are included in the available content."
+      },
+      "summary": "GitHub 发布了一篇关于8月17日服务中断的更新，并说明了为提高可靠性正在采取的措施。该文章来自GitHub官方博客，内容简短，主要向用户通报了此次事件及后续改进方向，但未提供具体细节。整体而言，这是一份关于故障处理和可靠性提升的简要声明。"
+    },
+    {
+      "title": "GitHub Copilot app for Beginners: Managing your work",
+      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/",
+      "pubDate": "Wed, 19 Aug 2026 17:50:23 +0000",
+      "isoDate": "2026-08-19T17:50:23.000Z",
+      "content": "<p>If you’re juggling multiple Copilot sessions, use the My work pane to track what's in flight, what's done, and what's next.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/\">GitHub Copilot app for Beginners: Managing your work</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "If you’re juggling multiple Copilot sessions, use the My work pane to track what's in flight, what's done, and what's next.\nThe post GitHub Copilot app for Beginners: Managing your work appeared first on The GitHub Blog.",
+      "creator": "Christopher Harrison",
+      "summaries": {
+        "zh": "该文章来自GitHub官方博客，面向初学者介绍GitHub Copilot应用中的工作管理功能。当用户同时处理多个Copilot会话时，可使用“My work”（我的工作）面板来追踪任务状态，清晰查看进行中、已完成以及下一步要处理的事项，从而更高效地管理工作流程。",
+        "en": "For beginners using the GitHub Copilot app, the \"My work\" pane helps manage multiple Copilot sessions. It allows users to track tasks by status: what is currently in progress, what has been completed, and what still needs to be done. This feature provides a simple way to stay organized when handling several sessions at once. The tip comes from the GitHub Blog."
+      },
+      "summary": "该文章来自GitHub官方博客，面向初学者介绍GitHub Copilot应用中的工作管理功能。当用户同时处理多个Copilot会话时，可使用“My work”（我的工作）面板来追踪任务状态，清晰查看进行中、已完成以及下一步要处理的事项，从而更高效地管理工作流程。"
+    },
+    {
+      "title": "How canvases make agentic workflows visible, steerable, and cost-efficient",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/",
+      "pubDate": "Mon, 17 Aug 2026 16:00:00 +0000",
+      "isoDate": "2026-08-17T16:00:00.000Z",
+      "content": "<p>Chat is great for intent, but agent work gets lost in the scroll. Here is how I use canvases with my agentic workflows—and why your workflow also deserves a canvas.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/\">How canvases make agentic workflows visible, steerable, and cost-efficient</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Chat is great for intent, but agent work gets lost in the scroll. Here is how I use canvases with my agentic workflows—and why your workflow also deserves a canvas.\nThe post How canvases make agentic workflows visible, steerable, and cost-efficient appeared first on The GitHub Blog.",
+      "creator": "Ayan Gupta",
+      "summaries": {
+        "zh": "文章介绍了如何用画布（canvas）改善代理式工作流。聊天适合表达意图，但代理的工作过程容易在滚动中丢失。画布能让工作流更可见、可操控，并降低成本。文中建议代理工作流也应配备画布。该内容来自GitHub博客。",
+        "en": "The GitHub Blog post explains that while chat effectively captures intent, agent actions become lost in long scrolls. The author advocates using canvases for agentic workflows, highlighting benefits: visibility, steerability, and cost-efficiency. They describe their own use of canvases and argue that other workflows would benefit from adopting this approach."
+      },
+      "summary": "文章介绍了如何用画布（canvas）改善代理式工作流。聊天适合表达意图，但代理的工作过程容易在滚动中丢失。画布能让工作流更可见、可操控，并降低成本。文中建议代理工作流也应配备画布。该内容来自GitHub博客。"
+    },
+    {
+      "title": "How to bring your software delivery workflow into GitHub with agent apps",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/",
+      "pubDate": "Fri, 14 Aug 2026 16:00:00 +0000",
+      "isoDate": "2026-08-14T16:00:00.000Z",
+      "content": "<p>See how four GitHub agent apps can help you scope, secure, roll out, and ship a feature across the SDLC–all without leaving GitHub. </p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/\">How to bring your software delivery workflow into GitHub with agent apps</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "See how four GitHub agent apps can help you scope, secure, roll out, and ship a feature across the SDLC–all without leaving GitHub. \nThe post How to bring your software delivery workflow into GitHub with agent apps appeared first on The GitHub Blog.",
+      "creator": "Sam Zhang",
+      "summaries": {
+        "zh": "GitHub 发布了一篇博客，介绍如何通过四款 GitHub Agent Apps，将软件交付工作流整合到 GitHub 中。这些应用可帮助开发者在同一平台内完成功能的范围界定、安全加固、逐步推出与最终发布，覆盖整个软件开发生命周期，无需切换工具。文章展示了如何借助代理应用提升交付效率与协作流畅度。",
+        "en": "The GitHub Blog post introduces four GitHub Agent Apps designed to streamline the software development lifecycle. These apps enable teams to scope, secure, roll out, and ship features directly within the GitHub platform, eliminating the need to switch between different tools. The article highlights how this integration brings the entire delivery workflow into a single, unified environment."
+      },
+      "summary": "GitHub 发布了一篇博客，介绍如何通过四款 GitHub Agent Apps，将软件交付工作流整合到 GitHub 中。这些应用可帮助开发者在同一平台内完成功能的范围界定、安全加固、逐步推出与最终发布，覆盖整个软件开发生命周期，无需切换工具。文章展示了如何借助代理应用提升交付效率与协作流畅度。"
+    },
+    {
+      "title": "Your guide to GitHub Universe 2026 is here: The schedule just launched!",
+      "link": "https://github.blog/news-insights/company-news/your-guide-to-github-universe-2026-is-here-the-schedule-just-launched/",
+      "pubDate": "Thu, 13 Aug 2026 19:00:00 +0000",
+      "isoDate": "2026-08-13T19:00:00.000Z",
+      "content": "<p>The GitHub Universe session catalog is live. Explore interactive workshops, community talks, demos, and panels. Plus, register before August 19 to save $300.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/your-guide-to-github-universe-2026-is-here-the-schedule-just-launched/\">Your guide to GitHub Universe 2026 is here: The schedule just launched!</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "The GitHub Universe session catalog is live. Explore interactive workshops, community talks, demos, and panels. Plus, register before August 19 to save $300.\nThe post Your guide to GitHub Universe 2026 is here: The schedule just launched! appeared first on The GitHub Blog.",
+      "creator": "Ariel Kanter",
+      "summaries": {
+        "zh": "GitHub Universe 2026 的日程已正式发布。本次大会的会议目录现已上线，提供互动工作坊、社区演讲、产品演示和专题讨论等多种环节。此外，在8月19日前注册可享受300美元优惠。相关公告来自GitHub官方博客。",
+        "en": "GitHub Universe 2026 has announced its event schedule. The session catalog is now live, featuring interactive workshops, community talks, product demos, and panel discussions. Attendees can also save $300 by registering before August 19. The announcement was made on The GitHub Blog."
+      },
+      "summary": "GitHub Universe 2026 的日程已正式发布。本次大会的会议目录现已上线，提供互动工作坊、社区演讲、产品演示和专题讨论等多种环节。此外，在8月19日前注册可享受300美元优惠。相关公告来自GitHub官方博客。"
+    },
+    {
+      "title": "What 50 open source projects taught us about security in the AI era",
+      "link": "https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/",
+      "pubDate": "Thu, 13 Aug 2026 16:00:00 +0000",
+      "isoDate": "2026-08-13T16:00:00.000Z",
+      "content": "<p>See how the open source projects in Session 4 of the GitHub Secure Open Source Fund combined AI-assisted workflows, maintainer expertise, GitHub security tools, expert guidance, and funding to improve project security. </p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/\">What 50 open source projects taught us about security in the AI era</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "See how the open source projects in Session 4 of the GitHub Secure Open Source Fund combined AI-assisted workflows, maintainer expertise, GitHub security tools, expert guidance, and funding to improve project security. \nThe post What 50 open source projects taught us about security in the AI era appeared first on The GitHub Blog.",
+      "creator": "Gregg Cochran",
+      "summaries": {
+        "zh": "GitHub近日发布文章，总结了“GitHub安全开源基金”第四期项目中50个开源项目在AI时代提升安全性的经验。这些项目综合运用了AI辅助工作流、维护者专业知识、GitHub安全工具、专家指导及资金支持等多种手段。文章指出，正是通过将AI技术与人类专家经验及官方安全工具有机结合，才能有效改善开源项目的整体安全性。该文原载于GitHub官方博客。",
+        "en": "The article highlights key insights from 50 open source projects in Session 4 of the GitHub Secure Open Source Fund. It shows how these projects strengthened security by combining AI-assisted workflows, maintainer expertise, GitHub security tools, expert guidance, and funding. The focus is on practical, collaborative approaches to improving security in the AI era, demonstrating how multiple resources and human skill can work together effectively. The summary reflects on lessons learned from these projects, emphasizing a holistic strategy that integrates technology, human knowledge, and financial support."
+      },
+      "summary": "GitHub近日发布文章，总结了“GitHub安全开源基金”第四期项目中50个开源项目在AI时代提升安全性的经验。这些项目综合运用了AI辅助工作流、维护者专业知识、GitHub安全工具、专家指导及资金支持等多种手段。文章指出，正是通过将AI技术与人类专家经验及官方安全工具有机结合，才能有效改善开源项目的整体安全性。该文原载于GitHub官方博客。"
+    },
+    {
+      "title": "GitHub availability report: July 2026",
+      "link": "https://github.blog/news-insights/company-news/github-availability-report-july-2026/",
+      "pubDate": "Wed, 12 Aug 2026 22:17:32 +0000",
+      "isoDate": "2026-08-12T22:17:32.000Z",
+      "content": "<p>In July, we experienced eight incidents that resulted in degraded performance across GitHub services.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/github-availability-report-july-2026/\">GitHub availability report: July 2026</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "In July, we experienced eight incidents that resulted in degraded performance across GitHub services.\nThe post GitHub availability report: July 2026 appeared first on The GitHub Blog.",
+      "creator": "Jakub Oleksy",
+      "summaries": {
+        "zh": "GitHub 发布 2026 年 7 月可用性报告：当月共发生八起事件，导致 GitHub 各项服务性能下降。报告仅提及服务降级，未透露具体影响时长或恢复细节。",
+        "en": "In July 2026, GitHub experienced eight incidents that led to degraded performance across its services. The full details are provided in the GitHub availability report for that month, as announced on The GitHub Blog."
+      },
+      "summary": "GitHub 发布 2026 年 7 月可用性报告：当月共发生八起事件，导致 GitHub 各项服务性能下降。报告仅提及服务降级，未透露具体影响时长或恢复细节。"
+    },
+    {
+      "title": "GitHub Copilot app for Beginners: Write your first prompt",
+      "link": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app/",
+      "pubDate": "Wed, 12 Aug 2026 19:00:00 +0000",
+      "isoDate": "2026-08-12T19:00:00.000Z",
+      "content": "<p>Learn how to write your first prompt in the GitHub Copilot app, choose the right context and model, and start your first task with confidence.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app/\">GitHub Copilot app for Beginners: Write your first prompt</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Learn how to write your first prompt in the GitHub Copilot app, choose the right context and model, and start your first task with confidence.\nThe post GitHub Copilot app for Beginners: Write your first prompt appeared first on The GitHub Blog.",
+      "creator": "Kayla Cinnamon",
+      "summaries": {
+        "zh": "本文来自GitHub博客，介绍如何在GitHub Copilot应用中编写第一个提示词。文章讲解了编写提示词的基本方法，指导用户选择合适的上下文和模型，并帮助用户自信地开始第一个任务。",
+        "en": "This article from The GitHub Blog offers guidance for beginners using the GitHub Copilot app. It teaches users how to craft their first prompt, select the appropriate context, and choose the right model for their needs. The goal is to help users begin their first task with confidence. The post serves as an introductory resource for getting started with the application."
+      },
+      "summary": "本文来自GitHub博客，介绍如何在GitHub Copilot应用中编写第一个提示词。文章讲解了编写提示词的基本方法，指导用户选择合适的上下文和模型，并帮助用户自信地开始第一个任务。"
+    },
+    {
+      "title": "Your contributors are AI-first now. Is your project?",
+      "link": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project/",
+      "pubDate": "Wed, 12 Aug 2026 18:00:08 +0000",
+      "isoDate": "2026-08-12T18:00:08.000Z",
+      "content": "<p>AI contributors are already in your queue. AutoGPT maintainer Nicholas Tindle shares the repo instructions, gates, and boundaries that keep maintainers in control.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project/\">Your contributors are AI-first now. Is your project?</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "AI contributors are already in your queue. AutoGPT maintainer Nicholas Tindle shares the repo instructions, gates, and boundaries that keep maintainers in control.\nThe post Your contributors are AI-first now. Is your project? appeared first on The GitHub Blog.",
+      "creator": "Andrea Griffiths",
+      "summaries": {
+        "zh": "文章指出，AI贡献者已出现在开源项目的队列中。AutoGPT维护者Nicholas Tindle分享了相关经验，包括仓库说明、控制门槛和边界设定，以帮助项目维护者保持对项目的掌控。文章强调，项目需要适应AI优先的贡献方式，并通过明确规则来管理这一趋势。",
+        "en": "AI contributors are already appearing in open-source projects, and maintainers need to adapt. The article highlights insights from AutoGPT maintainer Nicholas Tindle, who explains how to keep human maintainers in control. He shares practical strategies including repo instructions, contribution gates, and clear boundaries for AI-driven contributions. The key message is that projects must prepare for AI-first participation by setting structured guidelines that manage automated contributions effectively while preserving maintainer authority."
+      },
+      "summary": "文章指出，AI贡献者已出现在开源项目的队列中。AutoGPT维护者Nicholas Tindle分享了相关经验，包括仓库说明、控制门槛和边界设定，以帮助项目维护者保持对项目的掌控。文章强调，项目需要适应AI优先的贡献方式，并通过明确规则来管理这一趋势。"
+    },
+    {
+      "title": "From coder to orchestrator: How agents shift the role of a developer",
+      "link": "https://github.blog/developer-skills/career-growth/from-coder-to-orchestrator-how-agents-shift-the-role-of-a-developer/",
+      "pubDate": "Tue, 11 Aug 2026 18:38:17 +0000",
+      "isoDate": "2026-08-11T18:38:17.000Z",
+      "content": "<p>Developers are owning more of the delivery system around code, not just code itself. Join us during GitHub Universe to meet other devs, learn something new, and explore what's next.</p>\n<p>The post <a href=\"https://github.blog/developer-skills/career-growth/from-coder-to-orchestrator-how-agents-shift-the-role-of-a-developer/\">From coder to orchestrator: How agents shift the role of a developer</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Developers are owning more of the delivery system around code, not just code itself. Join us during GitHub Universe to meet other devs, learn something new, and explore what's next.\nThe post From coder to orchestrator: How agents shift the role of a developer appeared first on The GitHub Blog.",
+      "creator": "Natalie Guevara",
+      "summaries": {
+        "zh": "开发者正从单纯的“编码者”转变为“编排者”，开始负责代码之外的更多交付流程。文章邀请读者参加 GitHub Universe 大会，与同行交流、学习新知识，并一同探索开发者的未来发展方向。",
+        "en": "The article discusses how AI agents are transforming developers' responsibilities, shifting them from simply writing code to orchestrating broader delivery systems. Developers now manage more of the end-to-end process around code rather than code alone. It also promotes GitHub Universe as an opportunity for developers to connect with peers, learn new skills, and explore upcoming developments in this evolving landscape."
+      },
+      "summary": "开发者正从单纯的“编码者”转变为“编排者”，开始负责代码之外的更多交付流程。文章邀请读者参加 GitHub Universe 大会，与同行交流、学习新知识，并一同探索开发者的未来发展方向。"
+    }
+  ],
+  "lastUpdated": "2026-08-22T20:42:39.746Z"
+}

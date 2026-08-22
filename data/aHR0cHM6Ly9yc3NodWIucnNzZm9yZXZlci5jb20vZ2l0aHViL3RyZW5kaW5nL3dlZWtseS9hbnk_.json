@@ -1,0 +1,219 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "cursor/plugins",
+      "link": "https://github.com/cursor/plugins",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/2bfe861b6f17291e9c85f32659901e076a1aee2d2de881929e07ffffdc47a24f/cursor/plugins\" referrerpolicy=\"no-referrer\"><br>Cursor plugin specification and official plugins<br><br>Language: TypeScript<br>Stars: 4623<br>Forks: 379",
+      "contentSnippet": "Cursor plugin specification and official plugins\nLanguage: TypeScript\nStars: 4623\nForks: 379",
+      "creator": "cursor",
+      "summaries": {
+        "zh": "该内容介绍的是GitHub上的“cursor/plugins”项目。该项目提供了Cursor插件规范及官方插件，主要使用TypeScript语言开发，目前获得4367颗星，并有366次分叉。简而言之，这是一个面向Cursor编辑器的插件资源仓库。",
+        "en": "The repository \"cursor/plugins\" contains the Cursor plugin specification along with official plugins. The project is written in TypeScript and has garnered approximately 4,367 stars and 366 forks on GitHub. It serves as the central reference for defining and implementing plugins within the Cursor ecosystem."
+      },
+      "summary": "该内容介绍的是GitHub上的“cursor/plugins”项目。该项目提供了Cursor插件规范及官方插件，主要使用TypeScript语言开发，目前获得4367颗星，并有366次分叉。简而言之，这是一个面向Cursor编辑器的插件资源仓库。"
+    },
+    {
+      "title": "cordiverse/cordis",
+      "link": "https://github.com/cordiverse/cordis",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/5acad172f2e4874c9e77b0d2dab649db4fbb104a447bf80a80199023fe026c9f/cordiverse/cordis\" referrerpolicy=\"no-referrer\"><br>Meta-Framework of Spatiotemporal Composability<br><br>Language: TypeScript<br>Stars: 7093<br>Forks: 409",
+      "contentSnippet": "Meta-Framework of Spatiotemporal Composability\nLanguage: TypeScript\nStars: 7093\nForks: 409",
+      "creator": "cordiverse",
+      "summaries": {
+        "zh": "该内容介绍的是一个名为“cordiverse/cordis”的GitHub项目。它是一个关于“时空组合性”的元框架（Meta-Framework），使用TypeScript语言开发。项目目前获得6932颗星和399次复刻（Fork）。摘要需客观呈现这些核心信息。",
+        "en": "Cordiverse/cordis is a GitHub repository described as a \"Meta-Framework of Spatiotemporal Composability.\" The project is written in TypeScript and has gained significant traction, with 6,932 stars and 399 forks. No further details about its functionality or purpose are provided beyond this brief metadata description."
+      },
+      "summary": "该内容介绍的是一个名为“cordiverse/cordis”的GitHub项目。它是一个关于“时空组合性”的元框架（Meta-Framework），使用TypeScript语言开发。项目目前获得6932颗星和399次复刻（Fork）。摘要需客观呈现这些核心信息。"
+    },
+    {
+      "title": "volcengine/OpenViking",
+      "link": "https://github.com/volcengine/OpenViking",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/dac5cf7d4ddccd7c4dc09c85ab7564ecf3b3de44399187b0b9d5ea9fa1b4066e/volcengine/OpenViking\" referrerpolicy=\"no-referrer\"><br>Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.<br><br>Language: Python<br>Stars: 32009<br>Forks: 2442",
+      "contentSnippet": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.\nLanguage: Python\nStars: 32009\nForks: 2442",
+      "creator": "volcengine",
+      "summaries": {
+        "zh": "volcengine/OpenViking 是一个面向 AI 代理的自我进化型上下文数据库，旨在统一代理记忆、知识检索增强生成（RAG）与技能。该项目的开发语言为 Python，目前在 GitHub 上拥有 29,865 颗星和 2,321 个分支，体现出较高的社区关注度。其核心定位是为 AI 代理提供动态、整合的上下文管理能力。",
+        "en": "OpenViking is a Python-based project by Volcengine, described as a self-evolving context database designed for AI agents. Its main purpose is to unify three key capabilities: agent memory, knowledge retrieval-augmented generation (RAG), and skills. The repository is highly popular, with approximately 29,865 stars and 2,321 forks, indicating significant community interest. No additional details or opinions are provided."
+      },
+      "summary": "volcengine/OpenViking 是一个面向 AI 代理的自我进化型上下文数据库，旨在统一代理记忆、知识检索增强生成（RAG）与技能。该项目的开发语言为 Python，目前在 GitHub 上拥有 29,865 颗星和 2,321 个分支，体现出较高的社区关注度。其核心定位是为 AI 代理提供动态、整合的上下文管理能力。"
+    },
+    {
+      "title": "basecamp/omarchy",
+      "link": "https://github.com/basecamp/omarchy",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/668aa49fa9f71ed352cdd5b0d061d5f2af1134cfb204d02e40dc5e8b466fd33e/basecamp/omarchy\" referrerpolicy=\"no-referrer\"><br>Beautiful, Modern &amp; Opinionated Linux<br><br>Language: Shell<br>Stars: 28205<br>Forks: 2871",
+      "contentSnippet": "Beautiful, Modern & Opinionated Linux\nLanguage: Shell\nStars: 28205\nForks: 2871",
+      "creator": "basecamp",
+      "summaries": {
+        "zh": "该项目为 GitHub 上的 `basecamp/omarchy` 仓库，是一个美观、现代且带有明确设计理念的 Linux 项目。其开发语言为 Shell，目前已获得约 25,069 颗星标和 2,555 次分叉，表明该项目在社区中具有较高关注度。",
+        "en": "The repository \"basecamp/omarchy\" is a Linux-related project described as beautiful, modern, and opinionated. It is written in Shell. The project has approximately 25,069 stars and 2,555 forks on GitHub. No further details are provided in the source content."
+      },
+      "summary": "该项目为 GitHub 上的 `basecamp/omarchy` 仓库，是一个美观、现代且带有明确设计理念的 Linux 项目。其开发语言为 Shell，目前已获得约 25,069 颗星标和 2,555 次分叉，表明该项目在社区中具有较高关注度。"
+    },
+    {
+      "title": "modular/modular",
+      "link": "https://github.com/modular/modular",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/1c5a102362ce164af6ae6725a3f15c225288e69ca64a493ce13f5ceef4e33469/modular/modular\" referrerpolicy=\"no-referrer\"><br>The Modular Platform (includes MAX &amp; Mojo)<br><br>Language: Mojo<br>Stars: 28820<br>Forks: 3065",
+      "contentSnippet": "The Modular Platform (includes MAX & Mojo)\nLanguage: Mojo\nStars: 28820\nForks: 3065",
+      "creator": "modular",
+      "summaries": {
+        "zh": "该内容介绍的是一个名为“modular/modular”的GitHub仓库，即Modular平台。该平台包含MAX和Mojo两个部分，主要使用Mojo语言。仓库在GitHub上获得了27441颗星和2971次复刻（Fork）。信息简洁，仅列出项目基本数据，未涉及具体功能或用途。",
+        "en": "The article describes the GitHub repository \"modular/modular,\" which hosts the Modular Platform, including MAX and Mojo. The project is written in the Mojo language. It has accumulated 27,441 stars and 2,971 forks, indicating notable community interest and adoption. No further details are provided in the source."
+      },
+      "summary": "该内容介绍的是一个名为“modular/modular”的GitHub仓库，即Modular平台。该平台包含MAX和Mojo两个部分，主要使用Mojo语言。仓库在GitHub上获得了27441颗星和2971次复刻（Fork）。信息简洁，仅列出项目基本数据，未涉及具体功能或用途。"
+    },
+    {
+      "title": "harry0703/MoneyPrinterTurbo",
+      "link": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ff746328a7c06f828e86fda01b3eab643e54600a4aca83ae462b0e2e1ad63cef/harry0703/MoneyPrinterTurbo\" referrerpolicy=\"no-referrer\"><br>利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.<br><br>Language: Python<br>Stars: 114602<br>Forks: 17394",
+      "contentSnippet": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.\nLanguage: Python\nStars: 114602\nForks: 17394",
+      "creator": "harry0703",
+      "summaries": {
+        "zh": "MoneyPrinterTurbo 是一个基于 Python 的开源项目（GitHub 星标 109787，复刻 16675），利用 AI 大模型与自动化工作流，根据主题或关键词一键生成高清短视频。该工具旨在简化短视频制作流程，用户只需提供主题或关键词，即可自动完成内容生成，适合快速产出视频内容。",
+        "en": "MoneyPrinterTurbo is a Python-based open-source project that uses AI models and automated workflows to generate high-definition short videos from a topic or keyword. It is designed for one-click video creation, streamlining the production process. The repository has gained significant traction, with over 109,000 stars and more than 16,000 forks, indicating strong community interest and adoption."
+      },
+      "summary": "MoneyPrinterTurbo 是一个基于 Python 的开源项目（GitHub 星标 109787，复刻 16675），利用 AI 大模型与自动化工作流，根据主题或关键词一键生成高清短视频。该工具旨在简化短视频制作流程，用户只需提供主题或关键词，即可自动完成内容生成，适合快速产出视频内容。"
+    },
+    {
+      "title": "AprilNEA/OpenLogi",
+      "link": "https://github.com/AprilNEA/OpenLogi",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1248194723/027636c2-3777-4a45-b2f4-e64950b94a13\" referrerpolicy=\"no-referrer\"><br>⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.<br><br>Language: Rust<br>Stars: 13768<br>Forks: 368",
+      "contentSnippet": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.\nLanguage: Rust\nStars: 13768\nForks: 368",
+      "creator": "AprilNEA",
+      "summaries": {
+        "zh": "OpenLogi 是一个用 Rust 编写的原生、本地优先的 Logitech Options+ 替代品。它支持通过 HID++ 协议重新映射按键、调整 DPI 以及配置 SmartShift，无需账户或遥测，注重隐私。该项目在 GitHub 上已有 10986 颗星和 304 个分叉，受到社区关注。",
+        "en": "OpenLogi is a native, local-first alternative to Logitech Options+, built in Rust. It allows users to remap buttons, adjust DPI, and control SmartShift via HID++. The project emphasizes privacy by requiring no account and including no telemetry. It has gained significant popularity, with approximately 10,986 stars and 304 forks on GitHub."
+      },
+      "summary": "OpenLogi 是一个用 Rust 编写的原生、本地优先的 Logitech Options+ 替代品。它支持通过 HID++ 协议重新映射按键、调整 DPI 以及配置 SmartShift，无需账户或遥测，注重隐私。该项目在 GitHub 上已有 10986 颗星和 304 个分叉，受到社区关注。"
+    },
+    {
+      "title": "public-apis/public-apis",
+      "link": "https://github.com/public-apis/public-apis",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/54346799/e5ee272c-dfe1-40e5-b66b-b0a36e815254\" referrerpolicy=\"no-referrer\"><br>A collective list of free APIs<br><br>Language: Python<br>Stars: 468561<br>Forks: 51695",
+      "contentSnippet": "A collective list of free APIs\nLanguage: Python\nStars: 468561\nForks: 51695",
+      "creator": "public-apis",
+      "summaries": {
+        "zh": "该内容介绍的是一个名为“public-apis/public-apis”的GitHub仓库。这是一个公开API的集合列表，收录了大量免费的API资源。仓库主要使用Python语言编写，目前拥有463,648颗星标（Stars）和51,243次分支（Forks），属于一个非常受欢迎且社区活跃的开源项目。其核心价值在于为开发者提供集中、便捷的免费API检索入口。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "该内容介绍的是一个名为“public-apis/public-apis”的GitHub仓库。这是一个公开API的集合列表，收录了大量免费的API资源。仓库主要使用Python语言编写，目前拥有463,648颗星标（Stars）和51,243次分支（Forks），属于一个非常受欢迎且社区活跃的开源项目。其核心价值在于为开发者提供集中、便捷的免费API检索入口。"
+    },
+    {
+      "title": "cathrynlavery/diagram-design",
+      "link": "https://github.com/cathrynlavery/diagram-design",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d4d320c23a559992ec1a92e8b868110cef431cec59b61c97b288eaecaa57fe35/cathrynlavery/diagram-design\" referrerpolicy=\"no-referrer\"><br>38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.<br><br>Language: HTML<br>Stars: 25419<br>Forks: 1559",
+      "contentSnippet": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.\nLanguage: HTML\nStars: 25419\nForks: 1559",
+      "creator": "cathrynlavery",
+      "summaries": {
+        "zh": "该仓库名为 `cathrynlavery/diagram-design`，为 Claude Code 提供了 29 种编辑类图表类型。图表采用自包含的 HTML 与 SVG 格式，不包含阴影效果，也避免使用 Mermaid 生成的粗糙图形。该仓库使用 HTML 编写，目前拥有 17,931 颗星和 1,073 个分支（Fork）。",
+        "en": "The GitHub repository **cathrynlavery/diagram-design** offers 29 editorial diagram types specifically designed for Claude Code. These diagrams are self-contained, built with HTML and SVG, and intentionally avoid shadows and what the author calls \"Mermaid-slop\" (likely referring to generic or cluttered Mermaid-generated visuals). The project is written in HTML and has gained significant traction, with 17,931 stars and 1,073 forks. Overall, it provides a clean, code-based solution for creating editorial-style diagrams within Claude Code workflows."
+      },
+      "summary": "该仓库名为 `cathrynlavery/diagram-design`，为 Claude Code 提供了 29 种编辑类图表类型。图表采用自包含的 HTML 与 SVG 格式，不包含阴影效果，也避免使用 Mermaid 生成的粗糙图形。该仓库使用 HTML 编写，目前拥有 17,931 颗星和 1,073 个分支（Fork）。"
+    },
+    {
+      "title": "akitaonrails/ai-memory",
+      "link": "https://github.com/akitaonrails/ai-memory",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ffb1ce4ef8118c19b1d6a561b307bf1daee8911e7dda76e9079f8dabb5259906/akitaonrails/ai-memory\" referrerpolicy=\"no-referrer\"><br>Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors<br><br>Language: Rust<br>Stars: 4070<br>Forks: 300",
+      "contentSnippet": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors\nLanguage: Rust\nStars: 4070\nForks: 300",
+      "creator": "akitaonrails",
+      "summaries": {
+        "zh": "该开源项目名为 `akitaonrails/ai-memory`，旨在为编码代理命令行工具提供长期记忆解决方案，并促进不同代理供应商之间的交接。项目使用 Rust 语言开发，目前在 GitHub 上获得 4051 颗星和 300 次分叉，受到一定关注。",
+        "en": "The article describes \"ai-memory,\" a GitHub repository by akitaonrails. It offers a solution for providing long-term memory to agent-based coding command-line interfaces (CLIs). Its purpose is to enable smooth handoffs between different AI agent vendors. The project is written in Rust and currently has 4,051 stars and 300 forks."
+      },
+      "summary": "该开源项目名为 `akitaonrails/ai-memory`，旨在为编码代理命令行工具提供长期记忆解决方案，并促进不同代理供应商之间的交接。项目使用 Rust 语言开发，目前在 GitHub 上获得 4051 颗星和 300 次分叉，受到一定关注。"
+    },
+    {
+      "title": "jundot/omlx",
+      "link": "https://github.com/jundot/omlx",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/1bfdf8c18818fa55de7957a73c2c326fed728e3684391a43ccabd6ecdf3c42ef/jundot/omlx\" referrerpolicy=\"no-referrer\"><br>LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar<br><br>Language: Python<br>Stars: 20331<br>Forks: 1720",
+      "contentSnippet": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar\nLanguage: Python\nStars: 20331\nForks: 1720",
+      "creator": "jundot",
+      "summaries": {
+        "zh": "该项目名为 jundot/omlx，是一个面向 Apple Silicon 的 LLM 推理服务器，支持连续批处理和 SSD 缓存，并可通过 macOS 菜单栏进行管理。项目使用 Python 编写，在 GitHub 上获得约 1.97 万星标和 1683 次复刻，受到广泛关注。",
+        "en": "OMLX (jundot/omlx) is an open-source LLM inference server built specifically for Apple Silicon. Key features include continuous batching and SSD caching to optimize performance. It is managed directly from the macOS menu bar for convenient user control. The project is written in Python. Its GitHub repository shows substantial community adoption, with approximately 19,682 stars and 1,683 forks."
+      },
+      "summary": "该项目名为 jundot/omlx，是一个面向 Apple Silicon 的 LLM 推理服务器，支持连续批处理和 SSD 缓存，并可通过 macOS 菜单栏进行管理。项目使用 Python 编写，在 GitHub 上获得约 1.97 万星标和 1683 次复刻，受到广泛关注。"
+    },
+    {
+      "title": "semantica-agi/semantica",
+      "link": "https://github.com/semantica-agi/semantica",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/da2658f1c1a949a57370de84f999c9c2da006a8b58f1cb91499c84056d4354a5/semantica-agi/semantica\" referrerpolicy=\"no-referrer\"><br>Graph-Native Infrastructure for Context and Accountable AI Systems<br><br>Language: Python<br>Stars: 10247<br>Forks: 1102",
+      "contentSnippet": "Graph-Native Infrastructure for Context and Accountable AI Systems\nLanguage: Python\nStars: 10247\nForks: 1102",
+      "creator": "semantica-agi",
+      "summaries": {
+        "zh": "semantica-agi/semantica 是一个用 Python 编写的开源项目，定位为面向上下文与可问责 AI 系统的图原生（Graph-Native）基础设施。该项目在 GitHub 上已获得 3671 个星标和 414 个分支，显示出一定的社区关注度。",
+        "en": "Semantica is a Python-based, open-source project on GitHub that provides graph-native infrastructure for building context-aware and accountable AI systems. Its popularity is reflected in its traction, with 3,671 stars and 414 forks. The project's core purpose centers on utilizing graph structures to manage context and ensure responsible AI operations, making it a notable tool for developers focused on these aspects of AI development."
+      },
+      "summary": "semantica-agi/semantica 是一个用 Python 编写的开源项目，定位为面向上下文与可问责 AI 系统的图原生（Graph-Native）基础设施。该项目在 GitHub 上已获得 3671 个星标和 414 个分支，显示出一定的社区关注度。"
+    },
+    {
+      "title": "AlexsJones/llmfit",
+      "link": "https://github.com/AlexsJones/llmfit",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/c83ae752eaef09c9d14ec20f2339661daa026123e14a7967868b21782c110f61/AlexsJones/llmfit\" referrerpolicy=\"no-referrer\"><br>Hundreds of models &amp; providers. One command to find what runs on your hardware.<br><br>Language: Rust<br>Stars: 33552<br>Forks: 2094",
+      "contentSnippet": "Hundreds of models & providers. One command to find what runs on your hardware.\nLanguage: Rust\nStars: 33552\nForks: 2094",
+      "creator": "AlexsJones",
+      "summaries": {
+        "zh": "该项目名为 **AlexsJones/llmfit**，是一个用 Rust 编写的开源工具。其核心功能是让用户通过**一条命令**，从数百个模型和提供商中，快速筛选出**能在自己硬件上运行**的模型。该仓库在 GitHub 上关注度较高，目前已获得 **32595 颗星**和 **2014 次分支**（Fork）。主要面向需要本地部署大语言模型、并希望快速匹配硬件兼容性的开发者或研究者。",
+        "en": "The GitHub project **AlexsJones/llmfit** is a command-line tool written in Rust. Its purpose is to help users quickly identify which large language models and providers are compatible with their specific hardware, using a single command. The project has gained significant traction, with 32,595 stars and 2,014 forks, indicating strong community interest. In essence, it simplifies the process of finding suitable LLM options across hundreds of models and providers by matching them to the user's local system capabilities."
+      },
+      "summary": "该项目名为 **AlexsJones/llmfit**，是一个用 Rust 编写的开源工具。其核心功能是让用户通过**一条命令**，从数百个模型和提供商中，快速筛选出**能在自己硬件上运行**的模型。该仓库在 GitHub 上关注度较高，目前已获得 **32595 颗星**和 **2014 次分支**（Fork）。主要面向需要本地部署大语言模型、并希望快速匹配硬件兼容性的开发者或研究者。"
+    },
+    {
+      "title": "NVIDIA-NeMo/Switchyard",
+      "link": "https://github.com/NVIDIA-NeMo/Switchyard",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/5384b1631fdff5e75acc675c5ab80a1156c732522e4c2bee0d695271bc1c6368/NVIDIA-NeMo/Switchyard\" referrerpolicy=\"no-referrer\"><br>Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.<br><br>Language: Rust<br>Stars: 2206<br>Forks: 193",
+      "contentSnippet": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.\nLanguage: Rust\nStars: 2206\nForks: 193",
+      "creator": "NVIDIA-NeMo",
+      "summaries": {
+        "zh": "NVIDIA-NeMo/Switchyard 是一个用 Rust 编写的开源工具，旨在帮助 LLM 应用在不同模型和提供商之间路由流量。它保持对 OpenAI 和 Anthropic API 的原生兼容，支持灵活选择模型、进行基准测试以及优化成本与性能。该项目在 GitHub 上拥有 1927 颗星和 177 个 fork。",
+        "en": "Switchyard is an NVIDIA NeMo tool that enables LLM applications to route traffic across multiple models and providers while maintaining native OpenAI and Anthropic API compatibility. It supports flexible model selection, benchmarking, and cost/performance optimization. The project is written in Rust and has gained notable traction, with approximately 1,927 stars and 177 forks on GitHub."
+      },
+      "summary": "NVIDIA-NeMo/Switchyard 是一个用 Rust 编写的开源工具，旨在帮助 LLM 应用在不同模型和提供商之间路由流量。它保持对 OpenAI 和 Anthropic API 的原生兼容，支持灵活选择模型、进行基准测试以及优化成本与性能。该项目在 GitHub 上拥有 1927 颗星和 177 个 fork。"
+    },
+    {
+      "title": "eneskirca/nodeterm",
+      "link": "https://github.com/eneskirca/nodeterm",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/9a576e82158357c129db3e4366956ab9e81dc6da9c4ecda0a2e75368ff4993bb/eneskirca/nodeterm\" referrerpolicy=\"no-referrer\"><br>Node-based terminal manager for AI coding agents — tmux-backed terminals and parallel agent sessions as draggable nodes on an infinite pan/zoom canvas. macOS, Linux, and a browser Server Edition.<br><br>Language: TypeScript<br>Stars: 1038<br>Forks: 112",
+      "contentSnippet": "Node-based terminal manager for AI coding agents — tmux-backed terminals and parallel agent sessions as draggable nodes on an infinite pan/zoom canvas. macOS, Linux, and a browser Server Edition.\nLanguage: TypeScript\nStars: 1038\nForks: 112",
+      "creator": "eneskirca",
+      "summaries": {
+        "zh": "该工具是一个面向AI编码代理的节点式终端管理器，基于tmux支持多终端和并行代理会话，并可将会话作为可拖拽节点放置在无限平移/缩放画布上。支持macOS、Linux以及浏览器Server Edition版本。项目使用TypeScript编写，目前拥有1016颗星和113个分支。",
+        "en": "**nodeterm** is a node-based terminal manager designed for AI coding agents. It uses tmux-backed terminals and enables parallel agent sessions displayed as draggable nodes on an infinite pan/zoom canvas. The tool supports macOS, Linux, and a browser-based Server Edition. Written in TypeScript, the project has garnered 1016 stars and 113 forks on GitHub."
+      },
+      "summary": "该工具是一个面向AI编码代理的节点式终端管理器，基于tmux支持多终端和并行代理会话，并可将会话作为可拖拽节点放置在无限平移/缩放画布上。支持macOS、Linux以及浏览器Server Edition版本。项目使用TypeScript编写，目前拥有1016颗星和113个分支。"
+    }
+  ],
+  "lastUpdated": "2026-08-22T20:42:43.964Z"
+}

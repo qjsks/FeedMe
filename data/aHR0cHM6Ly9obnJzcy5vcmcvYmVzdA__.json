@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+      "link": "https://quantumi.sh/public/labs.html",
+      "pubDate": "Sat, 22 Aug 2026 14:54:07 +0000",
+      "isoDate": "2026-08-22T14:54:07.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://quantumi.sh/public/labs.html\">https://quantumi.sh/public/labs.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49400408\">https://news.ycombinator.com/item?id=49400408</a></p>\n<p>Points: 224</p>\n<p># Comments: 74</p>\n",
+      "contentSnippet": "Article URL: https://quantumi.sh/public/labs.html\nComments URL: https://news.ycombinator.com/item?id=49400408\nPoints: 224\n# Comments: 74",
+      "creator": "jemoka",
+      "summaries": {
+        "zh": "该文章页面未提供正文内容，仅有标题“ElevenLabs, TwelveLabs, ThirteenLabs”及 Hacker News 上的讨论链接（224 分，74 条评论）。由于缺少具体信息，无法进行实质性总结。",
+        "en": "The provided article content is empty. Only the title \"ElevenLabs, TwelveLabs, ThirteenLabs\" is given; there is no substantive text to summarize, so no key information is available."
+      },
+      "summary": "该文章页面未提供正文内容，仅有标题“ElevenLabs, TwelveLabs, ThirteenLabs”及 Hacker News 上的讨论链接（224 分，74 条评论）。由于缺少具体信息，无法进行实质性总结。"
+    },
+    {
+      "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
+      "link": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
+      "pubDate": "Sat, 22 Aug 2026 12:07:06 +0000",
+      "isoDate": "2026-08-22T12:07:06.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy\">https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49398904\">https://news.ycombinator.com/item?id=49398904</a></p>\n<p>Points: 192</p>\n<p># Comments: 153</p>\n",
+      "contentSnippet": "Article URL: https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy\nComments URL: https://news.ycombinator.com/item?id=49398904\nPoints: 192\n# Comments: 153",
+      "creator": "sbulaev",
+      "summaries": {
+        "zh": "《卫报》一篇关于Meta（脸书母公司）的报道指出，其首周庭审中曝光了一项针对儿童隐私的所谓策略，可概括为“勾住、留住、收割、隐藏”（Hook, hold, harvest and hide）。报道来自技术版块，涉及Meta因儿童隐私问题受审。由于原文正文未提供，以上信息仅依据标题与链接",
+        "en": "The Guardian article reports on the first week of a trial involving Meta, focusing on children's privacy. The title outlines Meta's alleged strategy as \"hook, hold, harvest and hide.\" The specific details of the trial proceedings are not available in the provided content, but the core subject is the accusation that Meta employs a calculated approach targeting children, with the trial examining these practices. The report is sourced from The Guardian."
+      },
+      "summary": "《卫报》一篇关于Meta（脸书母公司）的报道指出，其首周庭审中曝光了一项针对儿童隐私的所谓策略，可概括为“勾住、留住、收割、隐藏”（Hook, hold, harvest and hide）。报道来自技术版块，涉及Meta因儿童隐私问题受审。由于原文正文未提供，以上信息仅依据标题与链接"
+    },
+    {
+      "title": "Statement by Prime Minister Carney on Canada-U.S. trade negotiations",
+      "link": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations",
+      "pubDate": "Sat, 22 Aug 2026 10:26:09 +0000",
+      "isoDate": "2026-08-22T10:26:09.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations\">https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49398304\">https://news.ycombinator.com/item?id=49398304</a></p>\n<p>Points: 665</p>\n<p># Comments: 1</p>\n",
+      "contentSnippet": "Article URL: https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations\nComments URL: https://news.ycombinator.com/item?id=49398304\nPoints: 665\n# Comments: 1",
+      "creator": "backlit4034",
+      "summaries": {
+        "zh": "加拿大总理卡尼发表声明，宣布加拿大暂停与美国进行贸易谈判，并将实施对等关税措施，即对美国商品征收同等金额的关税作为回应。此举表明加美贸易关系出现紧张升级，加拿大以“对等”原则维护本国经济利益。",
+        "en": "Canada has suspended trade negotiations with the United States and will impose matching tariffs dollar for dollar, according to an official statement from Prime Minister Carney. The move signals a firm response to ongoing trade disputes between the two countries. Specific details of the tariffs or affected sectors were not provided in the available information."
+      },
+      "summary": "加拿大总理卡尼发表声明，宣布加拿大暂停与美国进行贸易谈判，并将实施对等关税措施，即对美国商品征收同等金额的关税作为回应。此举表明加美贸易关系出现紧张升级，加拿大以“对等”原则维护本国经济利益。"
+    },
+    {
+      "title": "Munder Difflin – Agent harness to run an office of your clones",
+      "link": "https://munderdiffl.in/",
+      "pubDate": "Sat, 22 Aug 2026 09:49:14 +0000",
+      "isoDate": "2026-08-22T09:49:14.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://munderdiffl.in/\">https://munderdiffl.in/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49398152\">https://news.ycombinator.com/item?id=49398152</a></p>\n<p>Points: 226</p>\n<p># Comments: 102</p>\n",
+      "contentSnippet": "Article URL: https://munderdiffl.in/\nComments URL: https://news.ycombinator.com/item?id=49398152\nPoints: 226\n# Comments: 102",
+      "creator": "simonpure",
+      "summaries": {
+        "zh": "**Munder Difflin** 是一个 AI 代理（agent）管理工具，旨在让用户运行一个由\"克隆体\"组成的虚拟办公室。项目名称显然是对经典美剧《办公室》（Dunder Mifflin）的谐音戏仿。该工具在 Hacker News 上发布后，获得了 199 个点赞和 83 条评论，引发社区关注。由于原文内容未提供，以上信息仅基于文章标题和平台数据整理。",
+        "en": "Munder Difflin is presented as an “agent harness” designed to run an office of your clones—likely a tool or framework for managing multiple AI agents acting as automated workers. The article content itself is empty, so details are limited. The project is hosted at munderdiffl.in and has sparked discussion on Hacker News, with 199 points and 83 comments at the time of reporting, indicating strong community interest in the concept."
+      },
+      "summary": "**Munder Difflin** 是一个 AI 代理（agent）管理工具，旨在让用户运行一个由\"克隆体\"组成的虚拟办公室。项目名称显然是对经典美剧《办公室》（Dunder Mifflin）的谐音戏仿。该工具在 Hacker News 上发布后，获得了 199 个点赞和 83 条评论，引发社区关注。由于原文内容未提供，以上信息仅基于文章标题和平台数据整理。"
+    },
+    {
+      "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
+      "link": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
+      "pubDate": "Sat, 22 Aug 2026 06:16:57 +0000",
+      "isoDate": "2026-08-22T06:16:57.000Z",
+      "content": "\n<p><a href=\"https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations\" rel=\"nofollow\">https://www.pm.gc.ca/en/news/statements/2026/08/21/statement...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49397074\">https://news.ycombinator.com/item?id=49397074</a></p>\n<p>Points: 241</p>\n<p># Comments: 886</p>\n",
+      "contentSnippet": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement...\nComments URL: https://news.ycombinator.com/item?id=49397074\nPoints: 241\n# Comments: 886",
+      "creator": "tartoran",
+      "summaries": {
+        "zh": "加拿大总理办公室发布声明称，由于与美国贸易谈判破裂，加拿大将“以美元对美元”的方式等额反制美国关税，即对美国商品加征同等规模的关税。此举标志着两国贸易摩擦进一步升级。",
+        "en": "Canada will retaliate against U.S. tariffs by matching them \"dollar for dollar\" after trade talks broke down, according to a statement from the Prime Minister’s Office. The announcement signals an escalation in the trade dispute, with Canada committing to equal counter-tariffs. No further details from the original article were available beyond the headline and link."
+      },
+      "summary": "加拿大总理办公室发布声明称，由于与美国贸易谈判破裂，加拿大将“以美元对美元”的方式等额反制美国关税，即对美国商品加征同等规模的关税。此举标志着两国贸易摩擦进一步升级。"
+    },
+    {
+      "title": "There's no reason for software to be slow anymore",
+      "link": "https://danluu.com/perf-opt/",
+      "pubDate": "Sat, 22 Aug 2026 01:06:17 +0000",
+      "isoDate": "2026-08-22T01:06:17.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://danluu.com/perf-opt/\">https://danluu.com/perf-opt/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49395628\">https://news.ycombinator.com/item?id=49395628</a></p>\n<p>Points: 606</p>\n<p># Comments: 461</p>\n",
+      "contentSnippet": "Article URL: https://danluu.com/perf-opt/\nComments URL: https://news.ycombinator.com/item?id=49395628\nPoints: 606\n# Comments: 461",
+      "creator": "Jach",
+      "summaries": {
+        "zh": "文章正文未提供，无法总结具体内容。仅从标题可知，作者认为“软件没有理由再慢”，可能涉及性能优化话题。为避免臆造，本次摘要僅基于标题信息，不展开具体观点。",
+        "en": "The article, titled \"There's no reason for software to be slow anymore,\" argues that modern software performance is unnecessarily poor and that significant speed improvements are achievable. The content itself is not provided in this summary. The article was shared on Hacker News, where it garnered 227 points and 168 comments, indicating strong community interest and debate on the topic of software optimization and performance."
+      },
+      "summary": "文章正文未提供，无法总结具体内容。仅从标题可知，作者认为“软件没有理由再慢”，可能涉及性能优化话题。为避免臆造，本次摘要僅基于标题信息，不展开具体观点。"
+    },
+    {
+      "title": "Three important steps in my maturation process",
+      "link": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
+      "pubDate": "Fri, 21 Aug 2026 22:29:00 +0000",
+      "isoDate": "2026-08-21T22:29:00.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/\">https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49394496\">https://news.ycombinator.com/item?id=49394496</a></p>\n<p>Points: 202</p>\n<p># Comments: 108</p>\n",
+      "contentSnippet": "Article URL: https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/\nComments URL: https://news.ycombinator.com/item?id=49394496\nPoints: 202\n# Comments: 108",
+      "creator": "tdullien",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "The article content was not provided, so no substantive information is available to summarize. The title, \"Three important steps in my maturation process,\" suggests a personal reflection on growth, but without the body text, its key points, arguments, and examples cannot be accurately captured. Per the summarization guidelines, I will not invent details or speculate on the article's content. The summary is therefore limited to noting that the source material is empty and cannot be summarized at this time."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Rust Glancer: Rust LSP using 100x less RAM",
+      "link": "https://rust-glancer.github.io/blog/hello-world/",
+      "pubDate": "Fri, 21 Aug 2026 19:51:54 +0000",
+      "isoDate": "2026-08-21T19:51:54.000Z",
+      "content": "\n<p><a href=\"https://matklad.github.io/2026/08/21/rust-glancer.html\" rel=\"nofollow\">https://matklad.github.io/2026/08/21/rust-glancer.html</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49393052\">https://news.ycombinator.com/item?id=49393052</a></p>\n<p>Points: 378</p>\n<p># Comments: 88</p>\n",
+      "contentSnippet": "https://matklad.github.io/2026/08/21/rust-glancer.html\nComments URL: https://news.ycombinator.com/item?id=49393052\nPoints: 378\n# Comments: 88",
+      "creator": "matklad",
+      "summaries": {
+        "zh": "文章标题为《Rust Glancer: Rust LSP using 100x less RAM》，内容链接指向一篇关于Rust语言服务器（LSP）的博客文章，重点是其内存占用比常规方案低约100倍。文中还附有Hacker News讨论链接，该讨论获得223分，共有49条评论。由于原文正文未提供，以上信息仅基于标题和页面元数据，不包含具体技术细节或作者观点。",
+        "en": "Rust Glancer is presented as a Rust language server (LSP) that uses roughly 100 times less RAM than standard implementations. The article, authored by Matklad, focuses on this memory efficiency breakthrough, offering an alternative for developers seeking a lighter-weight development tool. Available via the linked post, it has generated active community discussion."
+      },
+      "summary": "文章标题为《Rust Glancer: Rust LSP using 100x less RAM》，内容链接指向一篇关于Rust语言服务器（LSP）的博客文章，重点是其内存占用比常规方案低约100倍。文中还附有Hacker News讨论链接，该讨论获得223分，共有49条评论。由于原文正文未提供，以上信息仅基于标题和页面元数据，不包含具体技术细节或作者观点。"
+    },
+    {
+      "title": "Scientists release biggest 2D map of the universe",
+      "link": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+      "pubDate": "Fri, 21 Aug 2026 18:36:34 +0000",
+      "isoDate": "2026-08-21T18:36:34.000Z",
+      "content": "\n<p>Direct link to Legacy Survey Sky Viewer: <a href=\"https://viewer.legacysurvey.org\" rel=\"nofollow\">https://viewer.legacysurvey.org</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49392200\">https://news.ycombinator.com/item?id=49392200</a></p>\n<p>Points: 250</p>\n<p># Comments: 65</p>\n",
+      "contentSnippet": "Direct link to Legacy Survey Sky Viewer: https://viewer.legacysurvey.org\nComments URL: https://news.ycombinator.com/item?id=49392200\nPoints: 250\n# Comments: 65",
+      "creator": "NKosmatos",
+      "summaries": {
+        "zh": "科学家发布了迄今最大的宇宙二维地图。这张地图可通过Legacy Survey Sky Viewer（https://viewer.legacysurvey.org）在线浏览。该消息在Hacker News上引发关注，获得221个点赞和60条评论。这一成果为天文学研究提供了重要的观测数据资源。",
+        "en": "Scientists have released the largest two-dimensional map of the universe, according to the article. The report highlights the availability of the map through the Legacy Survey Sky Viewer, where users can explore the data. No further details or findings are provided in the source content."
+      },
+      "summary": "科学家发布了迄今最大的宇宙二维地图。这张地图可通过Legacy Survey Sky Viewer（https://viewer.legacysurvey.org）在线浏览。该消息在Hacker News上引发关注，获得221个点赞和60条评论。这一成果为天文学研究提供了重要的观测数据资源。"
+    },
+    {
+      "title": "OTel isn’t going well",
+      "link": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
+      "pubDate": "Fri, 21 Aug 2026 17:45:41 +0000",
+      "isoDate": "2026-08-21T17:45:41.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/\">https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49391553\">https://news.ycombinator.com/item?id=49391553</a></p>\n<p>Points: 207</p>\n<p># Comments: 104</p>\n",
+      "contentSnippet": "Article URL: https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/\nComments URL: https://news.ycombinator.com/item?id=49391553\nPoints: 207\n# Comments: 104",
+      "creator": "hn_acker",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "The article titled \"OTel isn’t going well\" was shared on Hacker News, where it received 194 points and 94 comments. However, the article content itself is empty, so no substantive details or key points are available for summarization. Based on the title, the piece appears to address challenges with OpenTelemetry (OTel), but without the actual text, specific arguments or information cannot be accurately summarized."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Kobo can run apps now",
+      "link": "https://bandarlabs.github.io/Cobalt/",
+      "pubDate": "Fri, 21 Aug 2026 16:25:25 +0000",
+      "isoDate": "2026-08-21T16:25:25.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://bandarlabs.github.io/Cobalt/\">https://bandarlabs.github.io/Cobalt/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49390427\">https://news.ycombinator.com/item?id=49390427</a></p>\n<p>Points: 639</p>\n<p># Comments: 202</p>\n",
+      "contentSnippet": "Article URL: https://bandarlabs.github.io/Cobalt/\nComments URL: https://news.ycombinator.com/item?id=49390427\nPoints: 639\n# Comments: 202",
+      "creator": "thepoet",
+      "summaries": {
+        "zh": "根据文章标题，本文报道的是Kobo电子阅读器现在可以运行应用程序。然而，提供的文章内容为空，因此无法获取具体的应用支持方式、适用设备型号、安装方法或功能限制等细节。该帖子在Hacker News上获得236分和91条评论，说明这一话题引发了较多关注。如需更详细的信息，建议直接访问原文链接。",
+        "en": "The article content is empty. Based on the title and URL, the piece announces that Kobo devices can now run applications, referencing a project called Cobalt hosted at bandarlabs.github.io/Cobalt. The Hacker News listing indicates notable community engagement, with 236 points and 91 comments discussing the announcement. No further details are available from the provided content."
+      },
+      "summary": "根据文章标题，本文报道的是Kobo电子阅读器现在可以运行应用程序。然而，提供的文章内容为空，因此无法获取具体的应用支持方式、适用设备型号、安装方法或功能限制等细节。该帖子在Hacker News上获得236分和91条评论，说明这一话题引发了较多关注。如需更详细的信息，建议直接访问原文链接。"
+    },
+    {
+      "title": "Felony Bench",
+      "link": "https://www.felonybench.com/",
+      "pubDate": "Fri, 21 Aug 2026 15:17:04 +0000",
+      "isoDate": "2026-08-21T15:17:04.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.felonybench.com/\">https://www.felonybench.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49389430\">https://news.ycombinator.com/item?id=49389430</a></p>\n<p>Points: 812</p>\n<p># Comments: 325</p>\n",
+      "contentSnippet": "Article URL: https://www.felonybench.com/\nComments URL: https://news.ycombinator.com/item?id=49389430\nPoints: 812\n# Comments: 325",
+      "creator": "colinprince",
+      "summaries": {
+        "zh": "本文内容为空，无法总结具体信息。文章标题为《Felony Bench》，网址为 https://www.felonybench.com/。该内容在 Hacker News 上引发讨论，获得 285 分和 132 条评论。由于源内容未提供任何正文信息，此处不作任何细节补充。",
+        "en": "The article \"Felony Bench\" contains no extractable content, so a summary of its main points is not possible. The only available information is that it was shared on Hacker News, where it received 285 points and 132 comments, indicating active discussion. The source is the website felonybench.com."
+      },
+      "summary": "本文内容为空，无法总结具体信息。文章标题为《Felony Bench》，网址为 https://www.felonybench.com/。该内容在 Hacker News 上引发讨论，获得 285 分和 132 条评论。由于源内容未提供任何正文信息，此处不作任何细节补充。"
+    },
+    {
+      "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
+      "link": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+      "pubDate": "Fri, 21 Aug 2026 14:31:52 +0000",
+      "isoDate": "2026-08-21T14:31:52.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/adnanakil/nobuzz/blob/main/README.md\">https://github.com/adnanakil/nobuzz/blob/main/README.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49388752\">https://news.ycombinator.com/item?id=49388752</a></p>\n<p>Points: 339</p>\n<p># Comments: 227</p>\n",
+      "contentSnippet": "Article URL: https://github.com/adnanakil/nobuzz/blob/main/README.md\nComments URL: https://news.ycombinator.com/item?id=49388752\nPoints: 339\n# Comments: 227",
+      "creator": "aakil",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "The article body is empty, so the summary is based on the title and metadata. The piece references \"Claudette,\" a GitHub project by adnanakil aimed at preventing Claude, Anthropic's AI assistant, from responding in an overly casual, listicle-style tone similar to BuzzFeed articles. The linked README provides the project details. The Hacker News discussion, with 217 points and 154 comments, indicates notable community engagement, though no further specifics are available from the provided content."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Kagi added a setting for removing paywalled links from search results",
+      "link": "https://kagi.com/changelog#11296",
+      "pubDate": "Fri, 21 Aug 2026 13:56:37 +0000",
+      "isoDate": "2026-08-21T13:56:37.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://kagi.com/changelog#11296\">https://kagi.com/changelog#11296</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49388154\">https://news.ycombinator.com/item?id=49388154</a></p>\n<p>Points: 1223</p>\n<p># Comments: 382</p>\n",
+      "contentSnippet": "Article URL: https://kagi.com/changelog#11296\nComments URL: https://news.ycombinator.com/item?id=49388154\nPoints: 1223\n# Comments: 382",
+      "creator": "speckx",
+      "summaries": {
+        "zh": "Kagi 搜索引擎新增了一项设置，允许用户在搜索结果中移除付费墙（paywall）链接。该功能更新记录于其官方更新日志（条目 #11296）。这一消息在 Hacker News 上引发讨论，获得 346 分和 126 条评论。",
+        "en": "Kagi has added a new setting to filter out paywalled links from its search results,"
+      },
+      "summary": "Kagi 搜索引擎新增了一项设置，允许用户在搜索结果中移除付费墙（paywall）链接。该功能更新记录于其官方更新日志（条目 #11296）。这一消息在 Hacker News 上引发讨论，获得 346 分和 126 条评论。"
+    },
+    {
+      "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
+      "link": "https://lina.sh/blog/hijacking-e164-arpa",
+      "pubDate": "Fri, 21 Aug 2026 13:11:28 +0000",
+      "isoDate": "2026-08-21T13:11:28.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://lina.sh/blog/hijacking-e164-arpa\">https://lina.sh/blog/hijacking-e164-arpa</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49387570\">https://news.ycombinator.com/item?id=49387570</a></p>\n<p>Points: 645</p>\n<p># Comments: 83</p>\n",
+      "contentSnippet": "Article URL: https://lina.sh/blog/hijacking-e164-arpa\nComments URL: https://news.ycombinator.com/item?id=49387570\nPoints: 645\n# Comments: 83",
+      "creator": "gavide",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "The article describes an accidental incident where the author logged hundreds of thousands of phone calls directed to military bases. The technical background appears to involve E.164 ARPA infrastructure, as hinted by the URL. However, the article content itself is not provided, so specific details about how the logging occurred or its implications are unavailable. This summary is based solely on the title and URL."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "New Worlds: We are living in the future of J.G. Ballard or William Gibson",
+      "link": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
+      "pubDate": "Fri, 21 Aug 2026 13:07:26 +0000",
+      "isoDate": "2026-08-21T13:07:26.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://precastreinforced.co.uk/2026/08/16/new-worlds/\">https://precastreinforced.co.uk/2026/08/16/new-worlds/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49387525\">https://news.ycombinator.com/item?id=49387525</a></p>\n<p>Points: 272</p>\n<p># Comments: 174</p>\n",
+      "contentSnippet": "Article URL: https://precastreinforced.co.uk/2026/08/16/new-worlds/\nComments URL: https://news.ycombinator.com/item?id=49387525\nPoints: 272\n# Comments: 174",
+      "creator": "speckx",
+      "summaries": {
+        "zh": "文章标题为《New Worlds: We are living in the future of J.G. Ballard or William Gibson》，但正文内容为空，无法提供具体论述。标题暗示我们正生活在J.G.巴拉德或威廉·吉布森所描绘的未来之中。该文在Hacker News上获得232点赞和164条评论，但缺乏可总结的实质内容。",
+        "en": "The article titled “New Worlds: We are living in the future of J.G. Ballard or William Gibson” appears to explore how contemporary reality aligns with the speculative visions of these two authors. However, the article content was not provided, so no specific arguments, examples, or conclusions can be summarized. The available information includes only the title, URL, and discussion metadata, with no substantive text to review. Therefore, an accurate summary of key points is not possible without inventing details."
+      },
+      "summary": "文章标题为《New Worlds: We are living in the future of J.G. Ballard or William Gibson》，但正文内容为空，无法提供具体论述。标题暗示我们正生活在J.G.巴拉德或威廉·吉布森所描绘的未来之中。该文在Hacker News上获得232点赞和164条评论，但缺乏可总结的实质内容。"
+    },
+    {
+      "title": "Grand jury declines to indict Ohio man charged with destroying Flock camera",
+      "link": "https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/",
+      "pubDate": "Fri, 21 Aug 2026 13:04:31 +0000",
+      "isoDate": "2026-08-21T13:04:31.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/\">https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49387497\">https://news.ycombinator.com/item?id=49387497</a></p>\n<p>Points: 685</p>\n<p># Comments: 386</p>\n",
+      "contentSnippet": "Article URL: https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/\nComments URL: https://news.ycombinator.com/item?id=49387497\nPoints: 685\n# Comments: 386",
+      "creator": "throw7",
+      "summaries": {
+        "zh": "俄亥俄州一名男子因破坏Flock监控摄像头而被起诉，但大陪审团拒绝对其提起公诉。该事件的相关讨论在Hacker News上引发关注，获得了316个点赞和170条评论。由于原文内容未提供，以上信息仅基于文章标题及页面元数据概括，不涉及具体案情细节。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "俄亥俄州一名男子因破坏Flock监控摄像头而被起诉，但大陪审团拒绝对其提起公诉。该事件的相关讨论在Hacker News上引发关注，获得了316个点赞和170条评论。由于原文内容未提供，以上信息仅基于文章标题及页面元数据概括，不涉及具体案情细节。"
+    },
+    {
+      "title": "Felony charges for citizen deleting phone data at US Border",
+      "link": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+      "pubDate": "Fri, 21 Aug 2026 12:10:13 +0000",
+      "isoDate": "2026-08-21T12:10:13.000Z",
+      "content": "\n<p><a href=\"https://archive.ph/SflVC\" rel=\"nofollow\">https://archive.ph/SflVC</a><p><a href=\"https://www.youtube.com/watch?v=_2rokxux5cU\" rel=\"nofollow\">https://www.youtube.com/watch?v=_2rokxux5cU</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49386895\">https://news.ycombinator.com/item?id=49386895</a></p>\n<p>Points: 1032</p>\n<p># Comments: 1255</p>\n",
+      "contentSnippet": "https://archive.ph/SflVC\nhttps://www.youtube.com/watch?v=_2rokxux5cU\nComments URL: https://news.ycombinator.com/item?id=49386895\nPoints: 1032\n# Comments: 1255",
+      "creator": "floathub",
+      "summaries": {
+        "zh": "美国一公民因在边境删除手机数据而面临重罪指控。文章内容仅包含相关视频链接及Hacker News讨论页面，讨论获得256分、349条评论。报道本身未提供更多细节，事件具体经过与法律依据尚不明确。",
+        "en": "The article title reports that a U.S. citizen faces felony charges for deleting phone data at the border. However, the provided content contains only external links and Hacker News metadata (comments, points, URL), with no actual article text or details. Therefore, no further information about the case or context can be summarized."
+      },
+      "summary": "美国一公民因在边境删除手机数据而面临重罪指控。文章内容仅包含相关视频链接及Hacker News讨论页面，讨论获得256分、349条评论。报道本身未提供更多细节，事件具体经过与法律依据尚不明确。"
+    },
+    {
+      "title": "I'm becoming AI-blind",
+      "link": "https://cymerys.com/w/im-becoming-ai-blind",
+      "pubDate": "Fri, 21 Aug 2026 11:48:05 +0000",
+      "isoDate": "2026-08-21T11:48:05.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://cymerys.com/w/im-becoming-ai-blind\">https://cymerys.com/w/im-becoming-ai-blind</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49386699\">https://news.ycombinator.com/item?id=49386699</a></p>\n<p>Points: 469</p>\n<p># Comments: 477</p>\n",
+      "contentSnippet": "Article URL: https://cymerys.com/w/im-becoming-ai-blind\nComments URL: https://news.ycombinator.com/item?id=49386699\nPoints: 469\n# Comments: 477",
+      "creator": "rcymerys",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "The article \"I'm becoming AI-blind\" is not accessible here, so its specific arguments and examples cannot be verified or summarized. The title suggests a reflection on growing desensitization or numbness toward AI-generated content, but without the text, details are unknown. To remain accurate and avoid speculation, no further claims can be made beyond the title and its general implication."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "DeepSeek-v4-flash-vision-exp",
+      "link": "https://api-docs.deepseek.com/guides/vision/",
+      "pubDate": "Fri, 21 Aug 2026 10:33:56 +0000",
+      "isoDate": "2026-08-21T10:33:56.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://api-docs.deepseek.com/guides/vision/\">https://api-docs.deepseek.com/guides/vision/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49386163\">https://news.ycombinator.com/item?id=49386163</a></p>\n<p>Points: 492</p>\n<p># Comments: 153</p>\n",
+      "contentSnippet": "Article URL: https://api-docs.deepseek.com/guides/vision/\nComments URL: https://news.ycombinator.com/item?id=49386163\nPoints: 492\n# Comments: 153",
+      "creator": "dares2573",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "No article content was provided for this summary. The title “DeepSeek-v4-flash-vision-exp” and URL suggest a guide for a vision model, but no key information or details are available to summarize."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Small, native web tricks worth remembering",
+      "link": "https://htmlcat.net/",
+      "pubDate": "Fri, 21 Aug 2026 09:45:14 +0000",
+      "isoDate": "2026-08-21T09:45:14.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://htmlcat.net/\">https://htmlcat.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49385860\">https://news.ycombinator.com/item?id=49385860</a></p>\n<p>Points: 235</p>\n<p># Comments: 58</p>\n",
+      "contentSnippet": "Article URL: https://htmlcat.net/\nComments URL: https://news.ycombinator.com/item?id=49385860\nPoints: 235\n# Comments: 58",
+      "creator": "marcomezzavilla",
+      "summaries": {
+        "zh": "标题为《Small, native web tricks worth remembering》（值得记住的小型原生Web技巧）的文章发布在 htmlcat.net。文章正文未提供，无法获取具体技巧内容。根据标题判断，主题围绕原生Web开发中值得记忆的实用小技巧。该文在Hacker News上获得223个点赞",
+        "en": "The article, titled \"Small, native web tricks worth remembering,\" focuses on useful, built-in web development techniques that developers may overlook. The source, htmlcat.net, appears to share such tips, and it has generated community interest on Hacker News, with 223 points and 54 comments discussing the topic. However, the article's full body content was not provided in this instance, so specific tricks or examples cannot be summarized here. The summary is limited to the title and available metadata."
+      },
+      "summary": "标题为《Small, native web tricks worth remembering》（值得记住的小型原生Web技巧）的文章发布在 htmlcat.net。文章正文未提供，无法获取具体技巧内容。根据标题判断，主题围绕原生Web开发中值得记忆的实用小技巧。该文在Hacker News上获得223个点赞"
+    },
+    {
+      "title": "The Lost Treasure of Sid Meier's Pirates",
+      "link": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
+      "pubDate": "Fri, 21 Aug 2026 07:23:27 +0000",
+      "isoDate": "2026-08-21T07:23:27.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/\">https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49384896\">https://news.ycombinator.com/item?id=49384896</a></p>\n<p>Points: 265</p>\n<p># Comments: 145</p>\n",
+      "contentSnippet": "Article URL: https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/\nComments URL: https://news.ycombinator.com/item?id=49384896\nPoints: 265\n# Comments: 145",
+      "creator": "spankibalt",
+      "summaries": {
+        "zh": "源文章正文为空，无法提取有效信息进行总结。标题虽提及《席德·梅尔的海盗》中的“失落宝藏”，但未提供具体内容，因此不虚构细节。如需了解该文章，建议直接访问原文链接。",
+        "en": "The article content is empty, so no substantive information is available to summarize. Based solely on the title, \"The Lost Treasure of Sid Meier's Pirates\" appears to relate to the classic video game *Sid Meier's Pirates!*, but no details, arguments, or key points are provided in the source material. Therefore, a content summary cannot be generated without inventing information."
+      },
+      "summary": "源文章正文为空，无法提取有效信息进行总结。标题虽提及《席德·梅尔的海盗》中的“失落宝藏”，但未提供具体内容，因此不虚构细节。如需了解该文章，建议直接访问原文链接。"
+    },
+    {
+      "title": "Stop Making TUIs",
+      "link": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
+      "pubDate": "Fri, 21 Aug 2026 05:37:38 +0000",
+      "isoDate": "2026-08-21T05:37:38.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/\">https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49384210\">https://news.ycombinator.com/item?id=49384210</a></p>\n<p>Points: 361</p>\n<p># Comments: 470</p>\n",
+      "contentSnippet": "Article URL: https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/\nComments URL: https://news.ycombinator.com/item?id=49384210\nPoints: 361\n# Comments: 470",
+      "creator": "underdeserver",
+      "summaries": {
+        "zh": "这篇文章标题为《Stop Making TUIs》（停止制作TUI），发布于sockpuppet.org博客（2026年8月20日）。由于正文内容未提供，无法获知文章的具体论点。不过，该文章在Hacker News上引起了广泛讨论，获得了252个点赞和331条评论，表明其观点引发了社区关注。如需了解详细内容，建议直接阅读原文。",
+        "en": "The article content is empty/unavailable, so no substantive summary can be produced. The title, \"Stop Making TUIs,\" suggests the author argues against creating Terminal User Interfaces, but the full argument, key points, and supporting details are not accessible. The only available information is metadata: it was posted on sockpuppet.org, generated considerable discussion on Hacker News (252 points, 331 comments), and was published on August 20, 2026. Without the actual text, no accurate or objective summary can be provided."
+      },
+      "summary": "这篇文章标题为《Stop Making TUIs》（停止制作TUI），发布于sockpuppet.org博客（2026年8月20日）。由于正文内容未提供，无法获知文章的具体论点。不过，该文章在Hacker News上引起了广泛讨论，获得了252个点赞和331条评论，表明其观点引发了社区关注。如需了解详细内容，建议直接阅读原文。"
+    },
+    {
+      "title": "Japan tried to build an operating system for the world, the US intervened",
+      "link": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
+      "pubDate": "Fri, 21 Aug 2026 05:31:34 +0000",
+      "isoDate": "2026-08-21T05:31:34.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/\">https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49384180\">https://news.ycombinator.com/item?id=49384180</a></p>\n<p>Points: 371</p>\n<p># Comments: 222</p>\n",
+      "contentSnippet": "Article URL: https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/\nComments URL: https://news.ycombinator.com/item?id=49384180\nPoints: 371\n# Comments: 222",
+      "creator": "rdmuser",
+      "summaries": {
+        "zh": "据XDA-Developers文章报道，日本曾试图打造一款面向全球的操作系统，但美国进行了干预。文章标题明确指出“美国介入”，暗示这一计划未能如愿推进。由于正文内容未提供，仅能基于标题概括这一核心信息。",
+        "en": "The article discusses Japan’s ambition to create a universal operating system for the global market, a project that was ultimately curtailed by intervention from the US government. While the full article content isn’t provided, the headline indicates that Japan’s technological push was perceived as a threat, leading to US action that affected its development. Further specifics on the project’s history, technical scope, or the nature of the intervention are not available in the source material provided."
+      },
+      "summary": "据XDA-Developers文章报道，日本曾试图打造一款面向全球的操作系统，但美国进行了干预。文章标题明确指出“美国介入”，暗示这一计划未能如愿推进。由于正文内容未提供，仅能基于标题概括这一核心信息。"
+    },
+    {
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "link": "https://annas-archive.gl/blog/physical-destruction.html",
+      "pubDate": "Fri, 21 Aug 2026 02:37:47 +0000",
+      "isoDate": "2026-08-21T02:37:47.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://annas-archive.gl/blog/physical-destruction.html\">https://annas-archive.gl/blog/physical-destruction.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49383026\">https://news.ycombinator.com/item?id=49383026</a></p>\n<p>Points: 598</p>\n<p># Comments: 883</p>\n",
+      "contentSnippet": "Article URL: https://annas-archive.gl/blog/physical-destruction.html\nComments URL: https://news.ycombinator.com/item?id=49383026\nPoints: 598\n# Comments: 883",
+      "creator": "Cider9986",
+      "summaries": {
+        "zh": "该文章来自安娜的档案博客，标题指出AI公司在扫描过程中会损毁实体书，尤其是稀有书籍。作者呼吁在更多珍贵图书被毁前，尽快对其进行数字化扫描保存。该帖在Hacker News上引发讨论，获得275分和205条评论。由于原文正文未提供，以上内容仅基于标题和来源信息归纳。",
+        "en": "The article from Anna's Archive argues that AI companies' large-scale digitization efforts are destroying physical books, particularly rare editions. It urges urgent action to scan these valuable volumes before they are lost permanently. The post highlights the conflict between AI data collection and cultural preservation, calling for proactive scanning initiatives to safeguard irreplace"
+      },
+      "summary": "该文章来自安娜的档案博客，标题指出AI公司在扫描过程中会损毁实体书，尤其是稀有书籍。作者呼吁在更多珍贵图书被毁前，尽快对其进行数字化扫描保存。该帖在Hacker News上引发讨论，获得275分和205条评论。由于原文正文未提供，以上内容仅基于标题和来源信息归纳。"
+    },
+    {
+      "title": "Copyright does not protect AI-generated content in EU",
+      "link": "https://mathstodon.xyz/@maxpool/117128107757895678",
+      "pubDate": "Fri, 21 Aug 2026 00:15:12 +0000",
+      "isoDate": "2026-08-21T00:15:12.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://mathstodon.xyz/@maxpool/117128107757895678\">https://mathstodon.xyz/@maxpool/117128107757895678</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49382041\">https://news.ycombinator.com/item?id=49382041</a></p>\n<p>Points: 187</p>\n<p># Comments: 208</p>\n",
+      "contentSnippet": "Article URL: https://mathstodon.xyz/@maxpool/117128107757895678\nComments URL: https://news.ycombinator.com/item?id=49382041\nPoints: 187\n# Comments: 208",
+      "creator": "u1hcw9nx",
+      "summaries": {
+        "zh": "该文章标题表明，欧盟的版权保护不适用于AI生成的内容。文章正文为空，无法提供更多具体细节。该帖发布自Mathstodon平台，在Hacker News上获得187分和208条评论。",
+        "en": "According to the article, EU copyright law does not protect AI-generated content. This means works created by artificial intelligence are not covered by copyright in the European Union. The post, shared on Mathstodon, drew significant discussion on Hacker News, receiving 187 points and 208 comments."
+      },
+      "summary": "该文章标题表明，欧盟的版权保护不适用于AI生成的内容。文章正文为空，无法提供更多具体细节。该帖发布自Mathstodon平台，在Hacker News上获得187分和208条评论。"
+    },
+    {
+      "title": "Ox Alpha",
+      "link": "https://openrouter.ai/stealth/ox-alpha",
+      "pubDate": "Thu, 20 Aug 2026 23:56:35 +0000",
+      "isoDate": "2026-08-20T23:56:35.000Z",
+      "content": "\n<p><a href=\"https://twitter.com/OpenRouter/status/2090544970923184269\" rel=\"nofollow\">https://twitter.com/OpenRouter/status/2090544970923184269</a>, <a href=\"https://xcancel.com/OpenRouter/status/2090544970923184269\" rel=\"nofollow\">https://xcancel.com/OpenRouter/status/2090544970923184269</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49381896\">https://news.ycombinator.com/item?id=49381896</a></p>\n<p>Points: 243</p>\n<p># Comments: 192</p>\n",
+      "contentSnippet": "https://twitter.com/OpenRouter/status/2090544970923184269, https://xcancel.com/OpenRouter/status/2090544970923184269\nComments URL: https://news.ycombinator.com/item?id=49381896\nPoints: 243\n# Comments: 192",
+      "creator": "mtokmak06",
+      "summaries": {
+        "zh": "该内容仅包含若干链接及元数据：指向OpenRouter在Twitter/X上的推文、备用镜像链接，以及Hacker News上对应的讨论页面，并附有点数（223分）和评论数（174条）。除此之外，未提供任何具体文章正文或推文内容说明。因此，无法总结实质信息，仅能确认其来源为OpenRouter的社交动态及其在HN上的讨论。",
+        "en": "The provided content titled \"Ox Alpha\" contains no article text. It consists solely of links to an OpenRouter post on Twitter/X (and a mirror) plus a Hacker News comments page discussing it, with 223 points and 174 comments. There is no descriptive or explanatory information to summarize, so no substantive details can be extracted beyond these references."
+      },
+      "summary": "该内容仅包含若干链接及元数据：指向OpenRouter在Twitter/X上的推文、备用镜像链接，以及Hacker News上对应的讨论页面，并附有点数（223分）和评论数（174条）。除此之外，未提供任何具体文章正文或推文内容说明。因此，无法总结实质信息，仅能确认其来源为OpenRouter的社交动态及其在HN上的讨论。"
+    },
+    {
+      "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+      "link": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+      "pubDate": "Thu, 20 Aug 2026 20:07:26 +0000",
+      "isoDate": "2026-08-20T20:07:26.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/\">https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49379550\">https://news.ycombinator.com/item?id=49379550</a></p>\n<p>Points: 1659</p>\n<p># Comments: 388</p>\n",
+      "contentSnippet": "Article URL: https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/\nComments URL: https://news.ycombinator.com/item?id=49379550\nPoints: 1659\n# Comments: 388",
+      "creator": "speckx",
+      "summaries": {
+        "zh": "文章标题对比了两位人物：Aaron Swartz（RSS联合创始人）因抓取数据而被起诉，而Meta做类似行为却几乎没有后果。文章指出这种司法和舆论上的双重标准，引发对科技巨头与个人违规者待遇不公的讨论。该内容来自一篇博客，并在Hacker News上获得330分、48条评论，反映出社区对此议题的关注与不满。",
+        "en": "Aaron Swartz, co-creator of RSS, was prosecuted for web scraping, while Meta engages in similar data collection practices with little consequence. The article criticizes this double standard, noting that Swartz faced severe legal action for actions that large tech companies now perform routinely. It raises concerns about how data access and scraping"
+      },
+      "summary": "文章标题对比了两位人物：Aaron Swartz（RSS联合创始人）因抓取数据而被起诉，而Meta做类似行为却几乎没有后果。文章指出这种司法和舆论上的双重标准，引发对科技巨头与个人违规者待遇不公的讨论。该内容来自一篇博客，并在Hacker News上获得330分、48条评论，反映出社区对此议题的关注与不满。"
+    },
+    {
+      "title": "Stop eating Lady Gaga's Oreos",
+      "link": "https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos",
+      "pubDate": "Thu, 20 Aug 2026 19:46:06 +0000",
+      "isoDate": "2026-08-20T19:46:06.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos\">https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49379253\">https://news.ycombinator.com/item?id=49379253</a></p>\n<p>Points: 201</p>\n<p># Comments: 134</p>\n",
+      "contentSnippet": "Article URL: https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos\nComments URL: https://news.ycombinator.com/item?id=49379253\nPoints: 201\n# Comments: 134",
+      "creator": "cwal37",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "The provided article content is empty, so no substantive information is available to summarize. The title, \"Stop eating Lady Gaga's Oreos,\" suggests a critical or satirical take on a limited-edition product, but without the actual text, the main points and arguments cannot be accurately captured. Therefore, no details have been invented, and the summary is limited to noting the absence of content."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "The August 17 outage",
+      "link": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+      "pubDate": "Thu, 20 Aug 2026 19:22:24 +0000",
+      "isoDate": "2026-08-20T19:22:24.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/\">https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49378957\">https://news.ycombinator.com/item?id=49378957</a></p>\n<p>Points: 634</p>\n<p># Comments: 747</p>\n",
+      "contentSnippet": "Article URL: https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/\nComments URL: https://news.ycombinator.com/item?id=49378957\nPoints: 634\n# Comments: 747",
+      "creator": "0xedb",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "The article content is empty, so no substantive details are available to summarize. Based solely on the title, the piece concerns an outage that occurred on August 17 and discusses the work ahead afterward. However, without the actual text, specific causes, impacts, or planned actions cannot be accurately reported. No further information is provided in the source."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-08-22T20:42:53.952Z"
+}

@@ -1,0 +1,135 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/v2ex/topics/hot",
+  "title": "V2EX-最热主题",
+  "description": "V2EX-最热主题 - Powered by RSSHub",
+  "link": "https://www.v2ex.com/",
+  "items": [
+    {
+      "title": "感觉 Vibe Coding 时代， Windows 系统要凉了",
+      "link": "https://www.v2ex.com/t/1236462",
+      "pubDate": "Sat, 22 Aug 2026 13:31:41 GMT",
+      "isoDate": "2026-08-22T13:31:41.000Z",
+      "content": "LimaEcho: 起因是感觉 Windows 系统太难受了。不管是什么模型，codex ，claude ，DeepSeek 都有反复死磕命令行，都不知道这几个月会浪费我多少 token ；<br><br>1.各位是否有同感呢？<br><br>2.有必要更换 Mac 吗，如果有，大家有什么推荐吗?<br>但是这个时间点买电脑又贵，有没有便宜的推荐，这种不需要很多的性能吧，没用过 Mac 系统，请教各位大佬<br><br>最近接了几个大项目，都赶在一起了，看他死磕，感觉难受",
+      "contentSnippet": "LimaEcho: 起因是感觉 Windows 系统太难受了。不管是什么模型，codex ，claude ，DeepSeek 都有反复死磕命令行，都不知道这几个月会浪费我多少 token ；\n1.各位是否有同感呢？\n2.有必要更换 Mac 吗，如果有，大家有什么推荐吗?\n但是这个时间点买电脑又贵，有没有便宜的推荐，这种不需要很多的性能吧，没用过 Mac 系统，请教各位大佬\n最近接了几个大项目，都赶在一起了，看他死磕，感觉难受",
+      "creator": "LimaEcho",
+      "summaries": {
+        "zh": "作者吐槽 Vibe Coding 时代 Windows 系统体验差，各种 AI 模型（如 Codex、Claude、DeepSeek）在命令行反复死磕，浪费大量 token。询问大家是否有同感，是否值得换 Mac，并求性价比高的便宜推荐，称自己没用过 Mac，近期项目集中，感到困扰。",
+        "en": "The article discusses frustrations with using Windows for AI-assisted coding, noting that models like Codex, Claude, and DeepSeek often struggle with the command line, wasting tokens. The author asks whether others share this experience and whether switching to a Mac is worth it. They also seek advice on affordable Mac recommendations, since current prices are high and they feel they don’t need high performance. Also, they have several large projects arriving and have never used macOS before."
+      },
+      "summary": "作者吐槽 Vibe Coding 时代 Windows 系统体验差，各种 AI 模型（如 Codex、Claude、DeepSeek）在命令行反复死磕，浪费大量 token。询问大家是否有同感，是否值得换 Mac，并求性价比高的便宜推荐，称自己没用过 Mac，近期项目集中，感到困扰。"
+    },
+    {
+      "title": "[Android 封闭测试] 找几位朋友帮忙体验《像素数织》，送完整内容兑换码",
+      "link": "https://www.v2ex.com/t/1236410",
+      "pubDate": "Sat, 22 Aug 2026 08:31:31 GMT",
+      "isoDate": "2026-08-22T08:31:31.000Z",
+      "content": "sherlockGou: <p>大家好，我开发的《像素数织》 Google Play 版本推进到封闭测试阶段了，想找几位平时喜欢益智游戏的朋友，帮我实际体验一下。</p>\n<p>《像素数织》是一款通过行列数字线索，还原像素图案的逻辑益智游戏。玩法比较简单：根据数字判断哪些格子应该填满，哪些格子应该留空，一步步推理，最后把隐藏的图案拼出来。</p>\n<p>它不太考验反应速度，主要是慢慢分析和排除。顺利解出一道比较大的题时，还是挺有成就感的。</p>\n<p>宣传截图如下：</p>\n<p><img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/ZLVsR7m.png\">\n<img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/Hin9Pui.png\">\n<img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/CHOQOJ5.png\">\n<img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/frDVchm.png\">\n<img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/CwwpUe7.png\"> </p>\n<p>参与方式：</p>\n<ol>\n<li>需要有 Android 手机，并且可以正常使用 Google Play</li>\n<li>留下邮箱我会邀请加入测试，并发放邀请码，数量有限(50 个)</li>\n<li>实际体验几关，或者试试自由模式、创造模式</li>\n<li>遇到 Bug 或有建议，可以在帖子里回复，也可以私信告诉我</li>\n</ol>\n<p>感谢大家，也欢迎喜欢 Nonogram 、数织、逻辑拼图类游戏的朋友来试试。</p>\n<p>很少在 V 站发帖，如果发布的节点有问题还请见谅并告知，我会移动到合适位置。</p>\n<p>谢谢大家～</p>\n",
+      "contentSnippet": "sherlockGou: \n大家好，我开发的《像素数织》 Google Play 版本推进到封闭测试阶段了，想找几位平时喜欢益智游戏的朋友，帮我实际体验一下。\n《像素数织》是一款通过行列数字线索，还原像素图案的逻辑益智游戏。玩法比较简单：根据数字判断哪些格子应该填满，哪些格子应该留空，一步步推理，最后把隐藏的图案拼出来。\n它不太考验反应速度，主要是慢慢分析和排除。顺利解出一道比较大的题时，还是挺有成就感的。\n宣传截图如下：\n\n\n\n\n \n参与方式：\n需要有 Android 手机，并且可以正常使用 Google Play\n留下邮箱我会邀请加入测试，并发放邀请码，数量有限(50 个)\n实际体验几关，或者试试自由模式、创造模式\n遇到 Bug 或有建议，可以在帖子里回复，也可以私信告诉我\n感谢大家，也欢迎喜欢 Nonogram 、数织、逻辑拼图类游戏的朋友来试试。\n很少在 V 站发帖，如果发布的节点有问题还请见谅并告知，我会移动到合适位置。\n谢谢大家～",
+      "creator": "sherlockGou",
+      "summaries": {
+        "zh": "《像素数织》进入 Google Play 封闭测试阶段，开发者招募喜欢益智游戏的玩家体验。这是一款根据行列数字线索推理并还原图案的逻辑数织游戏，不考验反应速度，重在分析排除。参与者需有 Android 手机并能使用 Google Play，留下邮箱可获得邀请码，共 50 个名额。测试中可体验几关或自由、创造模式，遇 Bug 或建议可反馈。",
+        "en": "The developer of *Pixel Picross* (像素数织) is recruiting about 50 testers for the Android closed beta on Google Play. It’s a logic puzzle game where players use row and column number clues to fill or leave cells blank, gradually revealing hidden pixel art. It emphasizes analysis and deduction rather than reaction speed. Participants need an Android phone and Google Play access. To join, leave an email for an invite and a redemption code. Testers are asked to play several levels, try free or creative modes, and report bugs or suggestions."
+      },
+      "summary": "《像素数织》进入 Google Play 封闭测试阶段，开发者招募喜欢益智游戏的玩家体验。这是一款根据行列数字线索推理并还原图案的逻辑数织游戏，不考验反应速度，重在分析排除。参与者需有 Android 手机并能使用 Google Play，留下邮箱可获得邀请码，共 50 个名额。测试中可体验几关或自由、创造模式，遇 Bug 或建议可反馈。"
+    },
+    {
+      "title": "你们开梯子会有反诈中心的电话打来吗",
+      "link": "https://www.v2ex.com/t/1236394",
+      "pubDate": "Sat, 22 Aug 2026 06:49:52 GMT",
+      "isoDate": "2026-08-22T06:49:52.000Z",
+      "content": "asmallcake: <p>国产手机，开梯子会有反诈中心 96110 电话打来吗，如何预防呢？</p>\n",
+      "contentSnippet": "asmallcake: \n国产手机，开梯子会有反诈中心 96110 电话打来吗，如何预防呢？",
+      "creator": "asmallcake",
+      "summaries": {
+        "zh": "根据文章内容，用户询问使用国产手机开启“梯子”（VPN）时，是否会接到反诈中心96110的电话，以及如何预防。文章仅提出该问题，未提供具体答案或预防措施，因此无法补充更多细节，仅客观概括原意。",
+        "en": "The article is a short user question in Chinese. The title asks: \"Do you get calls from the anti-fraud center when using a VPN?\" The content is from a user who asks whether using a VPN on a domestic (Chinese) phone will trigger a call from the anti-fraud center at 96110, and how to prevent this from happening. No further information or answers are provided. The content is limited to this single inquiry, offering no additional details or advice."
+      },
+      "summary": "根据文章内容，用户询问使用国产手机开启“梯子”（VPN）时，是否会接到反诈中心96110的电话，以及如何预防。文章仅提出该问题，未提供具体答案或预防措施，因此无法补充更多细节，仅客观概括原意。"
+    },
+    {
+      "title": "亲人去世后的手机破解问题",
+      "link": "https://www.v2ex.com/t/1236385",
+      "pubDate": "Sat, 22 Aug 2026 05:57:58 GMT",
+      "isoDate": "2026-08-22T05:57:58.000Z",
+      "content": "q307990588: <p>现在有一亲人去世了，他留下了一部锁屏的红米手机。</p>\n<p>现在需要输入四位数的数字密码来解锁。</p>\n<p>我问了几个 AI ，能不能通过电脑连接手机，然后尝试自动破解，也就是不停的不停的输入各种四位数的组合，直到解锁。</p>\n<p>AI 不知道是受到安全限制，还是真的无法做到。</p>\n<p>说是只能通过人工来输入四位数的数字来尝试暴力破解。</p>\n<p>我想在这里问一下大家。还有没有其他的更好的方案？</p>\n<p>人工输入四位数字的话，需要输入 1 万次。</p>\n<p>每次输入后的平均等待时间大概是 5 分钟，这个耗时太久了。</p>\n",
+      "contentSnippet": "q307990588: \n现在有一亲人去世了，他留下了一部锁屏的红米手机。\n现在需要输入四位数的数字密码来解锁。\n我问了几个 AI ，能不能通过电脑连接手机，然后尝试自动破解，也就是不停的不停的输入各种四位数的组合，直到解锁。\nAI 不知道是受到安全限制，还是真的无法做到。\n说是只能通过人工来输入四位数的数字来尝试暴力破解。\n我想在这里问一下大家。还有没有其他的更好的方案？\n人工输入四位数字的话，需要输入 1 万次。\n每次输入后的平均等待时间大概是 5 分钟，这个耗时太久了。",
+      "creator": "q307990588",
+      "summaries": {
+        "zh": "一位用户询问如何解锁已故亲人留下的红米手机，需要输入四位数字密码。用户咨询AI后得知无法通过电脑自动破解，只能人工尝试所有组合，共需输入一万次，且每次平均等待约五分钟，耗时过长。用户希望寻找更高效的解决方案。",
+        "en": "The article discusses the problem of unlocking a deceased relative’s locked Redmi phone, which requires a four-digit PIN. The author asked AI services whether the phone could be connected to a computer to automate brute-force attempts, but they said it could only be done manually. Entering all 10,000 possible combinations would take too long, especially with an average five-minute wait after each attempt. The author is asking for alternative, faster solutions."
+      },
+      "summary": "一位用户询问如何解锁已故亲人留下的红米手机，需要输入四位数字密码。用户咨询AI后得知无法通过电脑自动破解，只能人工尝试所有组合，共需输入一万次，且每次平均等待约五分钟，耗时过长。用户希望寻找更高效的解决方案。"
+    },
+    {
+      "title": "[Air Router] GPT Plus 0.1 风控期间依然稳健, 还有 CC 1x, Pro 0.2, Grok Heavy 0.2, 新用户留言 ID 可得 5$额度,现在充值额外赠 10%",
+      "link": "https://www.v2ex.com/t/1236362",
+      "pubDate": "Sat, 22 Aug 2026 02:59:39 GMT",
+      "isoDate": "2026-08-22T02:59:39.000Z",
+      "content": "violin84: <h1>Air Router：希望提供和呼吸一样便捷的 AI 服务</h1>\n<ul>\n<li><strong>站点地址： <a href=\"https://www.air-router.com/\" rel=\"nofollow\">https://www.air-router.com</a></strong></li>\n<li><strong>充值地址： <a href=\"https://catfk.com/shop/air-router\" rel=\"nofollow\">https://catfk.com/shop/air-router</a></strong></li>\n</ul>\n<h2>价格</h2>\n<table>\n<thead>\n<tr>\n<th>模型</th>\n<th>倍率</th>\n<th>备注</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>GPT Plus</td>\n<td><strong>0.1x</strong></td>\n<td>最近拉闸的很厉害，但依然比较稳定</td>\n</tr>\n<tr>\n<td>GPT Pro</td>\n<td><strong>0.2x</strong></td>\n<td>正价号池，非黑</td>\n</tr>\n<tr>\n<td>Claude Max</td>\n<td><strong>1.0x</strong></td>\n<td>缓存读取 5 折, 不是逆向, 毛子渠道, 是 CC Max</td>\n</tr>\n<tr>\n<td>GROK Super</td>\n<td><strong>0.1x</strong></td>\n<td>—</td>\n</tr>\n<tr>\n<td>GROK Heavy</td>\n<td><strong>0.2x</strong></td>\n<td>—</td>\n</tr>\n</tbody></table><h2>最近 24H 可用率</h2>\n<p>sub2api 自带的, 每秒 token 有点儿 bug\n<img alt=\"24H 可用率\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://s3.bmp.ovh/2026/08/21/qQjB2PUV.png\"></p>\n<h2>优势与劣势</h2>\n<p><strong>优势</strong></p>\n<ol>\n<li>不是最低的价格，适合有一定稳定性需求的个人用户</li>\n<li>非超级风控，价格基本不会变，目前的价格基本是能兼容稳定性和可用率的极限</li>\n</ol>\n<p><strong>劣势</strong></p>\n<ol>\n<li>无法开票</li>\n</ol>\n<h2>当前活动</h2>\n<ol>\n<li>充值额外赠送 **10%**（售后群联系群主）</li>\n<li>本帖注册回复 ID 即可获取 <strong>5$ 体验额度</strong>，可以使用任何分组</li>\n</ol>\n<p>ID 在右上角：</p>\n<p><img alt=\"ID 位置\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://s3.bmp.ovh/2026/08/21/xyxZyAWZ.png\"></p>\n<h2>最后想说的</h2>\n<ul>\n<li>虽然是个小站，但绝不渗水</li>\n<li>AFF：<strong>5%</strong></li>\n<li>退款无手续费</li>\n<li>售后群：<strong>491111762</strong></li>\n</ul>\n",
+      "contentSnippet": "violin84: \nAir Router：希望提供和呼吸一样便捷的 AI 服务\n站点地址： https://www.air-router.com\n充值地址： https://catfk.com/shop/air-router\n价格\n模型\n倍率\n备注\n\n\n\n\nGPT Plus\n0.1x\n最近拉闸的很厉害，但依然比较稳定\n\n\nGPT Pro\n0.2x\n正价号池，非黑\n\n\nClaude Max\n1.0x\n缓存读取 5 折, 不是逆向, 毛子渠道, 是 CC Max\n\n\nGROK Super\n0.1x\n—\n\n\nGROK Heavy\n0.2x\n—\n\n\n最近 24H 可用率\nsub2api 自带的, 每秒 token 有点儿 bug\n\n优势与劣势\n优势\n不是最低的价格，适合有一定稳定性需求的个人用户\n非超级风控，价格基本不会变，目前的价格基本是能兼容稳定性和可用率的极限\n劣势\n无法开票\n当前活动\n充值额外赠送 **10%**（售后群联系群主）\n本帖注册回复 ID 即可获取 5$ 体验额度，可以使用任何分组\nID 在右上角：\n\n最后想说的\n虽然是个小站，但绝不渗水\nAFF：5%\n退款无手续费\n售后群：491111762",
+      "creator": "violin84",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Air Router is an AI API proxy service site. It offers access to multiple models with multiplier-based pricing: GPT Plus at 0.1x, GPT Pro at 0.2x, Claude Max at 1.0x with 50% off cache reads, Grok Super at 0.1x, and Grok Heavy at 0.2x. The site claims stable performance despite GPT Plus risk-control measures. Current promotions include a $5 trial credit for new users who post their ID, plus an extra 10% recharge bonus. No invoicing is provided; 5% affiliate program and no-refund-fee policy are also noted."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "[送码] 做了一个 Apple tv 上的小红书 Rouge",
+      "link": "https://www.v2ex.com/t/1236360",
+      "pubDate": "Sat, 22 Aug 2026 02:43:11 GMT",
+      "isoDate": "2026-08-22T02:43:11.000Z",
+      "content": "mdah233: <p>Apple tv 上已经可以刷 B 站、抖音了，还缺少一个小红书，毕竟现在看小红书视频的时间已经超过了 B 站和抖音，自己有需求于是做了一款 tv OS 端的小红书 APP 。目标场景在沙发上刷起 Apple tv 就不想拿手机来看，看久了电影电视剧长视频想刷一刷社交媒体和短视频放松一下。</p>\n<p>核心功能：</p>\n<ul>\n<li>浏览小红书推荐瀑布流</li>\n<li>浏览小红书笔记图文和评论</li>\n<li>独立的视频页签，专门沉浸式播放视频流</li>\n<li>查看个人主页，笔记、点赞、收藏</li>\n<li>支持多帐号登录切换</li>\n</ul>\n<p><img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/pjVtRrR.png\"> </p>\n<p><img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://imgur.com/RfU25Zi.png\"></p>\n<p><img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://imgur.com/ktBUwvx.png\"></p>\n<p><img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/VUGBfXD.png\"> </p>\n<p>目前已经发布到 appstore 直接搜索名称 Rouge 或者通过 <a href=\"https://apps.apple.com/us/app/rouge/id6799992309\" rel=\"nofollow\">商店链接</a> 下载，目前早期版本售价：2$，后续功能完善后可能会涨价。</p>\n<p>同时欢迎大家加入 TF 参与测试： <a href=\"https://testflight.apple.com/join/15CTWsQW\" rel=\"nofollow\">https://testflight.apple.com/join/15CTWsQW</a></p>\n<p>最后评论区送 10 个兑换码。</p>\n",
+      "contentSnippet": "mdah233: \nApple tv 上已经可以刷 B 站、抖音了，还缺少一个小红书，毕竟现在看小红书视频的时间已经超过了 B 站和抖音，自己有需求于是做了一款 tv OS 端的小红书 APP 。目标场景在沙发上刷起 Apple tv 就不想拿手机来看，看久了电影电视剧长视频想刷一刷社交媒体和短视频放松一下。\n核心功能：\n浏览小红书推荐瀑布流\n浏览小红书笔记图文和评论\n独立的视频页签，专门沉浸式播放视频流\n查看个人主页，笔记、点赞、收藏\n支持多帐号登录切换\n \n\n\n \n目前已经发布到 appstore 直接搜索名称 Rouge 或者通过 商店链接 下载，目前早期版本售价：2$，后续功能完善后可能会涨价。\n同时欢迎大家加入 TF 参与测试： https://testflight.apple.com/join/15CTWsQW\n最后评论区送 10 个兑换码。",
+      "creator": "mdah233",
+      "summaries": {
+        "zh": "开发者发布了一款适用于 Apple TV 的小红书客户端“Rouge”，填补了该平台缺少小红书应用的空白。核心功能包括浏览推荐瀑布流、查看图文与评论、沉浸式视频播放、个人主页管理以及多账号切换。目前已在 App Store 上架，售价 2 美元，后续可能涨价；同时提供 TestFlight 测试，并在评论区赠送 10 个兑换码。",
+        "en": "The article introduces Rouge, a new Apple TV app for browsing Xiaohongshu (RED) videos and posts. The developer created it because Xiaohongshu content is now watched more than Bilibili or Douyin, and they wanted a TV-friendly experience.\n\nKey features include a recommendation waterfall feed, note and comment viewing, an immersive video tab, personal profile access, and multi-account login. The app is available on the App Store for $2 as an early version, with a possible price increase later. The developer also shares a TestFlight link and says 10 promo codes will be given in the comments."
+      },
+      "summary": "开发者发布了一款适用于 Apple TV 的小红书客户端“Rouge”，填补了该平台缺少小红书应用的空白。核心功能包括浏览推荐瀑布流、查看图文与评论、沉浸式视频播放、个人主页管理以及多账号切换。目前已在 App Store 上架，售价 2 美元，后续可能涨价；同时提供 TestFlight 测试，并在评论区赠送 10 个兑换码。"
+    },
+    {
+      "title": "纯直男求推荐一些靠谱的护肤/美白品,我对美妆完全不通.找资料看的头大感觉基本都是带货的.",
+      "link": "https://www.v2ex.com/t/1236355",
+      "pubDate": "Sat, 22 Aug 2026 02:28:27 GMT",
+      "isoDate": "2026-08-22T02:28:27.000Z",
+      "content": "cvooc: <p>之前出去浪, 把皮肤晒脱皮了, 最近俩月往回调, 感觉似乎的确比之前很了很多, </p>\n<p>而且肤色不均了, 脸/脖子/大腿/小腿 四个颜色.</p>\n<p>比如水杨酸/烟氨酸/377 这种各种乱七八糟的元素, 基本上可以出现在洗面奶/面霜/沐浴露/面膜, 等等各种乱七八糟的地方, 能查到的都是各种带货, 也不知道有没有用.</p>\n<p>问下路过的兄弟, 你们都在用哪些护肤品? 有哪些有效的?</p>\n<p>我主要就是想找找美白和护肤的, 把肤色调整一下. 速效也行, 我不是敏感肌.</p>\n",
+      "contentSnippet": "cvooc: \n之前出去浪, 把皮肤晒脱皮了, 最近俩月往回调, 感觉似乎的确比之前很了很多, \n而且肤色不均了, 脸/脖子/大腿/小腿 四个颜色.\n比如水杨酸/烟氨酸/377 这种各种乱七八糟的元素, 基本上可以出现在洗面奶/面霜/沐浴露/面膜, 等等各种乱七八糟的地方, 能查到的都是各种带货, 也不知道有没有用.\n问下路过的兄弟, 你们都在用哪些护肤品? 有哪些有效的?\n我主要就是想找找美白和护肤的, 把肤色调整一下. 速效也行, 我不是敏感肌.",
+      "creator": "cvooc",
+      "summaries": {
+        "zh": "一名男性用户因晒伤导致皮肤脱皮、肤色不均，想寻求靠谱的美白护肤品，但认为网上资料多为带货，感到困惑。他提到常见成分如水杨酸、烟酰胺、377等，并询问路过的兄弟实际有效产品，要求非敏感肌、可接受速效。",
+        "en": "A Chinese-language forum user, a self-described skincare novice, asks for reliable skincare and whitening product recommendations. They sunburned and peeled recently, and now have uneven skin tone across their face, neck, thighs, and calves. They find ingredient information (e.g., salicylic acid, niacinamide, 377) confusing and believe most online content is promotional. They want effective, non-sensitive-skin products to brighten and even out skin tone, and are open to fast-acting options. The post contains no specific product recommendations, only the user's request."
+      },
+      "summary": "一名男性用户因晒伤导致皮肤脱皮、肤色不均，想寻求靠谱的美白护肤品，但认为网上资料多为带货，感到困惑。他提到常见成分如水杨酸、烟酰胺、377等，并询问路过的兄弟实际有效产品，要求非敏感肌、可接受速效。"
+    },
+    {
+      "title": "35+男士保养有哪些？？",
+      "link": "https://www.v2ex.com/t/1236333",
+      "pubDate": "Sat, 22 Aug 2026 00:33:25 GMT",
+      "isoDate": "2026-08-22T00:33:25.000Z",
+      "content": "OBJECTION: <p>平时健身哈 肌酸啥的 鱼油有必要加吗？ </p>\n<p>主要是平时随餐的 VB 和葡萄糖酸辛片 很便宜的那种(记得好像是 tb 上的虎扑五件套)  就中午随餐两粒</p>\n<p>大家还有啥可以分享的？？</p>\n<p>自己平时也有眼袋 然后看 douyin 肝素钠。。但是发现自己用了 没啥效果 反而容易眼睛红。。。</p>\n",
+      "contentSnippet": "OBJECTION: \n平时健身哈 肌酸啥的 鱼油有必要加吗？ \n主要是平时随餐的 VB 和葡萄糖酸辛片 很便宜的那种(记得好像是 tb 上的虎扑五件套)  就中午随餐两粒\n大家还有啥可以分享的？？\n自己平时也有眼袋 然后看 douyin 肝素钠。。但是发现自己用了 没啥效果 反而容易眼睛红。。。",
+      "creator": "OBJECTION",
+      "summaries": {
+        "zh": "35岁以上男士保养方面，有人分享平时健身，服用肌酸、鱼油、维生素B和葡萄糖酸锌片（廉价组合）。针对眼袋问题，尝试了抖音推荐的肝素钠，但效果不佳，反而导致眼睛发红。整体在寻求更多保养建议。",
+        "en": "The post asks about health and supplement routines for men over 35. The author regularly works out and wonders whether creatine and fish oil are necessary additions. Currently, they take inexpensive B vitamins and zinc gluconate with lunch. They also mention having under-eye bags and trying heparin sodium from Douyin, but it didn’t work and caused eye redness. They ask others for sharing their recommendations or experiences."
+      },
+      "summary": "35岁以上男士保养方面，有人分享平时健身，服用肌酸、鱼油、维生素B和葡萄糖酸锌片（廉价组合）。针对眼袋问题，尝试了抖音推荐的肝素钠，但效果不佳，反而导致眼睛发红。整体在寻求更多保养建议。"
+    },
+    {
+      "title": "网传：程序员失业后，被离婚周期是半年，可信度多少？",
+      "link": "https://www.v2ex.com/t/1236332",
+      "pubDate": "Sat, 22 Aug 2026 00:12:54 GMT",
+      "isoDate": "2026-08-22T00:12:54.000Z",
+      "content": "craftx: ",
+      "contentSnippet": "craftx:",
+      "creator": "craftx",
+      "summaries": {
+        "zh": "网上流传“程序员失业后，被离婚周期是半年”的说法。但原文内容仅显示“craftx:”，并未提供任何具体数据、案例或分析，因此该说法缺乏实质信息支撑，可信度无从判断。",
+        "en": "The article title raises an online claim that programmers face a divorce within roughly six months of losing their job, and questions its credibility. However, the provided content is empty, containing only a placeholder (“craftx”). No supporting details, evidence, or analysis are available. Therefore, no substantive information can be summarized beyond the title’s stated rumor and the absence of actual article content."
+      },
+      "summary": "网上流传“程序员失业后，被离婚周期是半年”的说法。但原文内容仅显示“craftx:”，并未提供任何具体数据、案例或分析，因此该说法缺乏实质信息支撑，可信度无从判断。"
+    }
+  ],
+  "lastUpdated": "2026-08-22T20:42:44.589Z"
+}

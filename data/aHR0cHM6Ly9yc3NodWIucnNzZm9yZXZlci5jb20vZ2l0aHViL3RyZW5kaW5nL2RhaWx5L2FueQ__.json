@@ -1,0 +1,247 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "openai/codex",
+      "link": "https://github.com/openai/codex",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/b1a1a5b23cd2f10704e8a735241ecbd22d689b2b56b99cc3820adfc48b089821/openai/codex\" referrerpolicy=\"no-referrer\"><br>Lightweight coding agent that runs in your terminal<br><br>Language: Rust<br>Stars: 113063<br>Forks: 17339",
+      "contentSnippet": "Lightweight coding agent that runs in your terminal\nLanguage: Rust\nStars: 113063\nForks: 17339",
+      "creator": "openai",
+      "summaries": {
+        "zh": "openai/codex 是一个轻量级编码代理，可直接在终端中运行。该项目使用 Rust 语言开发，目前在 GitHub 上拥有约 11.2 万颗星标和 1.7 万个分支（fork）。它旨在为开发者提供便捷的终端内编码辅助工具。",
+        "en": "OpenAI's Codex is a lightweight coding agent designed to run directly in your terminal. The project is written in Rust and has gained significant traction, with approximately 112,000 stars and 17,000 forks on GitHub. It appears to focus on providing a simple, terminal-based assistant for coding tasks."
+      },
+      "summary": "openai/codex 是一个轻量级编码代理，可直接在终端中运行。该项目使用 Rust 语言开发，目前在 GitHub 上拥有约 11.2 万颗星标和 1.7 万个分支（fork）。它旨在为开发者提供便捷的终端内编码辅助工具。"
+    },
+    {
+      "title": "mattpocock/skills",
+      "link": "https://github.com/mattpocock/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/77c286db21779fffb9c4791052ea7b5a530ed609e3c866e17b6b146bbeabd9c5/mattpocock/skills\" referrerpolicy=\"no-referrer\"><br>Skills for Real Engineers. Straight from my .agents directory.<br><br>Language: Shell<br>Stars: 231757<br>Forks: 19776",
+      "contentSnippet": "Skills for Real Engineers. Straight from my .agents directory.\nLanguage: Shell\nStars: 231757\nForks: 19776",
+      "creator": "mattpocock",
+      "summaries": {
+        "zh": "该内容是一个名为 `mattpocock/skills` 的 GitHub 仓库，主题为“真实工程师的技能”，内容直接来自作者的 `.agents` 目录。仓库主要使用 Shell 语言编写，共获得 222930 颗星和 19197 次分叉。该仓库可能旨在分享实用的工程师技能或配置，但原文未提供更详细的功能说明或文档内容，因此仅能基于现有信息进行概述。",
+        "en": "Matt Pocock's GitHub repository, \"skills,\" provides engineering skills sourced directly from his agents directory. It is written in Shell and has garnered significant attention with 222,930 stars and 19,197 forks. The project appears to offer practical, real-world engineering skills rather than a comprehensive guide."
+      },
+      "summary": "该内容是一个名为 `mattpocock/skills` 的 GitHub 仓库，主题为“真实工程师的技能”，内容直接来自作者的 `.agents` 目录。仓库主要使用 Shell 语言编写，共获得 222930 颗星和 19197 次分叉。该仓库可能旨在分享实用的工程师技能或配置，但原文未提供更详细的功能说明或文档内容，因此仅能基于现有信息进行概述。"
+    },
+    {
+      "title": "affaan-m/ECC",
+      "link": "https://github.com/affaan-m/ECC",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/1d488819837349cc6a2d7a7ee91916028f4d843e69a3cfe84ab8334fbe4b5965/affaan-m/ECC\" referrerpolicy=\"no-referrer\"><br>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.<br><br>Language: JavaScript<br>Stars: 242123<br>Forks: 36698",
+      "contentSnippet": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.\nLanguage: JavaScript\nStars: 242123\nForks: 36698",
+      "creator": "affaan-m",
+      "summaries": {
+        "zh": "ECC（affaan-m/ECC）是一个智能体工具链性能优化系统，支持 Claude Code、Codex、Opencode、Cursor 等平台。它提供技能、直觉、记忆、安全以及研究优先的开发能力。该项目使用 JavaScript 编写，目前拥有 241,746 颗星和 36,651 个分支（fork）。",
+        "en": "ECC is an agent harness performance optimization system designed to enhance development tools like Claude Code, Codex, Opencode, and Cursor. It incorporates features such as skills, instincts, memory, security, and a research-first development approach. The project is built with JavaScript and has gained significant traction, amassing 241,746 stars and 36,651 forks on GitHub."
+      },
+      "summary": "ECC（affaan-m/ECC）是一个智能体工具链性能优化系统，支持 Claude Code、Codex、Opencode、Cursor 等平台。它提供技能、直觉、记忆、安全以及研究优先的开发能力。该项目使用 JavaScript 编写，目前拥有 241,746 颗星和 36,651 个分支（fork）。"
+    },
+    {
+      "title": "obra/superpowers",
+      "link": "https://github.com/obra/superpowers",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/f212b5e5277fbf658018a4a8c081896a6bf30d2c05cfaa3d3d271c5e00767e9d/obra/superpowers\" referrerpolicy=\"no-referrer\"><br>An agentic skills framework &amp; software development methodology that works.<br><br>Language: Shell<br>Stars: 276122<br>Forks: 24693",
+      "contentSnippet": "An agentic skills framework & software development methodology that works.\nLanguage: Shell\nStars: 276122\nForks: 24693",
+      "creator": "obra",
+      "summaries": {
+        "zh": "该仓库名为 obra/superpowers，介绍了一种有效的智能体技能框架及软件开发方法论。项目主要使用 Shell 语言编写。其 GitHub 数据表现为：274,019 个 Star，24,533 个 Fork，显示出较高的关注度。简而言之，该内容围绕一个可用的智能体技能体系与软件工程方法展开，并附有基础的仓库信息。",
+        "en": "The article describes \"obra/superpowers,\" a GitHub repository presenting an agentic skills framework and software development methodology. It is written in Shell and has gained significant traction, with 274,019 stars and 24,533 forks. The summary highlights its purpose and popularity without additional detail."
+      },
+      "summary": "该仓库名为 obra/superpowers，介绍了一种有效的智能体技能框架及软件开发方法论。项目主要使用 Shell 语言编写。其 GitHub 数据表现为：274,019 个 Star，24,533 个 Fork，显示出较高的关注度。简而言之，该内容围绕一个可用的智能体技能体系与软件工程方法展开，并附有基础的仓库信息。"
+    },
+    {
+      "title": "Wei-Shaw/sub2api",
+      "link": "https://github.com/Wei-Shaw/sub2api",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/3311c3ab227da17c73428bdf22eb837c7ede926e90f6063d957678626db4786d/Wei-Shaw/sub2api\" referrerpolicy=\"no-referrer\"><br>Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。<br><br>Language: Go<br>Stars: 38763<br>Forks: 8037",
+      "contentSnippet": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。\nLanguage: Go\nStars: 38763\nForks: 8037",
+      "creator": "Wei-Shaw",
+      "summaries": {
+        "zh": "Sub2API 是一个开源中转服务，采用 Go 语言开发。它支持将 Claude、OpenAI、Gemini、Grok 等订阅统一接入，便于用户拼车共享，从而更高效地分摊成本，并可无缝使用原生工具。该项目在 GitHub 上拥有 38688 颗星和 8025 个 fork。",
+        "en": "Sub2API is an open-source relay service that unifies access to multiple AI subscriptions, including Claude, OpenAI, Gemini, and Grok. It supports shared usage (“carpooling”) to distribute costs more efficiently while allowing seamless use with native tools. The project is written in Go and has gained significant traction, with approximately 38,688 stars and 8,025 forks on GitHub."
+      },
+      "summary": "Sub2API 是一个开源中转服务，采用 Go 语言开发。它支持将 Claude、OpenAI、Gemini、Grok 等订阅统一接入，便于用户拼车共享，从而更高效地分摊成本，并可无缝使用原生工具。该项目在 GitHub 上拥有 38688 颗星和 8025 个 fork。"
+    },
+    {
+      "title": "makeplane/plane",
+      "link": "https://github.com/makeplane/plane",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/568098118/a2d75f51-b51a-4a79-9364-b04f3778102e\" referrerpolicy=\"no-referrer\"><br>🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.<br><br>Language: TypeScript<br>Stars: 57174<br>Forks: 5438",
+      "contentSnippet": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.\nLanguage: TypeScript\nStars: 57174\nForks: 5438",
+      "creator": "makeplane",
+      "summaries": {
+        "zh": "Plane 是一个开源的现代项目管理平台，旨在替代 Jira、Linear、Monday 和 ClickUp。它支持任务管理、迭代（sprints）、文档和问题分类（triage）等功能。该项目使用 TypeScript 开发，在 GitHub 上拥有 57,055 颗星和 5,432 个 Fork，社区关注度较高。",
+        "en": "Plane is an open-source project management platform positioned as an alternative to tools like Jira, Linear, Monday, and ClickUp. It supports managing tasks, sprints, documentation, and triage workflows. The project is written in TypeScript and has gained significant traction, with approximately 57,000 stars and 5,400 forks on GitHub."
+      },
+      "summary": "Plane 是一个开源的现代项目管理平台，旨在替代 Jira、Linear、Monday 和 ClickUp。它支持任务管理、迭代（sprints）、文档和问题分类（triage）等功能。该项目使用 TypeScript 开发，在 GitHub 上拥有 57,055 颗星和 5,432 个 Fork，社区关注度较高。"
+    },
+    {
+      "title": "n8n-io/n8n",
+      "link": "https://github.com/n8n-io/n8n",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/193215554/df34b36d-279c-496c-91c2-959dd9c9f13d\" referrerpolicy=\"no-referrer\"><br>Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.<br><br>Language: TypeScript<br>Stars: 201756<br>Forks: 60298",
+      "contentSnippet": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.\nLanguage: TypeScript\nStars: 201756\nForks: 60298",
+      "creator": "n8n-io",
+      "summaries": {
+        "zh": "n8n 是一个采用公平代码（fair-code）许可的工作流自动化平台，原生支持 AI 能力。它支持可视化搭建与自定义代码结合，既可选择自托管，也可使用云端服务，并集成超过 400 个应用。项目使用 TypeScript 编写，在 GitHub 上拥有约 20.16 万星标和 6.03 万分支，社区关注度较高。",
+        "en": "n8n is a fair-code workflow automation platform that combines visual building with custom code. It offers native AI capabilities, supports self-hosting or cloud deployment, and integrates with over 400 services. Written in TypeScript, the project is highly popular, with over 201,000 stars and 60,000 forks on GitHub."
+      },
+      "summary": "n8n 是一个采用公平代码（fair-code）许可的工作流自动化平台，原生支持 AI 能力。它支持可视化搭建与自定义代码结合，既可选择自托管，也可使用云端服务，并集成超过 400 个应用。项目使用 TypeScript 编写，在 GitHub 上拥有约 20.16 万星标和 6.03 万分支，社区关注度较高。"
+    },
+    {
+      "title": "anthropics/claude-code",
+      "link": "https://github.com/anthropics/claude-code",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/035f0409c9aecb0091fe97c3e921eb46914f4879dbe10b9879ae5122a6dc96dc/anthropics/claude-code\" referrerpolicy=\"no-referrer\"><br>Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.<br><br>Language: Python<br>Stars: 142493<br>Forks: 22837",
+      "contentSnippet": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.\nLanguage: Python\nStars: 142493\nForks: 22837",
+      "creator": "anthropics",
+      "summaries": {
+        "zh": "Claude Code 是一款智能编程工具，运行于终端中，能够理解用户代码库，并通过自然语言指令协助开发者加速编码。其核心功能包括执行常规任务、解释复杂代码以及处理 Git 工作流。该项目使用 Python 编写，在 GitHub 上拥有 142,372 颗星和 22,827 个分支，显示出较高的社区关注度。",
+        "en": "Claude Code is an agentic coding tool that operates within the terminal. It understands a user's codebase and enables faster coding through natural language commands. Its core functions include executing routine tasks, explaining complex code, and handling git workflows. The project is developed in Python and has gained significant traction, evidenced by 142,372 stars and 22,827 forks on GitHub, indicating a widely adopted open-source tool."
+      },
+      "summary": "Claude Code 是一款智能编程工具，运行于终端中，能够理解用户代码库，并通过自然语言指令协助开发者加速编码。其核心功能包括执行常规任务、解释复杂代码以及处理 Git 工作流。该项目使用 Python 编写，在 GitHub 上拥有 142,372 颗星和 22,827 个分支，显示出较高的社区关注度。"
+    },
+    {
+      "title": "AprilNEA/OpenLogi",
+      "link": "https://github.com/AprilNEA/OpenLogi",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1248194723/027636c2-3777-4a45-b2f4-e64950b94a13\" referrerpolicy=\"no-referrer\"><br>⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.<br><br>Language: Rust<br>Stars: 13771<br>Forks: 368",
+      "contentSnippet": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.\nLanguage: Rust\nStars: 13771\nForks: 368",
+      "creator": "AprilNEA",
+      "summaries": {
+        "zh": "AprilNEA/OpenLogi 是一个用 Rust 编写的原生本地优先工具，旨在替代 Logitech Options+。它支持通过 HID++ 协议重新映射鼠标按键、调整 DPI 及启用 SmartShift 功能。该工具无需账户，不收集遥测数据，强调隐私与本地运行。项目语言为 Rust，目前在 GitHub 上拥有约 10986 颗星和 304 个 fork，受到开发者社区关注。",
+        "en": "OpenLogi is a native, local-first alternative to Logitech Options+, built in Rust. It allows users to remap buttons, adjust DPI, and control SmartShift via HID++, without requiring an account or transmitting telemetry. The project emphasizes privacy and offline functionality. As of the data provided, it has approximately 10,986 stars and 304 forks on GitHub, indicating notable community interest."
+      },
+      "summary": "AprilNEA/OpenLogi 是一个用 Rust 编写的原生本地优先工具，旨在替代 Logitech Options+。它支持通过 HID++ 协议重新映射鼠标按键、调整 DPI 及启用 SmartShift 功能。该工具无需账户，不收集遥测数据，强调隐私与本地运行。项目语言为 Rust，目前在 GitHub 上拥有约 10986 颗星和 304 个 fork，受到开发者社区关注。"
+    },
+    {
+      "title": "modular/modular",
+      "link": "https://github.com/modular/modular",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/13fb3f76f1e174ca456d3ffc113c081679dedcae92b0b2d2a9e681113f2b7bda/modular/modular\" referrerpolicy=\"no-referrer\"><br>The Modular Platform (includes MAX &amp; Mojo)<br><br>Language: Mojo<br>Stars: 28821<br>Forks: 3065",
+      "contentSnippet": "The Modular Platform (includes MAX & Mojo)\nLanguage: Mojo\nStars: 28821\nForks: 3065",
+      "creator": "modular",
+      "summaries": {
+        "zh": "该内容介绍的是GitHub上的“modular/modular”仓库。该平台名为Modular，包含MAX与Mojo两大组件。项目主要使用Mojo语言开发。仓库目前获得27441颗星，以及2971次分支（fork）。整体来看，这是一个关于Modular平台及其Mojo编程语言的开源项目，展示了其在开发者社区的关注度与使用情况。",
+        "en": "The article describes the Modular Platform, a repository that includes MAX and Mojo. It is primarily written in the Mojo language. The project has gained significant community traction, with 27,441 stars and 2,971 forks. Overall, this appears to be a popular open-source platform hosted under the name \"modular/modular,\" highlighting its technical foundation and user adoption metrics."
+      },
+      "summary": "该内容介绍的是GitHub上的“modular/modular”仓库。该平台名为Modular，包含MAX与Mojo两大组件。项目主要使用Mojo语言开发。仓库目前获得27441颗星，以及2971次分支（fork）。整体来看，这是一个关于Modular平台及其Mojo编程语言的开源项目，展示了其在开发者社区的关注度与使用情况。"
+    },
+    {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "link": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/774d47a46c21bab5a8a45d7ac92746edee2dff4bc547e9b4a613488091c13822/multica-ai/andrej-karpathy-skills\" referrerpolicy=\"no-referrer\"><br>A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.<br><br>Language: Unknown<br>Stars: 205243<br>Forks: 21005",
+      "contentSnippet": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.\nLanguage: Unknown\nStars: 205243\nForks: 21005",
+      "creator": "multica-ai",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "The repository \"multica-ai/andrej-karpathy-skills\" offers a single CLAUDE.md file designed to improve Claude Code's behavior. It is based on Andrej Karpathy’s observations about common pitfalls in LLM coding. The project has gained significant popularity, with 205,058 stars and 20,998 forks, indicating broad community interest."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "mahlernim/google-timeline-visualizer",
+      "link": "https://github.com/mahlernim/google-timeline-visualizer",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/89f0d31759e2f35ed1d62dac7a04a5e54623b6cd854b41168f2333ae1a24c497/mahlernim/google-timeline-visualizer\" referrerpolicy=\"no-referrer\"><br>Visualize your year in travel using your Google Location History (Timeline) data<br><br>Language: Kotlin<br>Stars: 2545<br>Forks: 298",
+      "contentSnippet": "Visualize your year in travel using your Google Location History (Timeline) data\nLanguage: Kotlin\nStars: 2545\nForks: 298",
+      "creator": "mahlernim",
+      "summaries": {
+        "zh": "该工具是一个用Kotlin编写的开源项目，可将Google位置历史（时间线）数据可视化，帮助用户回顾一年的旅行轨迹。项目在GitHub上获得2376颗星和278次分叉，说明其受到一定关注。",
+        "en": "A GitHub project called **mahlernim/google-timeline-visualizer** lets users visualize their year in travel based on Google Location History (Timeline) data. The tool is written in Kotlin. It has garnered significant community interest, with 2,376 stars and 278 forks on GitHub. The project’s purpose is to transform location data into a visual representation of an individual’s travel patterns over the year."
+      },
+      "summary": "该工具是一个用Kotlin编写的开源项目，可将Google位置历史（时间线）数据可视化，帮助用户回顾一年的旅行轨迹。项目在GitHub上获得2376颗星和278次分叉，说明其受到一定关注。"
+    },
+    {
+      "title": "ripienaar/free-for-dev",
+      "link": "https://github.com/ripienaar/free-for-dev",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/d4b102ad45117c3678b27b6f2440470e9033a584646cbd88c05d11aecf970fe0/ripienaar/free-for-dev\" referrerpolicy=\"no-referrer\"><br>A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev<br><br>Language: HTML<br>Stars: 133837<br>Forks: 14025",
+      "contentSnippet": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev\nLanguage: HTML\nStars: 133837\nForks: 14025",
+      "creator": "ripienaar",
+      "summaries": {
+        "zh": "该文章介绍GitHub上的开源项目“free-for-dev”（作者ripienaar），收录了面向DevOps和基础设施开发者的SaaS、PaaS及IaaS免费套餐列表。项目拥有约13.36万星标和1.4万复刻，内容以HTML形式呈现，是开发者寻找免费云服务资源的重要参考。",
+        "en": "The article highlights **ripienaar/free-for-dev**, a GitHub repository containing a curated list of SaaS, PaaS, and IaaS offerings with free tiers, aimed at DevOps and infrastructure developers. The repository is written in HTML and is highly popular, with over 133,600 stars and more than 14,000 forks. Its purpose is to help developers discover cost-effective cloud services and tools for building and testing applications without upfront expenses."
+      },
+      "summary": "该文章介绍GitHub上的开源项目“free-for-dev”（作者ripienaar），收录了面向DevOps和基础设施开发者的SaaS、PaaS及IaaS免费套餐列表。项目拥有约13.36万星标和1.4万复刻，内容以HTML形式呈现，是开发者寻找免费云服务资源的重要参考。"
+    },
+    {
+      "title": "microsoft/TypeScript",
+      "link": "https://github.com/microsoft/TypeScript",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/4290e05033c807de66c297e518d8adfe0d2be27e1914147c2986641487d626b3/microsoft/TypeScript\" referrerpolicy=\"no-referrer\"><br>TypeScript is a superset of JavaScript that compiles to clean JavaScript output.<br><br>Language: Go<br>Stars: 110517<br>Forks: 13747",
+      "contentSnippet": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.\nLanguage: Go\nStars: 110517\nForks: 13747",
+      "creator": "microsoft",
+      "summaries": {
+        "zh": "TypeScript 是 JavaScript 的超集，可编译为干净的 JavaScript 代码。该仓库为微软官方 TypeScript 仓库（microsoft/TypeScript），语言标注为 Go，拥有 110,363 个星标和 13,740 个 fork。",
+        "en": "The article describes the Microsoft TypeScript repository. TypeScript is a superset of JavaScript that compiles to clean JavaScript output. The repository is listed as using the Go language, with 110,363 stars and 13,740 forks."
+      },
+      "summary": "TypeScript 是 JavaScript 的超集，可编译为干净的 JavaScript 代码。该仓库为微软官方 TypeScript 仓库（microsoft/TypeScript），语言标注为 Go，拥有 110,363 个星标和 13,740 个 fork。"
+    },
+    {
+      "title": "cursor/plugins",
+      "link": "https://github.com/cursor/plugins",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/8cfa6e1d6fc64963eb7bfe35974761c0e8ee0ad43a6a43679cc3c07721dd6158/cursor/plugins\" referrerpolicy=\"no-referrer\"><br>Cursor plugin specification and official plugins<br><br>Language: TypeScript<br>Stars: 4625<br>Forks: 379",
+      "contentSnippet": "Cursor plugin specification and official plugins\nLanguage: TypeScript\nStars: 4625\nForks: 379",
+      "creator": "cursor",
+      "summaries": {
+        "zh": "该仓库是 Cursor 的插件规范与官方插件集合，主要语言为 TypeScript，目前拥有 3847 个 Star 和 314 个 Fork。",
+        "en": "The repository **cursor/plugins** provides the specification and official plugins for Cursor, a code editor. The project is written in **TypeScript** and has gained notable community traction, reflected in **3,847 stars** and **314 forks**. It serves as a reference for building and using Cursor-compatible plugins, with the official plugin set included. This is a technical, developer-focused resource for extending Cursor’s functionality."
+      },
+      "summary": "该仓库是 Cursor 的插件规范与官方插件集合，主要语言为 TypeScript，目前拥有 3847 个 Star 和 314 个 Fork。"
+    },
+    {
+      "title": "PostHog/posthog",
+      "link": "https://github.com/PostHog/posthog",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/235901813/1e37b11e-1d35-44f5-a821-557f32278c26\" referrerpolicy=\"no-referrer\"><br>:hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.<br><br>Language: Python<br>Stars: 38564<br>Forks: 3243",
+      "contentSnippet": ":hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.\nLanguage: Python\nStars: 38564\nForks: 3243",
+      "creator": "PostHog",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "PostHog is a platform for building self-driving products, offering developer tools such as AI observability, analytics, session replay, feature flags, experiments, error tracking, and logs. These tools capture context that agents need to diagnose problems, uncover opportunities, and ship fixes. Users can manage everything from Slack, web, desktop, or via MCP. The project is written in Python, with over 37,800 stars and 3,200 forks."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Tencent/AI-Infra-Guard",
+      "link": "https://github.com/Tencent/AI-Infra-Guard",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/55b2fdc188e4f57c882add6d8b0bf03c86a3fd61b44303b043351cb336fb1fe5/Tencent/AI-Infra-Guard\" referrerpolicy=\"no-referrer\"><br>A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.<br><br>Language: Python<br>Stars: 5451<br>Forks: 516",
+      "contentSnippet": "A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.\nLanguage: Python\nStars: 5451\nForks: 516",
+      "creator": "Tencent",
+      "summaries": {
+        "zh": "腾讯AI-Infra-Guard是一个全栈式AI红队测试平台，旨在保障AI生态系统安全。该平台提供多种扫描与评估功能，包括Agent扫描、技能扫描、MCP扫描、AI基础设施扫描以及大语言模型（LLM）越狱评估。项目使用Python语言开发，目前在GitHub上拥有5367个Star和513个Fork。",
+        "en": "Tencent's AI-Infra-Guard is a full-stack AI red-teaming platform designed to secure AI ecosystems. It provides security assessments through multiple scanning capabilities: Agent Scan, Skills Scan, MCP (Model Context Protocol) scan, AI infrastructure scan, and LLM jailbreak evaluation. The project is written in Python and has gained significant traction with over 5,300 stars and 513 forks on GitHub. The platform enables comprehensive security testing of AI systems and their components."
+      },
+      "summary": "腾讯AI-Infra-Guard是一个全栈式AI红队测试平台，旨在保障AI生态系统安全。该平台提供多种扫描与评估功能，包括Agent扫描、技能扫描、MCP扫描、AI基础设施扫描以及大语言模型（LLM）越狱评估。项目使用Python语言开发，目前在GitHub上拥有5367个Star和513个Fork。"
+    }
+  ],
+  "lastUpdated": "2026-08-22T20:42:43.943Z"
+}

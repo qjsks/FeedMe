@@ -1,0 +1,247 @@
+{
+  "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+  "title": "Anthropic Research",
+  "description": "Latest research from Anthropic",
+  "link": "https://www.anthropic.com/research",
+  "items": [
+    {
+      "title": "Aug 18, 2026ScienceHow Claude is accelerating protein design and analytical chemistry",
+      "link": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
+      "pubDate": "Tue, 18 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-18T00:00:00.000Z",
+      "content": "Aug 18, 2026ScienceHow Claude is accelerating protein design and analytical chemistry",
+      "contentSnippet": "Aug 18, 2026ScienceHow Claude is accelerating protein design and analytical chemistry",
+      "creator": "",
+      "summaries": {
+        "zh": "根据《科学》杂志2026年8月18日刊载的文章，Claude正在加速蛋白质设计与分析化学领域的进展。文章重点介绍了Claude在这两个科研方向中发挥的推动作用，表明人工智能工具正越来越多地融入生命科学和化学研究流程，帮助提升相关工作的效率与能力。",
+        "en": "This article, dated August 18, 2026, is titled \"How Claude is accelerating protein design and analytical chemistry.\" However, the provided content contains only the title and publication date, with no actual article body or substantive information. As the source material lacks details on specific methods, findings, or examples related to Claude's role in these fields, no further information can be accurately summarized. The full article text would be required to provide a meaningful overview of its contents."
+      },
+      "summary": "根据《科学》杂志2026年8月18日刊载的文章，Claude正在加速蛋白质设计与分析化学领域的进展。文章重点介绍了Claude在这两个科研方向中发挥的推动作用，表明人工智能工具正越来越多地融入生命科学和化学研究流程，帮助提升相关工作的效率与能力。"
+    },
+    {
+      "title": "Aug 13, 2026Frontier Red TeamPatterns and problems in emerging multiagent systems",
+      "link": "https://www.anthropic.com/research/multiagent-systems",
+      "pubDate": "Thu, 13 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-13T00:00:00.000Z",
+      "content": "Aug 13, 2026Frontier Red TeamPatterns and problems in emerging multiagent systems",
+      "contentSnippet": "Aug 13, 2026Frontier Red TeamPatterns and problems in emerging multiagent systems",
+      "creator": "",
+      "summaries": {
+        "zh": "本文标题为《前沿红队：新兴多智能体系统中的模式与问题》，发布日期为2026年8月13日。内容仅包含标题和日期，未提供具体正文信息。因此，本摘要仅能指出该文档涉及对新兴多智能体系统的模式及其潜在问题的探讨，无法进一步总结具体观点或细节。",
+        "en": "The article, published by Frontier Red Team on August 13, 2026, examines patterns and problems in emerging multiagent systems. It focuses on identifying recurring behaviors and challenges in systems where multiple AI agents interact. No further specifics are provided in the source content."
+      },
+      "summary": "本文标题为《前沿红队：新兴多智能体系统中的模式与问题》，发布日期为2026年8月13日。内容仅包含标题和日期，未提供具体正文信息。因此，本摘要仅能指出该文档涉及对新兴多智能体系统的模式及其潜在问题的探讨，无法进一步总结具体观点或细节。"
+    },
+    {
+      "title": "Aug 12, 2026Economic ResearchReviewing the evidence on worker retraining programs",
+      "link": "https://www.anthropic.com/research/reviewing-the-evidence-on-worker-retraining-programs",
+      "pubDate": "Wed, 12 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-12T00:00:00.000Z",
+      "content": "Aug 12, 2026Economic ResearchReviewing the evidence on worker retraining programs",
+      "contentSnippet": "Aug 12, 2026Economic ResearchReviewing the evidence on worker retraining programs",
+      "creator": "",
+      "summaries": {
+        "zh": "该文章标题为《2026年8月12日经济研究：回顾工人再培训项目的证据》，但正文仅重复了标题，未提供任何具体研究内容、数据或结论。因此，无法总结有效信息。根据要求，此处仅指出文章缺少实质内容，不进行细节补充或推测。",
+        "en": "The provided content consists only of a title indicating an economic research review on worker retraining programs, dated August 12, 2026. No actual research findings, data, or analysis are included. Therefore, a substantive summary of the evidence is not possible without inventing details."
+      },
+      "summary": "该文章标题为《2026年8月12日经济研究：回顾工人再培训项目的证据》，但正文仅重复了标题，未提供任何具体研究内容、数据或结论。因此，无法总结有效信息。根据要求，此处仅指出文章缺少实质内容，不进行细节补充或推测。"
+    },
+    {
+      "title": "Learning more about Claude's mathematical capabilities",
+      "link": "https://www.anthropic.com/research/riemann-zeta",
+      "pubDate": "Mon, 10 Aug 2026 00:00:00 +0000",
+      "isoDate": "2026-08-10T00:00:00.000Z",
+      "content": "Learning more about Claude's mathematical capabilities",
+      "contentSnippet": "Learning more about Claude's mathematical capabilities",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题及内容均围绕“了解Claude的数学能力”这一主题，但未提供具体细节或展开说明。因此，可概括为：该内容旨在探讨Claude在数学方面的表现与潜力，但当前信息有限，仅能确认其关注点。",
+        "en": "The provided source consists only of the title \"Learning more about Claude's mathematical capabilities\" with no substantive article content. As there is no accompanying text or information to summarize, no key points or details can be accurately extracted. The title alone indicates a general topic regarding the mathematical abilities of Claude, but without further content, a meaningful summary cannot be provided."
+      },
+      "summary": "文章标题及内容均围绕“了解Claude的数学能力”这一主题，但未提供具体细节或展开说明。因此，可概括为：该内容旨在探讨Claude在数学方面的表现与潜力，但当前信息有限，仅能确认其关注点。"
+    },
+    {
+      "title": "Jul 28, 2026Frontier Red TeamDiscovering cryptographic weaknesses with Claude",
+      "link": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+      "pubDate": "Tue, 28 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-28T00:00:00.000Z",
+      "content": "Jul 28, 2026Frontier Red TeamDiscovering cryptographic weaknesses with Claude",
+      "contentSnippet": "Jul 28, 2026Frontier Red TeamDiscovering cryptographic weaknesses with Claude",
+      "creator": "",
+      "summaries": {
+        "zh": "这篇内容仅包含文章标题与日期，未提供具体正文信息。核心信息为：2026年7月28日，前沿红队（Frontier Red Team）发布文章，主题是“使用Claude发现密码学弱点”。文章可能涉及人工智能辅助密码分析，但未提供具体方法、结果或案例。",
+        "en": "The article reports that on July 28, 2026, the Frontier Red Team used Claude to identify cryptographic weaknesses. No further details are provided in the source content."
+      },
+      "summary": "这篇内容仅包含文章标题与日期，未提供具体正文信息。核心信息为：2026年7月28日，前沿红队（Frontier Red Team）发布文章，主题是“使用Claude发现密码学弱点”。文章可能涉及人工智能辅助密码分析，但未提供具体方法、结果或案例。"
+    },
+    {
+      "title": "Jul 24, 2026Frontier Red TeamProject Pilot: Can AI control a drone?",
+      "link": "https://www.anthropic.com/research/project-pilot",
+      "pubDate": "Fri, 24 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-24T00:00:00.000Z",
+      "content": "Jul 24, 2026Frontier Red TeamProject Pilot: Can AI control a drone?",
+      "contentSnippet": "Jul 24, 2026Frontier Red TeamProject Pilot: Can AI control a drone?",
+      "creator": "",
+      "summaries": {
+        "zh": "2026年7月24日，Frontier Red Team发布“Project Pilot”项目，旨在探索AI能否控制无人机。目前仅公开了项目名称与核心问题，尚未提供具体技术细节或实验结果。",
+        "en": "The article, dated July 24, 2026, introduces \"Project Pilot\" by the Frontier Red Team, posing the question: \"Can AI control a drone?\" The available content consists solely of this title, offering no further details about the project's methods, findings, or conclusions. No additional information is provided."
+      },
+      "summary": "2026年7月24日，Frontier Red Team发布“Project Pilot”项目，旨在探索AI能否控制无人机。目前仅公开了项目名称与核心问题，尚未提供具体技术细节或实验结果。"
+    },
+    {
+      "title": "Jul 14, 2026Economic ResearchHow Canada uses Claude: Findings from the Anthropic Economic Index",
+      "link": "https://www.anthropic.com/research/how-canada-uses-claude",
+      "pubDate": "Tue, 14 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-14T00:00:00.000Z",
+      "content": "Jul 14, 2026Economic ResearchHow Canada uses Claude: Findings from the Anthropic Economic Index",
+      "contentSnippet": "Jul 14, 2026Economic ResearchHow Canada uses Claude: Findings from the Anthropic Economic Index",
+      "creator": "",
+      "summaries": {
+        "zh": "该文章为一项经济研究，发布自Anthropic经济指数（Anthropic Economic Index），主题为“加拿大如何使用Claude”。文章日期为2026年7月14日。由于原文未提供具体研究内容或数据，仅能确认其核心议题是分析Claude在加拿大的应用情况。具体发现、统计结果或行业分布等细节均未在现有内容中呈现，因此无法进一步展开说明。如需了解详细结论，需查阅完整报告。",
+        "en": "The provided content consists only of the article's title and date, with no accompanying body text or findings. The title indicates that the piece is an economic research report from the Anthropic Economic Index, published July 14, 2026, examining how Claude is used in Canada. However, because the source contains no detailed information, statistics, or analysis, a substantive summary of the findings cannot be produced. No further details are available to summarize."
+      },
+      "summary": "该文章为一项经济研究，发布自Anthropic经济指数（Anthropic Economic Index），主题为“加拿大如何使用Claude”。文章日期为2026年7月14日。由于原文未提供具体研究内容或数据，仅能确认其核心议题是分析Claude在加拿大的应用情况。具体发现、统计结果或行业分布等细节均未在现有内容中呈现，因此无法进一步展开说明。如需了解详细结论，需查阅完整报告。"
+    },
+    {
+      "title": "Jul 13, 2026Societal ImpactsClaude’s values across models and languages",
+      "link": "https://www.anthropic.com/research/claude-values-models-languages",
+      "pubDate": "Mon, 13 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-13T00:00:00.000Z",
+      "content": "Jul 13, 2026Societal ImpactsClaude’s values across models and languages",
+      "contentSnippet": "Jul 13, 2026Societal ImpactsClaude’s values across models and languages",
+      "creator": "",
+      "summaries": {
+        "zh": "该文章发布于2026年7月13日，归类于“社会影响”板块，标题与正文内容一致，主题为“Claude在不同模型和语言中的价值观”。文章本身未提供具体论述或详细说明，仅呈现了标题信息，因此无法提炼更多实质内容。",
+        "en": "The provided content consists only of the article title and date, with no substantive article body. The title indicates the piece, dated July 13, 2026, falls under \"Societal Impacts\" and concerns \"Claude's values across models and languages.\" However, no further details, analysis, or findings are included in the source material. Therefore, a more detailed summary cannot be accurately produced without inventing information. The available content simply states the topic and categorization."
+      },
+      "summary": "该文章发布于2026年7月13日，归类于“社会影响”板块，标题与正文内容一致，主题为“Claude在不同模型和语言中的价值观”。文章本身未提供具体论述或详细说明，仅呈现了标题信息，因此无法提炼更多实质内容。"
+    },
+    {
+      "title": "Jul 9, 2026Frontier Red TeamClaude plays robotics",
+      "link": "https://www.anthropic.com/research/claude-plays-robotics",
+      "pubDate": "Thu, 09 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-09T00:00:00.000Z",
+      "content": "Jul 9, 2026Frontier Red TeamClaude plays robotics",
+      "contentSnippet": "Jul 9, 2026Frontier Red TeamClaude plays robotics",
+      "creator": "",
+      "summaries": {
+        "zh": "根据文章标题及有限内容，本文发布于2026年7月9日，主题为“Frontier Red Team”团队开展的“Claude玩机器人”项目。内容仅提供标题信息，未包含具体细节。可概括为：该文章报道了前沿红队关于Claude在机器人领域的相关活动或实验，但具体内容不详。",
+        "en": "The provided content contains no substantive information—only the title \"Frontier Red Team Claude plays robotics\" and a date. Since no actual article body or details are available, a meaningful summary cannot be produced without inventing information. The only verifiable facts are that the piece is attributed to the Frontier Red Team, relates to Claude engaging in robotics, and is dated July 9, 2026."
+      },
+      "summary": "根据文章标题及有限内容，本文发布于2026年7月9日，主题为“Frontier Red Team”团队开展的“Claude玩机器人”项目。内容仅提供标题信息，未包含具体细节。可概括为：该文章报道了前沿红队关于Claude在机器人领域的相关活动或实验，但具体内容不详。"
+    },
+    {
+      "title": "Jul 8, 2026AlignmentAn off switch for dual-use knowledge in AI models",
+      "link": "https://www.anthropic.com/research/off-switch-dual-use",
+      "pubDate": "Wed, 08 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-08T00:00:00.000Z",
+      "content": "Jul 8, 2026AlignmentAn off switch for dual-use knowledge in AI models",
+      "contentSnippet": "Jul 8, 2026AlignmentAn off switch for dual-use knowledge in AI models",
+      "creator": "",
+      "summaries": {
+        "zh": "该文章探讨了为人工智能模型中的“双重用途”知识设置“关闭开关”的构想。所谓双重用途知识，指既可正当使用也可能被滥用的信息。文章可能涉及通过某种机制在必要时限制或禁用这类知识，以增强AI安全性，属于对齐（Alignment）领域的研究方向。但由于内容仅提供了标题，无法获取具体方法与结论，因此仅概括其核心主题。",
+        "en": "The provided article content contains only a title, \"An off switch for dual-use knowledge in AI models,\" and a date, July 8, 2026, with the topic label \"Alignment.\" No substantive information or body text is included. Therefore, a detailed summary cannot be produced without inventing details. The title suggests a discussion about controlling or disabling potentially harmful dual-use knowledge in AI systems, but the actual key points are not available."
+      },
+      "summary": "该文章探讨了为人工智能模型中的“双重用途”知识设置“关闭开关”的构想。所谓双重用途知识，指既可正当使用也可能被滥用的信息。文章可能涉及通过某种机制在必要时限制或禁用这类知识，以增强AI安全性，属于对齐（Alignment）领域的研究方向。但由于内容仅提供了标题，无法获取具体方法与结论，因此仅概括其核心主题。"
+    },
+    {
+      "title": "InterpretabilityJul 6, 2026A global workspace in language modelsNew interpretability research reveals an emergent mental workspace in Claude that holds internal thoughts that don’t appear in the model’s output.",
+      "link": "https://www.anthropic.com/research/global-workspace",
+      "pubDate": "Mon, 06 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-06T00:00:00.000Z",
+      "content": "InterpretabilityJul 6, 2026A global workspace in language modelsNew interpretability research reveals an emergent mental workspace in Claude that holds internal thoughts that don’t appear in the model’s output.",
+      "contentSnippet": "InterpretabilityJul 6, 2026A global workspace in language modelsNew interpretability research reveals an emergent mental workspace in Claude that holds internal thoughts that don’t appear in the model’s output.",
+      "creator": "",
+      "summaries": {
+        "zh": "该文章标题为《语言模型中的全局工作空间》，但正文内容缺失。因此无法提取具体观点或信息，仅能指出主题涉及语言模型中的全局工作空间机制。建议查阅原文以获取详细内容。",
+        "en": "The article is titled \"A global workspace in language models,\" but the provided content contains only the title itself, with no further details, arguments, or supporting information. As a result, it is not possible to summarize the main points or key findings beyond restating the title. No additional content was available to extract meaningful insights from."
+      },
+      "summary": "该文章标题为《语言模型中的全局工作空间》，但正文内容缺失。因此无法提取具体观点或信息，仅能指出主题涉及语言模型中的全局工作空间机制。建议查阅原文以获取详细内容。"
+    },
+    {
+      "title": "AlignmentMay 8, 2026Teaching Claude whyNew research on how we've reduced agentic misalignment.",
+      "link": "https://www.anthropic.com/research/teaching-claude-why",
+      "pubDate": "Fri, 08 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-08T00:00:00.000Z",
+      "content": "AlignmentMay 8, 2026Teaching Claude whyNew research on how we've reduced agentic misalignment.",
+      "contentSnippet": "AlignmentMay 8, 2026Teaching Claude whyNew research on how we've reduced agentic misalignment.",
+      "creator": "",
+      "summaries": {
+        "zh": "本文围绕AI对齐问题发布新研究，聚焦于如何减少“代理性错位”（agentic misalignment）。研究表明，通过教导Claude理解行为背后的“原因”（why），可以有效降低此类偏差。该成果发布于2026年5月8日，旨在提升AI系统的对齐性与可靠性。",
+        "en": "A May 8, 2026 research announcement highlights new work on reducing agentic misalignment in AI systems. The focus is on \"teaching Claude why\"—emphasizing explanations or reasoning to better align AI behavior. The content is brief and does not provide specific findings or methods."
+      },
+      "summary": "本文围绕AI对齐问题发布新研究，聚焦于如何减少“代理性错位”（agentic misalignment）。研究表明，通过教导Claude理解行为背后的“原因”（why），可以有效降低此类偏差。该成果发布于2026年5月8日，旨在提升AI系统的对齐性与可靠性。"
+    },
+    {
+      "title": "Frontier Red Team",
+      "link": "https://www.anthropic.com/research/team/frontier-red-team",
+      "pubDate": "Thu, 05 Dec 2024 00:00:00 +0000",
+      "isoDate": "2024-12-05T00:00:00.000Z",
+      "content": "Frontier Red Team",
+      "contentSnippet": "Frontier Red Team",
+      "creator": "",
+      "summaries": {
+        "zh": "**摘要：**\n\n所提供的文章内容仅有标题“Frontier Red Team”（前沿红队），没有正文或其他实质性信息。因此，无法提炼出具体观点、事实或论述。根据要求，在内容缺失的情况下，不进行任何细节补充，仅如实说明该情况。简而言之，当前来源仅有标题，无有效信息可供总结。",
+        "en": "The article titled \"Frontier Red Team\" contains no additional content beyond its title. As a result, there is no substantive information available to summarize. The provided material lacks details, findings, or context."
+      },
+      "summary": "**摘要：**\n\n所提供的文章内容仅有标题“Frontier Red Team”（前沿红队），没有正文或其他实质性信息。因此，无法提炼出具体观点、事实或论述。根据要求，在内容缺失的情况下，不进行任何细节补充，仅如实说明该情况。简而言之，当前来源仅有标题，无有效信息可供总结。"
+    },
+    {
+      "title": "Interpretability",
+      "link": "https://www.anthropic.com/research/team/interpretability",
+      "pubDate": "Tue, 05 Nov 2024 00:00:00 +0000",
+      "isoDate": "2024-11-05T00:00:00.000Z",
+      "content": "Interpretability",
+      "contentSnippet": "Interpretability",
+      "creator": "",
+      "summaries": {
+        "zh": "该内容仅重复出现“Interpretability”（可解释性）一词，未提供任何具体定义、说明或背景信息。因此无法提炼实质要点或细节。根据要求，不虚构内容，仅指出信息不足。建议提供更完整的原文，以便生成准确摘要。",
+        "en": "The article titled \"Interpretability\" contains no substantive information beyond the term itself. It does not define, explain, or discuss the concept of interpretability in any meaningful way. Since the content is essentially empty and lacks useful details, no further summary or interpretation can be accurately provided."
+      },
+      "summary": "该内容仅重复出现“Interpretability”（可解释性）一词，未提供任何具体定义、说明或背景信息。因此无法提炼实质要点或细节。根据要求，不虚构内容，仅指出信息不足。建议提供更完整的原文，以便生成准确摘要。"
+    },
+    {
+      "title": "Economic Research",
+      "link": "https://www.anthropic.com/research/team/economic-research",
+      "pubDate": "Thu, 18 Apr 2024 00:00:00 +0000",
+      "isoDate": "2024-04-18T00:00:00.000Z",
+      "content": "Economic Research",
+      "contentSnippet": "Economic Research",
+      "creator": "",
+      "summaries": {
+        "zh": "该文章仅包含标题“Economic Research”（经济研究），没有提供任何具体的实质性内容或研究发现。因此，无法从中提炼出有价值的信息或主要观点。建议查阅完整的原始文献或报告，以获取关于经济研究的具体数据和结论。",
+        "en": "The provided content consists only of the title \"Economic Research\" with no accompanying details or body text. As there is no substantive information to summarize, no main points or key findings can be identified. The source offers no data, analysis, or conclusions to report."
+      },
+      "summary": "该文章仅包含标题“Economic Research”（经济研究），没有提供任何具体的实质性内容或研究发现。因此，无法从中提炼出有价值的信息或主要观点。建议查阅完整的原始文献或报告，以获取关于经济研究的具体数据和结论。"
+    },
+    {
+      "title": "Societal Impacts",
+      "link": "https://www.anthropic.com/research/team/societal-impacts",
+      "pubDate": "Fri, 02 Feb 2024 00:00:00 +0000",
+      "isoDate": "2024-02-02T00:00:00.000Z",
+      "content": "Societal Impacts",
+      "contentSnippet": "Societal Impacts",
+      "creator": "",
+      "summaries": {
+        "zh": "该文章仅有标题“Societal Impacts”（社会影响），未提供任何具体正文内容。因此，无法从现有材料中提取详细观点或关键信息。根据要求，不对缺失内容进行补充或推测。若需完整摘要，请提供文章具体段落或详细资料。",
+        "en": "The provided content contains only the title \"Societal Impacts\" and no substantive information. As such, there are no key points or details to summarize. The content is effectively empty, and no meaningful summary can be generated."
+      },
+      "summary": "该文章仅有标题“Societal Impacts”（社会影响），未提供任何具体正文内容。因此，无法从现有材料中提取详细观点或关键信息。根据要求，不对缺失内容进行补充或推测。若需完整摘要，请提供文章具体段落或详细资料。"
+    },
+    {
+      "title": "Alignment",
+      "link": "https://www.anthropic.com/research/team/alignment",
+      "pubDate": "Sat, 06 May 2023 00:00:00 +0000",
+      "isoDate": "2023-05-06T00:00:00.000Z",
+      "content": "Alignment",
+      "contentSnippet": "Alignment",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题为“Alignment”，正文仅重复该词，未提供任何具体信息、定义或说明。因此无法进行有内容的摘要。",
+        "en": "The article titled \"Alignment\" contains no substantive content—only the word \"Alignment\" appears as both the title and the body text. There is no argument, explanation, or information provided to summarize. Therefore, no meaningful summary can be produced without inventing details."
+      },
+      "summary": "文章标题为“Alignment”，正文仅重复该词，未提供任何具体信息、定义或说明。因此无法进行有内容的摘要。"
+    }
+  ],
+  "lastUpdated": "2026-08-22T20:42:28.486Z"
+}

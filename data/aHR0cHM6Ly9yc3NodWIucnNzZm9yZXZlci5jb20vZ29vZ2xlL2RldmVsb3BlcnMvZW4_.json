@@ -1,0 +1,149 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/google/developers/en",
+  "title": "Google Developers Blog",
+  "description": "Google Developers Blog - Powered by RSSHub",
+  "link": "https://developers.googleblog.com",
+  "items": [
+    {
+      "title": "Build zero-trust AI agents with Google's Agent Development Kit",
+      "link": "https://developers.googleblog.com/en/build-zero-trust-ai-agents-with-googles-agent-development-kit/",
+      "pubDate": "Sun, 16 Aug 2026 16:00:00 GMT",
+      "isoDate": "2026-08-16T16:00:00.000Z",
+      "content": "Building autonomous AI agents that mutate production state requires moving beyond soft system prompts to a robust zero-trust architecture. To secure Google Agent Development Kit (ADK) workflows against prompt injections and malicious execution, developers must implement hardware-backed cryptographic signatures for database writes, kernel-level sandboxing with gVisor for dynamic code, and deterministic semantic gateways for I/O validation. By enforcing these hard security boundaries at the infrastructure level, you can safely deploy multi-tool AI agents without risking unauthorized data manipulation or server compromise.",
+      "contentSnippet": "Building autonomous AI agents that mutate production state requires moving beyond soft system prompts to a robust zero-trust architecture. To secure Google Agent Development Kit (ADK) workflows against prompt injections and malicious execution, developers must implement hardware-backed cryptographic signatures for database writes, kernel-level sandboxing with gVisor for dynamic code, and deterministic semantic gateways for I/O validation. By enforcing these hard security boundaries at the infrastructure level, you can safely deploy multi-tool AI agents without risking unauthorized data manipulation or server compromise.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "谷歌Agent开发工具包（ADK）构建零信任AI代理，需超越软性提示词，采用强健架构。具体措施包括：对数据库写入实施硬件级加密签名，利用gVisor进行内核级沙箱隔离动态代码，并部署确定性语义网关验证I/O。在基础设施层面强制这些安全边界，可安全部署多工具AI代理，防止未经授权的数据篡改或服务器入侵。",
+        "en": "To securely deploy autonomous AI agents with Google's Agent Development Kit, soft system prompts are insufficient. A zero-trust architecture is required, implementing hardware-backed cryptographic signatures for database writes, kernel-level sandboxing using gVisor for dynamic code, and deterministic semantic gateways for I/O validation. Enforcing these infrastructure-level security boundaries protects against prompt injections and malicious execution, preventing unauthorized data manipulation and server compromise in multi-tool agent workflows."
+      },
+      "summary": "谷歌Agent开发工具包（ADK）构建零信任AI代理，需超越软性提示词，采用强健架构。具体措施包括：对数据库写入实施硬件级加密签名，利用gVisor进行内核级沙箱隔离动态代码，并部署确定性语义网关验证I/O。在基础设施层面强制这些安全边界，可安全部署多工具AI代理，防止未经授权的数据篡改或服务器入侵。"
+    },
+    {
+      "title": "HeyGen x Google Cloud: Bringing Avatar IV to TPUs",
+      "link": "https://developers.googleblog.com/en/heygen-x-google-cloud-bringing-avatar-iv-to-tpus/",
+      "pubDate": "Wed, 12 Aug 2026 16:00:00 GMT",
+      "isoDate": "2026-08-12T16:00:00.000Z",
+      "content": "HeyGen ported their 18B+ parameter Avatar IV video generation model to Google Cloud's Trillium (v6e) TPUs via torchax and XLA, utilizing FSDP and Ulysses sequence parallelism across an eight-chip mesh. To achieve a 1.86x speedup for real-time streaming, the engineering team pipelined exposed all-to-all collectives, aligned sparse attention block sizes to eliminate mask padding, and bypassed softmax serial dependencies using a precomputed Cauchy-Schwarz upper bound. These custom Pallas kernel and compiler optimizations were deployed only after passing rigorous two-tier quality gates to guarantee byte-identical or mathematically equivalent pixel outputs.",
+      "contentSnippet": "HeyGen ported their 18B+ parameter Avatar IV video generation model to Google Cloud's Trillium (v6e) TPUs via torchax and XLA, utilizing FSDP and Ulysses sequence parallelism across an eight-chip mesh. To achieve a 1.86x speedup for real-time streaming, the engineering team pipelined exposed all-to-all collectives, aligned sparse attention block sizes to eliminate mask padding, and bypassed softmax serial dependencies using a precomputed Cauchy-Schwarz upper bound. These custom Pallas kernel and compiler optimizations were deployed only after passing rigorous two-tier quality gates to guarantee byte-identical or mathematically equivalent pixel outputs.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "HeyGen 将其超180亿参数的Avatar IV视频生成模型移植到Google Cloud Trillium（v6e）TPU，使用torchax与XLA，并通过FSDP和Ulysses序列并行在八芯片网格上运行。为实现实时流式传输1.86倍加速，团队将all-to-all集合通信流水线化，对齐稀疏注意力块大小以消除掩码填充，并利用预计算的Cauchy-Schwarz上界绕过softmax串行依赖。这些Pallas内核及编译器优化均通过严格的两级质量门禁，确保像素输出逐字节一致或数学等价。",
+        "en": "HeyGen ported its 18B+ parameter Avatar IV video generation model to Google Cloud Trillium (v6e) TPUs using torchax and XLA, with FSDP and Ulysses sequence parallelism across an eight-chip mesh. To achieve a 1.86x speedup for real-time streaming, engineers pipelined exposed all-to-all collectives, aligned sparse attention block sizes to remove mask padding, and bypassed softmax serial dependencies via a precomputed Cauchy-Schwarz upper bound. These custom Pallas kernel and compiler optimizations were deployed only after passing rigorous two-tier quality gates ensuring byte-identical or mathematically equivalent pixel outputs."
+      },
+      "summary": "HeyGen 将其超180亿参数的Avatar IV视频生成模型移植到Google Cloud Trillium（v6e）TPU，使用torchax与XLA，并通过FSDP和Ulysses序列并行在八芯片网格上运行。为实现实时流式传输1.86倍加速，团队将all-to-all集合通信流水线化，对齐稀疏注意力块大小以消除掩码填充，并利用预计算的Cauchy-Schwarz上界绕过softmax串行依赖。这些Pallas内核及编译器优化均通过严格的两级质量门禁，确保像素输出逐字节一致或数学等价。"
+    },
+    {
+      "title": "Introducing Credentio: Open Source C++ Library for C2PA Content Credentials from Google",
+      "link": "https://developers.googleblog.com/en/introducing-credentio-open-source-c-library-for-c2pa-content-credentials-from-google/",
+      "pubDate": "Wed, 12 Aug 2026 16:00:00 GMT",
+      "isoDate": "2026-08-12T16:00:00.000Z",
+      "content": "Credentio is a newly released, open-source C++ library from Google that allows developers to integrate high-performance, local-first validation of C2PA Content Credentials into their client and server applications. By processing assets entirely locally with a highly optimized memory footprint, the library delivers instant validation verdicts for multi-gigabyte media files without incurring cloud latency, bandwidth costs, or data privacy risks. The library currently features deep manifest parsing alongside configurable trust list integration, and is available now on Google Source with future plans to support full credential generation and embedding.",
+      "contentSnippet": "Credentio is a newly released, open-source C++ library from Google that allows developers to integrate high-performance, local-first validation of C2PA Content Credentials into their client and server applications. By processing assets entirely locally with a highly optimized memory footprint, the library delivers instant validation verdicts for multi-gigabyte media files without incurring cloud latency, bandwidth costs, or data privacy risks. The library currently features deep manifest parsing alongside configurable trust list integration, and is available now on Google Source with future plans to support full credential generation and embedding.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "谷歌发布开源 C++ 库 Credentio，用于集成 C2PA 内容凭证的验证。该库支持本地优先的高性能处理，内存占用优化，可对数 GB 级媒体文件即时给出验证结果，无需云端传输，避免延迟、带宽成本和隐私风险。目前提供深度清单解析和可配置可信列表集成，已发布于 Google Source。未来计划支持完整的凭证生成与嵌入功能。",
+        "en": "Google has released Credentio, an open-source C++ library that lets developers add high-performance, local-first validation of C2PA Content Credentials to client and server applications. It processes assets entirely on-device, enabling instant verification of multi-gigabyte media files while avoiding cloud latency, bandwidth costs, and privacy concerns. Currently, Credentio offers deep manifest parsing and configurable trust list integration. It is available on Google Source, with future plans to support full credential generation and embedding."
+      },
+      "summary": "谷歌发布开源 C++ 库 Credentio，用于集成 C2PA 内容凭证的验证。该库支持本地优先的高性能处理，内存占用优化，可对数 GB 级媒体文件即时给出验证结果，无需云端传输，避免延迟、带宽成本和隐私风险。目前提供深度清单解析和可配置可信列表集成，已发布于 Google Source。未来计划支持完整的凭证生成与嵌入功能。"
+    },
+    {
+      "title": "Mastering Edge AI on Raspberry Pi with LiteRT and Gemma",
+      "link": "https://developers.googleblog.com/en/mastering-edge-ai-on-raspberry-pi-with-litert-and-gemma/",
+      "pubDate": "Mon, 10 Aug 2026 16:00:00 GMT",
+      "isoDate": "2026-08-10T16:00:00.000Z",
+      "content": "Deploying secure, real-time Edge AI on Raspberry Pi is now simplified using LiteRT and lightweight Gemma open models. LiteRT optimizes CPU and GPU performance, delivering fast token speeds for models like Gemma4, enabling real-time local reasoning for robotics. Developers can quickly convert, quantize, and run these models using the lightweight LiteRT CLI tool. Support for Hailo AI accelerators is also coming very soon.",
+      "contentSnippet": "Deploying secure, real-time Edge AI on Raspberry Pi is now simplified using LiteRT and lightweight Gemma open models. LiteRT optimizes CPU and GPU performance, delivering fast token speeds for models like Gemma4, enabling real-time local reasoning for robotics. Developers can quickly convert, quantize, and run these models using the lightweight LiteRT CLI tool. Support for Hailo AI accelerators is also coming very soon.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "本文介绍如何在树莓派上使用 LiteRT 和轻量级 Gemma 开源模型，实现安全、实时的边缘 AI 部署。LiteRT 可优化 CPU 和 GPU 性能，显著提升 Gemma 等模型的推理速度，支持机器人等场景的本地实时推理。开发者可通过轻量级 LiteRT 命令行工具快速完成模型转换、量化和运行。此外，对 Hailo AI 加速器的支持也即将推出。",
+        "en": "LiteRT and lightweight Gemma open models simplify deploying secure, real-time Edge AI on Raspberry Pi. LiteRT optimizes CPU and GPU performance, delivering fast token speeds for models like Gemma4 and enabling local reasoning for robotics applications. Developers can quickly convert, quantize, and run models using the lightweight LiteRT CLI tool. Additionally, support for Hailo AI accelerators is planned in the near future."
+      },
+      "summary": "本文介绍如何在树莓派上使用 LiteRT 和轻量级 Gemma 开源模型，实现安全、实时的边缘 AI 部署。LiteRT 可优化 CPU 和 GPU 性能，显著提升 Gemma 等模型的推理速度，支持机器人等场景的本地实时推理。开发者可通过轻量级 LiteRT 命令行工具快速完成模型转换、量化和运行。此外，对 Hailo AI 加速器的支持也即将推出。"
+    },
+    {
+      "title": "Why Go is an Ideal Language for AI-Assisted Software Engineering",
+      "link": "https://developers.googleblog.com/en/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+      "pubDate": "Mon, 10 Aug 2026 16:00:00 GMT",
+      "isoDate": "2026-08-10T16:00:00.000Z",
+      "content": "As AI coding assistants shift the developer's primary role from writing boilerplate to reviewing and maintaining systems, language choice becomes critical for long-term architectural integrity. Go directly addresses this new paradigm by utilizing its strict compiler, integrated toolchain, and uncompromising readability to provide deterministic guardrails that help AI models self-correct and generate highly standardized code. By enforcing ecosystem-wide consistency and strict backward compatibility, the Go platform empowers engineering teams to efficiently verify, optimize, and maintain high-velocity, AI-generated output in production environments.",
+      "contentSnippet": "As AI coding assistants shift the developer's primary role from writing boilerplate to reviewing and maintaining systems, language choice becomes critical for long-term architectural integrity. Go directly addresses this new paradigm by utilizing its strict compiler, integrated toolchain, and uncompromising readability to provide deterministic guardrails that help AI models self-correct and generate highly standardized code. By enforcing ecosystem-wide consistency and strict backward compatibility, the Go platform empowers engineering teams to efficiently verify, optimize, and maintain high-velocity, AI-generated output in production environments.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "随着AI编程助手将开发者角色从编写模板代码转向审查与维护系统，语言选择对长期架构完整性至关重要。Go语言凭借严格编译器、集成工具链和强可读性，为AI模型提供确定性约束，帮助其自我纠错并生成高度标准化的代码。通过生态一致性和严格向后兼容，Go使工程团队能高效验证、优化和维护生产环境中高速度的AI生成产出。",
+        "en": "Go is highlighted as an ideal language for AI-assisted software engineering because it supports the shift from writing boilerplate code to reviewing and maintaining systems. Its strict compiler, integrated toolchain, and strong readability offer deterministic guardrails that help AI models self-correct and produce standardized code. The language’s ecosystem-wide consistency and backward compatibility further enable engineering teams to verify, optimize, and maintain AI-generated output efficiently in production. Overall, Go helps preserve architectural integrity while working with high-velocity AI tools."
+      },
+      "summary": "随着AI编程助手将开发者角色从编写模板代码转向审查与维护系统，语言选择对长期架构完整性至关重要。Go语言凭借严格编译器、集成工具链和强可读性，为AI模型提供确定性约束，帮助其自我纠错并生成高度标准化的代码。通过生态一致性和严格向后兼容，Go使工程团队能高效验证、优化和维护生产环境中高速度的AI生成产出。"
+    },
+    {
+      "title": "Agent Plugins package your skills, tools, and more",
+      "link": "https://developers.googleblog.com/en/agent-plugins-package-your-skills-tools-and-more/",
+      "pubDate": "Wed, 05 Aug 2026 16:00:00 GMT",
+      "isoDate": "2026-08-05T16:00:00.000Z",
+      "content": "Agent Plugins 1.0.0 is a new, vendor-neutral directory specification—backed by Google, Amazon, Microsoft, and others—for packaging Agent Skills and MCP servers into a single portable unit. By standardizing the manifest (plugin.json) and utilizing a fixed directory layout, it eliminates the need for developers to maintain separate wrappers or configurations to support different AI coding agents and IDEs. Google has officially joined as a Core Maintainer and already rolled out support in the Agents CLI and Data Agent Kit, allowing developers to start building and distributing interoperable plugins today.",
+      "contentSnippet": "Agent Plugins 1.0.0 is a new, vendor-neutral directory specification—backed by Google, Amazon, Microsoft, and others—for packaging Agent Skills and MCP servers into a single portable unit. By standardizing the manifest (plugin.json) and utilizing a fixed directory layout, it eliminates the need for developers to maintain separate wrappers or configurations to support different AI coding agents and IDEs. Google has officially joined as a Core Maintainer and already rolled out support in the Agents CLI and Data Agent Kit, allowing developers to start building and distributing interoperable plugins today.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "Agent Plugins 1.0.0 是一个由谷歌、亚马逊、微软等支持的中立目录规范，用于将 Agent Skills 和 MCP 服务器打包成单一可移植单元。它通过标准化 manifest（plugin.json）和固定目录结构，免去开发者针对不同 AI 编码代理和 IDE 维护单独封装或配置的麻烦。谷歌已正式作为核心维护者加入，并在 Agents CLI 和 Data Agent Kit 中提供支持，开发者现可构建和分发互操作的插件。",
+        "en": "Agent Plugins 1.0.0 is a new vendor-neutral directory specification backed by Google, Amazon, Microsoft, and others. It packages Agent Skills and MCP servers into a single portable unit using a standardized manifest (plugin.json) and a fixed directory layout. This removes the need for developers to maintain separate wrappers or configurations for different AI coding agents and IDEs. Google has joined as a Core Maintainer and already added support in the Agents CLI and Data Agent Kit, enabling developers to build and distribute interoperable plugins now."
+      },
+      "summary": "Agent Plugins 1.0.0 是一个由谷歌、亚马逊、微软等支持的中立目录规范，用于将 Agent Skills 和 MCP 服务器打包成单一可移植单元。它通过标准化 manifest（plugin.json）和固定目录结构，免去开发者针对不同 AI 编码代理和 IDE 维护单独封装或配置的麻烦。谷歌已正式作为核心维护者加入，并在 Agents CLI 和 Data Agent Kit 中提供支持，开发者现可构建和分发互操作的插件。"
+    },
+    {
+      "title": "Scaling AI Agent Infrastructure with the MCP Stateless updates",
+      "link": "https://developers.googleblog.com/en/scaling-ai-agent-infrastructure-with-the-mcp-stateless-updates/",
+      "pubDate": "Tue, 04 Aug 2026 16:00:00 GMT",
+      "isoDate": "2026-08-04T16:00:00.000Z",
+      "content": "The 2026-07-28 Model Context Protocol (MCP) specification replaces legacy stateful constraints with a fully stateless core, enabling cloud-native horizontal scaling, serverless deployments, and standard round-robin load balancing. This architectural shift introduces standardized HTTP headers for efficient routing without deep packet inspection, caching controls, and Multi Round-Trip Requests (MRTR) to handle interactive and long-running tasks without blocking connections. Developers can immediately begin migrating their agentic applications to this highly scalable infrastructure using the newly available beta SDKs for Python, TypeScript, Go, and C#.",
+      "contentSnippet": "The 2026-07-28 Model Context Protocol (MCP) specification replaces legacy stateful constraints with a fully stateless core, enabling cloud-native horizontal scaling, serverless deployments, and standard round-robin load balancing. This architectural shift introduces standardized HTTP headers for efficient routing without deep packet inspection, caching controls, and Multi Round-Trip Requests (MRTR) to handle interactive and long-running tasks without blocking connections. Developers can immediately begin migrating their agentic applications to this highly scalable infrastructure using the newly available beta SDKs for Python, TypeScript, Go, and C#.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "2026年7月28日的MCP规范更新将传统有状态约束改为完全无状态核心，从而支持云原生水平扩展、无服务器部署和标准轮询负载均衡。新架构引入标准化HTTP头，无需深度包检测即可高效路由，并支持缓存控制与多轮往返请求（MRTR），以处理交互式和长期运行任务而不阻塞连接。开发者可通过新发布的Python、TypeScript、Go和C#测试版SDK，立即将其智能体应用迁移到这一高扩展性基础设施上。",
+        "en": "The July 28, 2026 Model Context Protocol (MCP) specification moves from legacy stateful constraints to a fully stateless core. This enables cloud-native horizontal scaling, serverless deployments, and standard round-robin load balancing. The update introduces standardized HTTP headers for efficient routing, caching controls, and Multi Round-Trip Requests (MRTR) to support interactive and long-running tasks without blocking connections. Developers can begin migrating agentic applications using newly available beta SDKs for Python, TypeScript, Go, and C#."
+      },
+      "summary": "2026年7月28日的MCP规范更新将传统有状态约束改为完全无状态核心，从而支持云原生水平扩展、无服务器部署和标准轮询负载均衡。新架构引入标准化HTTP头，无需深度包检测即可高效路由，并支持缓存控制与多轮往返请求（MRTR），以处理交互式和长期运行任务而不阻塞连接。开发者可通过新发布的Python、TypeScript、Go和C#测试版SDK，立即将其智能体应用迁移到这一高扩展性基础设施上。"
+    },
+    {
+      "title": "Model routing with Google Cloud API Gateway",
+      "link": "https://developers.googleblog.com/en/a-unified-api-for-ai-model-routing/",
+      "pubDate": "Mon, 03 Aug 2026 16:00:00 GMT",
+      "isoDate": "2026-08-03T16:00:00.000Z",
+      "content": "Google Cloud API Gateway now offers a model routing feature in Public Preview, allowing developers to dynamically route traffic to models like Gemini, Claude, or OpenAI OSS-GPT without hardcoding endpoints or managing open-source proxies. Developers can easily configure these routing rules directly within their OpenAPI 3.x specifications by mapping virtual model names to specific backend targets on a shared host. Once deployed, the Gateway acts as a serverless ingress layer that accepts standard OpenAI-compatible requests, automatically transcodes the payload to the native schema of the target model, and routes the traffic on the fly.",
+      "contentSnippet": "Google Cloud API Gateway now offers a model routing feature in Public Preview, allowing developers to dynamically route traffic to models like Gemini, Claude, or OpenAI OSS-GPT without hardcoding endpoints or managing open-source proxies. Developers can easily configure these routing rules directly within their OpenAPI 3.x specifications by mapping virtual model names to specific backend targets on a shared host. Once deployed, the Gateway acts as a serverless ingress layer that accepts standard OpenAI-compatible requests, automatically transcodes the payload to the native schema of the target model, and routes the traffic on the fly.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "Google Cloud API Gateway 推出模型路由功能（公开预览版），允许开发者动态将流量路由至 Gemini、Claude 或 OpenAI OSS-GPT 等模型，无需硬编码端点或自行管理开源代理。开发者可直接在 OpenAPI 3.x 规范中配置路由规则，将虚拟模型名称映射到共享主机上的特定后端目标。部署后，网关作为无服务器入口层，接受标准 OpenAI 兼容请求，自动将负载转码为目标模型的原生结构，并实时进行流量路由。",
+        "en": "Google Cloud API Gateway has introduced a model routing feature in Public Preview, enabling developers to dynamically route AI traffic to models such as Gemini, Claude, or OpenAI OSS-GPT without hardcoding endpoints or managing open-source proxies. Routing rules can be configured directly in OpenAPI 3.x specifications by mapping virtual model names to specific backend targets on a shared host. Once deployed, the Gateway serves as a serverless ingress layer, accepting standard OpenAI-compatible requests, automatically transcoding payloads to each target model’s native schema, and routing traffic in real time."
+      },
+      "summary": "Google Cloud API Gateway 推出模型路由功能（公开预览版），允许开发者动态将流量路由至 Gemini、Claude 或 OpenAI OSS-GPT 等模型，无需硬编码端点或自行管理开源代理。开发者可直接在 OpenAPI 3.x 规范中配置路由规则，将虚拟模型名称映射到共享主机上的特定后端目标。部署后，网关作为无服务器入口层，接受标准 OpenAI 兼容请求，自动将负载转码为目标模型的原生结构，并实时进行流量路由。"
+    },
+    {
+      "title": "Scaling real-time AI agents with session-aware load balancing",
+      "link": "https://developers.googleblog.com/en/scaling-real-time-ai-agents-with-session-aware-load-balancing/",
+      "pubDate": "Sun, 02 Aug 2026 16:00:00 GMT",
+      "isoDate": "2026-08-02T16:00:00.000Z",
+      "content": "Real-time AI agents break traditional request-response load balancing paradigms because they rely on long-lived, stateful bidirectional streams that obscure true server capacity. To solve this, developers must implement application-level session tracking directly within the runtime to accurately measure the committed concurrent workload of active conversations. By feeding these precise session counts alongside standard CPU utilization metrics into a hybrid routing algorithm, infrastructure can effectively distribute stateful AI traffic and prevent individual backend bottlenecks.",
+      "contentSnippet": "Real-time AI agents break traditional request-response load balancing paradigms because they rely on long-lived, stateful bidirectional streams that obscure true server capacity. To solve this, developers must implement application-level session tracking directly within the runtime to accurately measure the committed concurrent workload of active conversations. By feeding these precise session counts alongside standard CPU utilization metrics into a hybrid routing algorithm, infrastructure can effectively distribute stateful AI traffic and prevent individual backend bottlenecks.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "实时 AI 代理依赖长时间存续、有状态的双向数据流，打破了传统请求-响应式负载均衡的假设，使真实服务器容量难以判断。为解决这一问题，开发者需在运行时内实现应用层会话跟踪，准确统计当前会话的并发负载。将精确的会话数连同标准 CPU 利用率指标，共同输入混合路由算法，即可有效分发有状态 AI 流量，避免单个后端成为瓶颈。",
+        "en": "Real-time AI agents rely on long-lived, stateful bidirectional streams, which break conventional request-response load balancing by obscuring true server capacity. To address this, developers must implement application-level session tracking within the runtime to accurately measure committed concurrent workloads. These precise session counts, combined with standard CPU utilization metrics, feed into a hybrid routing algorithm. This approach enables effective distribution of stateful AI traffic, preventing individual backend bottlenecks and supporting scalable infrastructure."
+      },
+      "summary": "实时 AI 代理依赖长时间存续、有状态的双向数据流，打破了传统请求-响应式负载均衡的假设，使真实服务器容量难以判断。为解决这一问题，开发者需在运行时内实现应用层会话跟踪，准确统计当前会话的并发负载。将精确的会话数连同标准 CPU 利用率指标，共同输入混合路由算法，即可有效分发有状态 AI 流量，避免单个后端成为瓶颈。"
+    },
+    {
+      "title": "Enable on-demand expertise with Agent Skills in Genkit Go",
+      "link": "https://developers.googleblog.com/en/enable-on-demand-expertise-with-agent-skills-in-genkit-go/",
+      "pubDate": "Thu, 30 Jul 2026 16:00:00 GMT",
+      "isoDate": "2026-07-30T16:00:00.000Z",
+      "content": "To prevent context window bloat and reduce token consumption, Genkit Go introduces Agent Skills based on a progressive disclosure architecture. Developers can package specialized instructions, scripts, and references into modular SKILL.md bundles where only the frontmatter metadata is initially exposed to the agent's system prompt. When a task matches the skill's description, Genkit's middleware dynamically loads the full instruction body and associated assets, ensuring the model accesses precise workflows exactly when needed.",
+      "contentSnippet": "To prevent context window bloat and reduce token consumption, Genkit Go introduces Agent Skills based on a progressive disclosure architecture. Developers can package specialized instructions, scripts, and references into modular SKILL.md bundles where only the frontmatter metadata is initially exposed to the agent's system prompt. When a task matches the skill's description, Genkit's middleware dynamically loads the full instruction body and associated assets, ensuring the model accesses precise workflows exactly when needed.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "Genkit Go 推出了 Agent Skills 功能，旨在防止上下文窗口膨胀并降低令牌消耗。该功能基于渐进式披露架构，开发者可将专业指令、脚本和参考资料打包为模块化的 SKILL.md 文件，初始仅在系统提示中暴露 frontmatter 元数据。当任务匹配技能描述时，Genkit 的中间件会动态加载完整的指令主体和相关资源，确保模型仅在需要时获取精确的工作流程，实现按需专业知识调用。",
+        "en": "Genkit Go introduces Agent Skills to support on-demand expertise while reducing token consumption and preventing context window bloat. Using a progressive disclosure architecture, developers package specialized instructions, scripts, and references into modular SKILL.md bundles. Only frontmatter metadata is initially exposed to the agent’s system prompt. When a task matches a skill’s description, Genkit middleware dynamically loads the full instruction body and related assets, giving the model precise workflows exactly when needed."
+      },
+      "summary": "Genkit Go 推出了 Agent Skills 功能，旨在防止上下文窗口膨胀并降低令牌消耗。该功能基于渐进式披露架构，开发者可将专业指令、脚本和参考资料打包为模块化的 SKILL.md 文件，初始仅在系统提示中暴露 frontmatter 元数据。当任务匹配技能描述时，Genkit 的中间件会动态加载完整的指令主体和相关资源，确保模型仅在需要时获取精确的工作流程，实现按需专业知识调用。"
+    }
+  ],
+  "lastUpdated": "2026-08-22T20:42:40.117Z"
+}
