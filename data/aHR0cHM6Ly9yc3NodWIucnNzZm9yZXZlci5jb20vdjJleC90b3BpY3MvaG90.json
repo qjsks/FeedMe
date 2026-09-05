@@ -1,0 +1,149 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/v2ex/topics/hot",
+  "title": "V2EX-最热主题",
+  "description": "V2EX-最热主题 - Powered by RSSHub",
+  "link": "https://www.v2ex.com/",
+  "items": [
+    {
+      "title": "汇流直播，一个 Apple 全家桶的直播聚合观看 app，上架 Apple Store，抽奖了",
+      "link": "https://www.v2ex.com/t/1239707",
+      "pubDate": "Sat, 05 Sep 2026 09:21:51 GMT",
+      "isoDate": "2026-09-05T09:21:51.000Z",
+      "content": "cai709962401: <h2>官网</h2>\n<p><a href=\"https://conflux.kami.asia/\" rel=\"nofollow\">https://conflux.kami.asia</a></p>\n<h2>Apple Store 地址</h2>\n<p><a href=\"https://apps.apple.com/hk/app/id6787873453\" rel=\"nofollow\">https://apps.apple.com/hk/app/id6787873453</a></p>\n<h2>特性</h2>\n<ol>\n<li>apple 全家桶，多端 icloud  自动同步数据和配置</li>\n<li>支持看弹幕，并且还能发送弹幕（抖音调研中）</li>\n<li>云端开播通知，主播开播后，1 分钟内收到推送</li>\n<li>自定义弹幕样式、热词显示、屏蔽关键词正则等自定义能力</li>\n<li>iOS 画中画并支持画中画弹幕</li>\n<li>iOS 支持 3 套好看的主题</li>\n<li>macOS 支持新窗口打开，并置顶，摸鱼神器</li>\n<li>免费版可以体验核心能力，完整版解锁全部能力</li>\n</ol>\n<h2>想直接购买懒得等开奖的朋友，也可以直接私信我索要 5 折券，折扣后仅需 2.49 美元</h2>\n<h2>macOS 端</h2>\n<p><img alt=\"image\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://conflux.kami.asia/danmaku-compose.webp\"></p>\n<h2>iOS 端</h2>\n<p><img alt=\"image\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://conflux.kami.asia/preview-iphone.webp\"></p>\n<h2>tvOS 端</h2>\n<p><img alt=\"image\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://conflux.kami.asia/appletv-home.webp?v=20260822\"></p>\n",
+      "contentSnippet": "cai709962401: \n官网\nhttps://conflux.kami.asia\nApple Store 地址\nhttps://apps.apple.com/hk/app/id6787873453\n特性\napple 全家桶，多端 icloud  自动同步数据和配置\n支持看弹幕，并且还能发送弹幕（抖音调研中）\n云端开播通知，主播开播后，1 分钟内收到推送\n自定义弹幕样式、热词显示、屏蔽关键词正则等自定义能力\niOS 画中画并支持画中画弹幕\niOS 支持 3 套好看的主题\nmacOS 支持新窗口打开，并置顶，摸鱼神器\n免费版可以体验核心能力，完整版解锁全部能力\n想直接购买懒得等开奖的朋友，也可以直接私信我索要 5 折券，折扣后仅需 2.49 美元\nmacOS 端\n\niOS 端\n\ntvOS 端",
+      "creator": "cai709962401",
+      "summaries": {
+        "zh": "“汇流直播”是一款面向 Apple 全家桶的直播聚合观看应用，现已上架 Apple Store，并推出抽奖活动。该应用支持 iOS、macOS、tvOS 等多端通过 iCloud 自动同步数据；可观看和发送弹幕，支持自定义弹幕样式与屏蔽关键词；提供云端开播推送通知；iOS 支持画中画弹幕和 3 套主题，macOS 支持新窗口置顶。免费版可体验核心功能，完整版售价 2.49 美元，可通过私信获取 5 折券。",
+        "en": "The article announces \"汇流直播\" (Conflux Live), a live-streaming aggregation app for the Apple ecosystem, now available on the App Store. Key features include multi-device iCloud synchronization, danmaku (live comments) viewing and sending, instant push notifications when streamers go live, customizable danmaku styles and keyword filters, iOS picture-in-picture with danmaku support, three iOS themes, and a macOS always-on-top window. A free version provides core features, while a paid full version unlocks everything. The launch includes a giveaway, and a 50% discount coupon is available. The app supports iOS, macOS, and tvOS."
+      },
+      "summary": "“汇流直播”是一款面向 Apple 全家桶的直播聚合观看应用，现已上架 Apple Store，并推出抽奖活动。该应用支持 iOS、macOS、tvOS 等多端通过 iCloud 自动同步数据；可观看和发送弹幕，支持自定义弹幕样式与屏蔽关键词；提供云端开播推送通知；iOS 支持画中画弹幕和 3 套主题，macOS 支持新窗口置顶。免费版可体验核心功能，完整版售价 2.49 美元，可通过私信获取 5 折券。"
+    },
+    {
+      "title": "给我整乐呵了，商汤上了 deepseek v4 flash 和 pro",
+      "link": "https://www.v2ex.com/t/1239687",
+      "pubDate": "Sat, 05 Sep 2026 07:42:27 GMT",
+      "isoDate": "2026-09-05T07:42:27.000Z",
+      "content": "yiranw09: 大概率是自己部署的，不清楚量化程度，有 1M 上下文<br>我测试了 deepseek v4 flash ，输出比较忙，只有 40t/s 的水平（牛来水平）<br>目前公测，仅用免费挡位，5 小时窗口 60000 积分，周额度 600000 积分（ 10 倍 5 小时）<br>但是有意思的是，在我测试 deepseekv4flash 的时候，1M 的 token ，80%的缓存，大约用了 2000 积分<br>也就是说它 5 小时窗口有 30M 的 deepseek v4 flash ，一周有 3 亿<br>这个是免费的啊？<br>笑，甚至还有个生图模型",
+      "contentSnippet": "yiranw09: 大概率是自己部署的，不清楚量化程度，有 1M 上下文\n我测试了 deepseek v4 flash ，输出比较忙，只有 40t/s 的水平（牛来水平）\n目前公测，仅用免费挡位，5 小时窗口 60000 积分，周额度 600000 积分（ 10 倍 5 小时）\n但是有意思的是，在我测试 deepseekv4flash 的时候，1M 的 token ，80%的缓存，大约用了 2000 积分\n也就是说它 5 小时窗口有 30M 的 deepseek v4 flash ，一周有 3 亿\n这个是免费的啊？\n笑，甚至还有个生图模型",
+      "creator": "yiranw09",
+      "summaries": {
+        "zh": "商汤上线了 DeepSeek V4 Flash 和 Pro 模型，疑似自部署，量化程度未知。Flash 版本支持 1M 上下文，输出速度约 40 tokens/s。目前公测提供免费额度：5 小时窗口 60000 积分，周额度为 600000 积分（即 10 倍）。测试显示，1M token（80% 缓存）约消耗 2000 积分，相当于 5 小时可用 30M token，一周 3 亿，且免费。另还有生图模型。",
+        "en": "SenseTime has launched DeepSeek V4 Flash and Pro. In a public beta, only a free tier is available, offering 60,000 credits per 5-hour window and 600,000 credits weekly—10 times the shorter window. A tester reported that DeepSeek V4 Flash, with 1M context and 80% cache, used about 2,000 credits during testing, implying"
+      },
+      "summary": "商汤上线了 DeepSeek V4 Flash 和 Pro 模型，疑似自部署，量化程度未知。Flash 版本支持 1M 上下文，输出速度约 40 tokens/s。目前公测提供免费额度：5 小时窗口 60000 积分，周额度为 600000 积分（即 10 倍）。测试显示，1M token（80% 缓存）约消耗 2000 积分，相当于 5 小时可用 30M token，一周 3 亿，且免费。另还有生图模型。"
+    },
+    {
+      "title": "搞了个开源大模型 API 中转站，官方价 3.5 折，送 25 份 5 刀额度",
+      "link": "https://www.v2ex.com/t/1239673",
+      "pubDate": "Sat, 05 Sep 2026 06:04:15 GMT",
+      "isoDate": "2026-09-05T06:04:15.000Z",
+      "content": "TokenUs: <p>自己搭的站，TokenUs： <a href=\"https://tokenus.net/\" rel=\"nofollow\">https://tokenus.net</a></p>\n<p>先说清楚，这就是个 API 中转站，基于 new-api 改的，没什么黑科技。接的都是开源模型，DeepSeek V4 全系、GLM 5.x 、Kimi K2.5/K3 、Qwen3.8 ，一共 15 个。接口和 OpenAI 兼容，base_url 换掉就能用。</p>\n<p>价格是官方价的 3.5 折，举两个例子：</p>\n<ul>\n<li>DeepSeek V4 Flash：输入 $0.049 / 1M tokens</li>\n<li>Kimi K3：输入 $1.05 / 1M tokens （站内最贵的一个）</li>\n</ul>\n<p>正常聊一次天（ 2K 输入 + 500 输出）大概 $0.00015 ，5 刀能聊几万次。接 Claude Code 、跑批处理脚本，都够测一阵子了。</p>\n<p>福利：</p>\n<ol>\n<li>注册送 $0.1 试用额度，不多，但够你白嫖几百次 DeepSeek 试试接口顺不顺手</li>\n<li>帖子里放 5 个 $5 兑换码，先到先得（估计活不过几分钟，手慢别怪我）</li>\n<li>没抢到的回帖留你的注册邮箱，前 20 个每人直接往账户充 $5 。注意是注册邮箱，没注册过的邮箱我充不进去。邮箱可以 base64 一下防爬虫，我看得懂。充完我在楼下回\"已充\"</li>\n</ol>\n<p>兑换码用法：注册登录 → 钱包 → 输入码，额度直接到账。兑换码一个月过期，充进账户的余额不过期。兑到码的麻烦在楼下说一声\"已用\"，免得后面的人白试。</p>\n<p>码：</p>\n<p>5a057211dd684a12a58a52113bbbd109</p>\n<p>531ea9a793bb4a5991bcf4c237a82700</p>\n<p>a7cc61803dde48c9b91cac6abed72209</p>\n<p>ac4c4f82eff7416bae1600e089436508</p>\n<p>2d617d4ba92240078a8d55e212b46ebe</p>\n<p>有问题直接回帖，或者写邮件给 <a href=\"mailto:support@tokenus.net\">support@tokenus.net</a> 。站刚上线不久，欢迎拍砖，哪里难用直接骂</p>\n",
+      "contentSnippet": "TokenUs: \n自己搭的站，TokenUs： https://tokenus.net\n先说清楚，这就是个 API 中转站，基于 new-api 改的，没什么黑科技。接的都是开源模型，DeepSeek V4 全系、GLM 5.x 、Kimi K2.5/K3 、Qwen3.8 ，一共 15 个。接口和 OpenAI 兼容，base_url 换掉就能用。\n价格是官方价的 3.5 折，举两个例子：\nDeepSeek V4 Flash：输入 $0.049 / 1M tokens\nKimi K3：输入 $1.05 / 1M tokens （站内最贵的一个）\n正常聊一次天（ 2K 输入 + 500 输出）大概 $0.00015 ，5 刀能聊几万次。接 Claude Code 、跑批处理脚本，都够测一阵子了。\n福利：\n注册送 $0.1 试用额度，不多，但够你白嫖几百次 DeepSeek 试试接口顺不顺手\n帖子里放 5 个 $5 兑换码，先到先得（估计活不过几分钟，手慢别怪我）\n没抢到的回帖留你的注册邮箱，前 20 个每人直接往账户充 $5 。注意是注册邮箱，没注册过的邮箱我充不进去。邮箱可以 base64 一下防爬虫，我看得懂。充完我在楼下回\"已充\"\n兑换码用法：注册登录 → 钱包 → 输入码，额度直接到账。兑换码一个月过期，充进账户的余额不过期。兑到码的麻烦在楼下说一声\"已用\"，免得后面的人白试。\n码：\n5a057211dd684a12a58a52113bbbd109\n531ea9a793bb4a5991bcf4c237a82700\na7cc61803dde48c9b91cac6abed72209\nac4c4f82eff7416bae1600e089436508\n2d617d4ba92240078a8d55e212b46ebe\n有问题直接回帖，或者写邮件给 support@tokenus.net 。站刚上线不久，欢迎拍砖，哪里难用直接骂",
+      "creator": "TokenUs",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "TokenUs is a newly launched API relay station built on new-api, offering access to 15 open-source models, including DeepSeek V4, GLM 5.x, Kimi K2.5/K3, and Qwen3.8. It is OpenAI-compatible, so users only need to change the base URL. Pricing is about 35% of official rates. New users get a $0.1 trial credit. Five $5 redemption codes were shared on a first-come, first-served basis, and the first 20 commenters who provided their registered email would also receive $5. Codes expire in one month; credited balance does not expire."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "我又又又重构了我的站点",
+      "link": "https://www.v2ex.com/t/1239655",
+      "pubDate": "Sat, 05 Sep 2026 03:42:43 GMT",
+      "isoDate": "2026-09-05T03:42:43.000Z",
+      "content": "jenhe: 接上次帖子，站点重构 <a target=\"_blank\" href=\"https://www.v2ex.com/t/1227951\" rel=\"nofollow noopener\">/t/1227951</a><br><br>地址： <a target=\"_blank\" href=\"https://www.oolaf.top/\" rel=\"nofollow noopener\">https://www.oolaf.top</a><br><br>1. 我又重构了我的页面 UI ，增加了黑夜白天模式，增加了 agent （虽然很弱）<br>2. 一点点扣细节，自我感觉相对比之前提升了很多，下面会贴图<br><br><br><br>之前的：<br><a target=\"_blank\" href=\"https://s2.oolaf.top/oolaf/oolaf/2026/08/13/15/15/e8c93979e42970c8b59eadf5ccc5319e.webp\" rel=\"nofollow noopener\">https://s2.oolaf.top/oolaf/oolaf/2026/08/13/15/15/e8c93979e42970c8b59eadf5ccc5319e.webp</a><br><br>现在的:<br><a target=\"_blank\" href=\"https://pub-d2a6dcd506134792b1c8284b7b32c7ec.r2.dev/gallery/1/ec427db9-f2b6-4325-a24f-1ff7efcb9e81.webp\" rel=\"nofollow noopener\">https://pub-d2a6dcd506134792b1c8284b7b32c7ec.r2.dev/gallery/1/ec427db9-f2b6-4325-a24f-1ff7efcb9e81.webp</a><br><br><br>大家看看，还有哪些改进的空间 🙏",
+      "contentSnippet": "jenhe: 接上次帖子，站点重构 /t/1227951\n地址： https://www.oolaf.top\n1. 我又重构了我的页面 UI ，增加了黑夜白天模式，增加了 agent （虽然很弱）\n2. 一点点扣细节，自我感觉相对比之前提升了很多，下面会贴图\n\n之前的：\nhttps://s2.oolaf.top/oolaf/oolaf/2026/08/13/15/15/e8c93979e42970c8b59eadf5ccc5319e.webp\n现在的:\nhttps://pub-d2a6dcd506134792b1c8284b7b32c7ec.r2.dev/gallery/1/ec427db9-f2b6-4325-a24f-1ff7efcb9e81.webp\n\n大家看看，还有哪些改进的空间 🙏",
+      "creator": "jenhe",
+      "summaries": {
+        "zh": "作者再次重构了自己的站点（地址：https://www.oolaf.top）。此次主要更新包括：重新设计页面 UI，新增黑夜/白天模式，并加入了一个功能较弱的 agent。作者在细节上做了较多打磨，自认为相比之前版本提升明显，并附上了重构前后的对比截图，同时希望听取大家关于进一步改进的意见。",
+        "en": "The author shares that they have once again redesigned their personal website. Key updates include a new page UI with dark/light mode and the addition of a basic AI agent. They mention focusing on finer details and feel the latest version is a clear improvement over the previous design. Screenshots of both the old and new versions are provided for comparison. The author invites feedback and asks what areas could still be improved. The site is available at the given link."
+      },
+      "summary": "作者再次重构了自己的站点（地址：https://www.oolaf.top）。此次主要更新包括：重新设计页面 UI，新增黑夜/白天模式，并加入了一个功能较弱的 agent。作者在细节上做了较多打磨，自认为相比之前版本提升明显，并附上了重构前后的对比截图，同时希望听取大家关于进一步改进的意见。"
+    },
+    {
+      "title": "梳理一下 Google AI Pro 赠送的所有权益，每月竟然价值几千块",
+      "link": "https://www.v2ex.com/t/1239651",
+      "pubDate": "Sat, 05 Sep 2026 03:06:45 GMT",
+      "isoDate": "2026-09-05T03:06:45.000Z",
+      "content": "duangthef1rst: <ol>\n<li>每月固定发放的「真金白银」</li>\n</ol>\n<p>💾 5 TB 超大云空间：Drive / Gmail / 相册共用，支持家庭共享且文件各自私密。</p>\n<p>🎬 1,000 点/月 视频创作积分：用于 Google Flow 和 Whisk ，可生成约 66 条 720p 短视频（基于 Veo/Omni 模型）。</p>\n<p>🎵 10,000 点/月 音乐创作积分：独立于视频点数，用于 Lyria 3 音乐生成。</p>\n<p>💵 $10/月 GCP 云积分：需在开发者后台手动领取，可直接抵扣官方 Gemini API / Vertex AI 调用费用。</p>\n<ol>\n<li>白送的「生态订阅全家桶」</li>\n</ol>\n<p>📺 YouTube Premium Lite：大多数视频免广告（不含独立 YouTube Music ）。</p>\n<p>🏠 Google Home Premium Standard：30 天摄像头云端录像回放 + 家居 AI 语义检索（原价值约 $10/月）。</p>\n<p>⌚ Google Health Premium：解锁 Fitbit / Pixel Watch 的深度健康与睡眠 AI 分析。</p>\n<ol>\n<li>AI 本体与生产力「额度大升级」</li>\n</ol>\n<p>🧠 Gemini 旗舰体验：约 4 倍免费用量、100 万 (1M) Token 超长上下文（吃下 1500 页文档/3 万行代码）、支持 1 小时视频/3 小时音频解析。</p>\n<p>💼 办公套件全注入：Gmail 、Docs 、Sheets 、Slides 均内置 Gemini 辅助，包含视频生成工具 Google Vids 及高配版 NotebookLM 。</p>\n<p>💻 开发者工具放宽：Google AI Studio 原型测试、Antigravity 编码智能体、Jules 并发任务均获扩容。</p>\n<ol>\n<li>共享与购物特权</li>\n</ol>\n<p>👨‍👩‍👧‍👦 家庭共享：最多免费再拉 5 位家庭成员共享存储和基础权益。</p>\n<p>🛍️ Google Store 返现：在谷歌商店购买硬件享受 10% 购物返点。</p>\n",
+      "contentSnippet": "duangthef1rst: \n每月固定发放的「真金白银」\n💾 5 TB 超大云空间：Drive / Gmail / 相册共用，支持家庭共享且文件各自私密。\n🎬 1,000 点/月 视频创作积分：用于 Google Flow 和 Whisk ，可生成约 66 条 720p 短视频（基于 Veo/Omni 模型）。\n🎵 10,000 点/月 音乐创作积分：独立于视频点数，用于 Lyria 3 音乐生成。\n💵 $10/月 GCP 云积分：需在开发者后台手动领取，可直接抵扣官方 Gemini API / Vertex AI 调用费用。\n白送的「生态订阅全家桶」\n📺 YouTube Premium Lite：大多数视频免广告（不含独立 YouTube Music ）。\n🏠 Google Home Premium Standard：30 天摄像头云端录像回放 + 家居 AI 语义检索（原价值约 $10/月）。\n⌚ Google Health Premium：解锁 Fitbit / Pixel Watch 的深度健康与睡眠 AI 分析。\nAI 本体与生产力「额度大升级」\n🧠 Gemini 旗舰体验：约 4 倍免费用量、100 万 (1M) Token 超长上下文（吃下 1500 页文档/3 万行代码）、支持 1 小时视频/3 小时音频解析。\n💼 办公套件全注入：Gmail 、Docs 、Sheets 、Slides 均内置 Gemini 辅助，包含视频生成工具 Google Vids 及高配版 NotebookLM 。\n💻 开发者工具放宽：Google AI Studio 原型测试、Antigravity 编码智能体、Jules 并发任务均获扩容。\n共享与购物特权\n👨‍👩‍👧‍👦 家庭共享：最多免费再拉 5 位家庭成员共享存储和基础权益。\n🛍️ Google Store 返现：在谷歌商店购买硬件享受 10% 购物返点。",
+      "creator": "duangthef1rst",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Google AI Pro offers substantial monthly perks valued at thousands of yuan. Benefits include 5 TB shared cloud storage, 1,000 video and 10,000 music creation credits, and $10 in GCP credits. Subscribers receive YouTube Premium Lite, Google Home Premium, and Google Health Premium access. AI features include expanded Gemini usage with a 1M-token context, AI integration across Gmail and Docs, and enhanced developer tools. Family sharing for up to five members and 10% Google Store purchase rewards are also included."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "有没有成色好的二手笔记本网店推荐",
+      "link": "https://www.v2ex.com/t/1239638",
+      "pubDate": "Sat, 05 Sep 2026 01:57:53 GMT",
+      "isoDate": "2026-09-05T01:57:53.000Z",
+      "content": "datocp: 又是上大学，今天有个同事找我推荐，吓，全新的拯救者这么贵，又比去年贵了 3000 。。。京东随便哪个新的都是 1 万以上。<br><br>电脑市场很乱，之前自己竟然花 4500 从 PPD 买了一台 thinkpad E15 。再看看那些翻新机带显卡才 3000 左右的价格。买过 2 次 PDD 的 ThinkPad 官翻机旗舰店 ，机器倒是像 99 新，E16 4199/T16 3791,但价格波动很大。<br><br>大家有买过成色好，使用稳定的网店嘛。真不应该掺合人家这种买电脑的事情，有问题麻烦多多。无奈钱包票票少。",
+      "contentSnippet": "datocp: 又是上大学，今天有个同事找我推荐，吓，全新的拯救者这么贵，又比去年贵了 3000 。。。京东随便哪个新的都是 1 万以上。\n电脑市场很乱，之前自己竟然花 4500 从 PPD 买了一台 thinkpad E15 。再看看那些翻新机带显卡才 3000 左右的价格。买过 2 次 PDD 的 ThinkPad 官翻机旗舰店 ，机器倒是像 99 新，E16 4199/T16 3791,但价格波动很大。\n大家有买过成色好，使用稳定的网店嘛。真不应该掺合人家这种买电脑的事情，有问题麻烦多多。无奈钱包票票少。",
+      "creator": "datocp",
+      "summaries": {
+        "zh": "用户发帖询问有无成色好的二手笔记本网店推荐。他提到同事买全新拯救者比去年贵了3000元，京东新机普遍上万。自己曾在拼多多花4500元买ThinkPad E15，还购买过两次ThinkPad官翻机旗舰店，机器成色接近99新，E16约4199元、T16约3791元，但价格波动大。希望大家推荐成色好、使用稳定的网店，同时感叹帮人参谋买电脑麻烦且预算有限。",
+        "en": "The article asks for recommendations for online stores selling high-quality second-hand laptops. The author notes that new laptops, such as Lenovo Legion models, have become more expensive, with prices exceeding 10,000 yuan on JD.com. After previous purchases, including a ThinkPad E15 for 4,500 yuan and two official refurbished ThinkPads from PDD (E16 at 4,199 yuan and T16 at 3,791 yuan), the machines looked nearly new but prices fluctuated. The author seeks stores offering reliable, well-conditioned used laptops while expressing regret over getting involved in others’ purchase decisions."
+      },
+      "summary": "用户发帖询问有无成色好的二手笔记本网店推荐。他提到同事买全新拯救者比去年贵了3000元，京东新机普遍上万。自己曾在拼多多花4500元买ThinkPad E15，还购买过两次ThinkPad官翻机旗舰店，机器成色接近99新，E16约4199元、T16约3791元，但价格波动大。希望大家推荐成色好、使用稳定的网店，同时感叹帮人参谋买电脑麻烦且预算有限。"
+    },
+    {
+      "title": "现在做什么技术的最容易找工作",
+      "link": "https://www.v2ex.com/t/1239623",
+      "pubDate": "Sat, 05 Sep 2026 01:03:02 GMT",
+      "isoDate": "2026-09-05T01:03:02.000Z",
+      "content": "pureGirl: ",
+      "contentSnippet": "pureGirl:",
+      "creator": "pureGirl",
+      "summaries": {
+        "zh": "该文章标题提出“现在做什么技术的最容易找工作”，但正文内容仅为“pureGirl:”，没有任何实际回答或信息。因此，无法从文中提取具体技术方向或就业建议，只能说明文章未提供有效内容。",
+        "en": "The provided article content is empty—it contains only the username \"pureGirl\" with no actual text or information. The title translates to \"What technology is easiest to find a job in right now?\", but no details, arguments, or data are supplied. Therefore, no substantive summary can be produced without inventing content. The source appears to be an incomplete post or placeholder lacking any useful information to summarize."
+      },
+      "summary": "该文章标题提出“现在做什么技术的最容易找工作”，但正文内容仅为“pureGirl:”，没有任何实际回答或信息。因此，无法从文中提取具体技术方向或就业建议，只能说明文章未提供有效内容。"
+    },
+    {
+      "title": "周六清早起来快蹬 马上又要重置了....",
+      "link": "https://www.v2ex.com/t/1239621",
+      "pubDate": "Sat, 05 Sep 2026 00:59:15 GMT",
+      "isoDate": "2026-09-05T00:59:15.000Z",
+      "content": "chengran630: 怀疑这次的重置是直接重置 不是发重置卡",
+      "contentSnippet": "chengran630: 怀疑这次的重置是直接重置 不是发重置卡",
+      "creator": "chengran630",
+      "summaries": {
+        "zh": "周六清早，用户发帖称游戏很快又要重置了，并引用网友“chengran630”的看法：怀疑这次重置是直接重置，而不是发放重置卡。内容简短，主要围绕对重置方式的猜测。",
+        "en": "The post by user chengran630 expresses suspicion that the upcoming reset will be a direct reset rather than involving reset cards. The title adds context that this happens early Saturday morning, with a sense of urgency about the reset approaching soon. No further details are provided."
+      },
+      "summary": "周六清早，用户发帖称游戏很快又要重置了，并引用网友“chengran630”的看法：怀疑这次重置是直接重置，而不是发放重置卡。内容简短，主要围绕对重置方式的猜测。"
+    },
+    {
+      "title": "GPT-6 Astra - 新的 O1 时刻",
+      "link": "https://www.v2ex.com/t/1239617",
+      "pubDate": "Sat, 05 Sep 2026 00:17:47 GMT",
+      "isoDate": "2026-09-05T00:17:47.000Z",
+      "content": "maolon: <p>Astra 正式推送后我和我的小伙伴立马试了一下。\n这是他的一些结果：\n<img alt=\"\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://i.imgur.com/Crt1HYP.png\">\n你以为我要和 x 上那些网红开始吹他的出色的“one-shot”生成 xxx 游戏吗？或者他的视觉或者 3d 能力提升吗？</p>\n<p>这些提升都很重要，比如按照反馈，之前 5.6 完全识别不了这些游戏的素材，以及这些素材能干什么，有什么用而 astra 则可以轻松解决，但是这些提升完全对不上这个标题。</p>\n<p>真正的突破是，比如这个可玩的游戏，astra 仅仅使用了 40 分钟，和以下的 token 用量和分布。</p>\n<p>Input: 8,354,979\nCached input: 8,145,408\nUncached input: 209,571\nOutput: 69,989\nReasoning tokens included in output: 19,230</p>\n<p>我们可以观察到两个结论</p>\n<ol>\n<li>他的总 token 量对于这个项目来说使用的非常少</li>\n<li>最关键的是 Reasoning tokens 只有不到 2 万</li>\n</ol>\n<p>在我的对一个相对复杂的 debug 里也明显发现了同样的现象，他只 compact 了两次就完成了整个事故报告的诊断（ astra 的 context window 默认 258k ）</p>\n<p>这说明 openai 自 gpt 5.4 以来的依赖长思维链提升性能的现状被完全改变（不分场合的雷霆大思考，总是钻牛角尖考虑一些有的没的 corner cases ），astra 恐怕是自 O1 发明 Test Time Scaling Law 以来，思维链效率最高的模型。这也就回到了标题：新的 O1 时刻, 这个模型成功的证明了不需要依靠 “线性” 拉长思维链来获取大幅度的性能提升。</p>\n<p>那么 openai 用了什么方法实现了这个效果？坊间传闻都是使用了 latent space reasoning 来实现这个效果，事实上我反而觉得可能性确实有，但是不一定是这么单纯的技术，第一这个潜空间推理实际不新鲜，学术圈火爆是去年，今年年初甚至有一个初中小孩复刻了一个小小的火了一把，在年初到现在模型大版本都迭代了 3 个版本不止的情况下为何没有人使用他？\n我个人的猜测是：他们可能用上了一直在 pro 上使用和测试的技术，并行推理和推理剪枝（以及从 OAI 还可以测试“告诉模型存在 CoT monitor 后，它会不会主动缩短 CoT”能看出这应该不是潜空间）。</p>\n<p>但是不管 OAI 是如何实现如此之高推理效率，他只能说明一件事情：大模型的推理范式又发生了重大改变，这项我们迟早会在其他开源模型上看到的技术（比如 deepseek r1 模仿 O1 ），极大的利好小型开源模型，因为他可以更加充分利用本就小的内存或者显存。</p>\n<p>怎么说呢，虽然我一直在骂 5.6 和 OAI / Codex ，但是他们能够引领两个时代的大模型范式改变依然说明作为前沿厂商的引领技术潮流的能力</p>\n",
+      "contentSnippet": "maolon: \nAstra 正式推送后我和我的小伙伴立马试了一下。\n这是他的一些结果：\n\n你以为我要和 x 上那些网红开始吹他的出色的“one-shot”生成 xxx 游戏吗？或者他的视觉或者 3d 能力提升吗？\n这些提升都很重要，比如按照反馈，之前 5.6 完全识别不了这些游戏的素材，以及这些素材能干什么，有什么用而 astra 则可以轻松解决，但是这些提升完全对不上这个标题。\n真正的突破是，比如这个可玩的游戏，astra 仅仅使用了 40 分钟，和以下的 token 用量和分布。\nInput: 8,354,979\nCached input: 8,145,408\nUncached input: 209,571\nOutput: 69,989\nReasoning tokens included in output: 19,230\n我们可以观察到两个结论\n他的总 token 量对于这个项目来说使用的非常少\n最关键的是 Reasoning tokens 只有不到 2 万\n在我的对一个相对复杂的 debug 里也明显发现了同样的现象，他只 compact 了两次就完成了整个事故报告的诊断（ astra 的 context window 默认 258k ）\n这说明 openai 自 gpt 5.4 以来的依赖长思维链提升性能的现状被完全改变（不分场合的雷霆大思考，总是钻牛角尖考虑一些有的没的 corner cases ），astra 恐怕是自 O1 发明 Test Time Scaling Law 以来，思维链效率最高的模型。这也就回到了标题：新的 O1 时刻, 这个模型成功的证明了不需要依靠 “线性” 拉长思维链来获取大幅度的性能提升。\n那么 openai 用了什么方法实现了这个效果？坊间传闻都是使用了 latent space reasoning 来实现这个效果，事实上我反而觉得可能性确实有，但是不一定是这么单纯的技术，第一这个潜空间推理实际不新鲜，学术圈火爆是去年，今年年初甚至有一个初中小孩复刻了一个小小的火了一把，在年初到现在模型大版本都迭代了 3 个版本不止的情况下为何没有人使用他？\n我个人的猜测是：他们可能用上了一直在 pro 上使用和测试的技术，并行推理和推理剪枝（以及从 OAI 还可以测试“告诉模型存在 CoT monitor 后，它会不会主动缩短 CoT”能看出这应该不是潜空间）。\n但是不管 OAI 是如何实现如此之高推理效率，他只能说明一件事情：大模型的推理范式又发生了重大改变，这项我们迟早会在其他开源模型上看到的技术（比如 deepseek r1 模仿 O1 ），极大的利好小型开源模型，因为他可以更加充分利用本就小的内存或者显存。\n怎么说呢，虽然我一直在骂 5.6 和 OAI / Codex ，但是他们能够引领两个时代的大模型范式改变依然说明作为前沿厂商的引领技术潮流的能力",
+      "creator": "maolon",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "The article discusses OpenAI’s GPT-6 Astra after its release. While Astra improves visual and 3D capabilities—such as recognizing game assets that GPT-5.6 couldn’t—the author argues the real breakthrough is reasoning efficiency. For example, Astra built a playable game in 40 minutes using roughly 8.35 million input tokens, only 69,989 output tokens, and fewer than 20,000 reasoning tokens. It also diagnosed complex bugs with just two compactions in a 258k context. The author speculates OpenAI may use parallel reasoning and reasoning pruning rather than latent-space reasoning. This signals a new reasoning paradigm, potentially benefiting smaller open-source models."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Claude 是不是又重置了？",
+      "link": "https://www.v2ex.com/t/1239616",
+      "pubDate": "Sat, 05 Sep 2026 00:09:58 GMT",
+      "isoDate": "2026-09-05T00:09:58.000Z",
+      "content": "v2dev: ",
+      "contentSnippet": "v2dev:",
+      "creator": "v2dev",
+      "summaries": {
+        "zh": "该内容仅包含标题“Claude 是不是又重置了？”和发帖标识“v2dev:”，正文为空，未提供任何有效信息。因此无法总结具体内容，仅能确认标题在询问 Claude 是否再次被重置，但缺乏相关细节。",
+        "en": "The article title asks whether Claude has been reset again, but the provided content contains no actual information—only the username \"v2dev:\" appears. There are no details, context, or statements to summarize. Therefore, no meaningful summary can be produced."
+      },
+      "summary": "该内容仅包含标题“Claude 是不是又重置了？”和发帖标识“v2dev:”，正文为空，未提供任何有效信息。因此无法总结具体内容，仅能确认标题在询问 Claude 是否再次被重置，但缺乏相关细节。"
+    }
+  ],
+  "lastUpdated": "2026-09-05T21:18:32.383Z"
+}

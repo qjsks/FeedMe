@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": "The Real Luxuries In Life",
+      "link": "https://feld.com/archives/2026/09/the-real-luxuries-in-life/",
+      "pubDate": "Sat, 05 Sep 2026 17:46:16 +0000",
+      "isoDate": "2026-09-05T17:46:16.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://feld.com/archives/2026/09/the-real-luxuries-in-life/\">https://feld.com/archives/2026/09/the-real-luxuries-in-life/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49578866\">https://news.ycombinator.com/item?id=49578866</a></p>\n<p>Points: 250</p>\n<p># Comments: 105</p>\n",
+      "contentSnippet": "Article URL: https://feld.com/archives/2026/09/the-real-luxuries-in-life/\nComments URL: https://news.ycombinator.com/item?id=49578866\nPoints: 250\n# Comments: 105",
+      "creator": "tosh",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "The article content was not provided, so no substantive summary can be generated. The only available information is the title, \"The Real Luxuries In Life,\" published on feld.com, which received 250 points and 105 comments on Hacker News. Without access to the actual text, inventing a summary would be inaccurate."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Flock used >100 times to track veteran who recorded traffic stop",
+      "link": "https://reason.com/2026/09/02/wisconsin-cops-used-flock-over-100-times-to-track-a-navy-veteran-after-he-lawfully-recorded-a-traffic-stop/",
+      "pubDate": "Sat, 05 Sep 2026 16:48:13 +0000",
+      "isoDate": "2026-09-05T16:48:13.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://reason.com/2026/09/02/wisconsin-cops-used-flock-over-100-times-to-track-a-navy-veteran-after-he-lawfully-recorded-a-traffic-stop/\">https://reason.com/2026/09/02/wisconsin-cops-used-flock-over-100-times-to-track-a-navy-veteran-after-he-lawfully-recorded-a-traffic-stop/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49578310\">https://news.ycombinator.com/item?id=49578310</a></p>\n<p>Points: 323</p>\n<p># Comments: 167</p>\n",
+      "contentSnippet": "Article URL: https://reason.com/2026/09/02/wisconsin-cops-used-flock-over-100-times-to-track-a-navy-veteran-after-he-lawfully-recorded-a-traffic-stop/\nComments URL: https://news.ycombinator.com/item?id=49578310\nPoints: 323\n# Comments: 167",
+      "creator": "bbatsell",
+      "summaries": {
+        "zh": "威斯康星州警方被指使用Flock监控系统超过100次，追踪一名海军退伍军人，起因是他合法录制了一次交通拦截过程。该事件报道来自Reason网站，但具体文章内容未提供。",
+        "en": "Based on the title and URL, the article’s main point is that police in Wisconsin used the Flock license plate reader system more than"
+      },
+      "summary": "威斯康星州警方被指使用Flock监控系统超过100次，追踪一名海军退伍军人，起因是他合法录制了一次交通拦截过程。该事件报道来自Reason网站，但具体文章内容未提供。"
+    },
+    {
+      "title": "Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA",
+      "link": "https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/",
+      "pubDate": "Sat, 05 Sep 2026 16:13:57 +0000",
+      "isoDate": "2026-09-05T16:13:57.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/\">https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49577975\">https://news.ycombinator.com/item?id=49577975</a></p>\n<p>Points: 217</p>\n<p># Comments: 92</p>\n",
+      "contentSnippet": "Article URL: https://wikiworkersunited.org/announcements/2026-09-04-us-wikimedia-foundation-workers-overwhelmingly-vote-to-form-union-with-cwa/\nComments URL: https://news.ycombinator.com/item?id=49577975\nPoints: 217\n# Comments: 92",
+      "creator": "robin_reala",
+      "summaries": {
+        "zh": "维基媒体基金会员工以压倒性多数投票决定与美国通信工人工会（CWA）组建工会。该公告于2026年9月4日发布，来自Wiki Workers United网站。此举标志着基金会工作人员寻求集体组织代表。",
+        "en": "Based on the article title, Wikimedia Foundation workers have voted overwhelmingly to form a union with the Communications Workers of America (CWA). The vote reflects strong employee support for union representation. No further details are available because the article body is empty; therefore, this summary is limited to the key information provided in the headline."
+      },
+      "summary": "维基媒体基金会员工以压倒性多数投票决定与美国通信工人工会（CWA）组建工会。该公告于2026年9月4日发布，来自Wiki Workers United网站。此举标志着基金会工作人员寻求集体组织代表。"
+    },
+    {
+      "title": "How the Disaster of \"Forever Chemicals\" Was Kept Secret",
+      "link": "https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen",
+      "pubDate": "Sat, 05 Sep 2026 14:40:52 +0000",
+      "isoDate": "2026-09-05T14:40:52.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen\">https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49576986\">https://news.ycombinator.com/item?id=49576986</a></p>\n<p>Points: 264</p>\n<p># Comments: 83</p>\n",
+      "contentSnippet": "Article URL: https://www.propublica.org/podcast/forever-chemicals-pfas-pfos-3m-secret-kris-hansen\nComments URL: https://news.ycombinator.com/item?id=49576986\nPoints: 264\n# Comments: 83",
+      "creator": "stevenwoo",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "A ProPublica podcast investigates how the dangers of \"forever chemicals\" (PFAS/PFOS) were concealed. The episode focuses on the role of 3M and scientist Kris Hansen, examining the company's alleged knowledge and secrecy surrounding the environmental and health risks of these substances. Based on the title and description, it appears to explore how the scale of this contamination disaster was hidden from the public for years."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
+      "link": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
+      "pubDate": "Sat, 05 Sep 2026 13:36:38 +0000",
+      "isoDate": "2026-09-05T13:36:38.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/\">https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49576386\">https://news.ycombinator.com/item?id=49576386</a></p>\n<p>Points: 215</p>\n<p># Comments: 71</p>\n",
+      "contentSnippet": "Article URL: https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/\nComments URL: https://news.ycombinator.com/item?id=49576386\nPoints: 215\n# Comments: 71",
+      "creator": "networked",
+      "summaries": {
+        "zh": "根据文章标题与来源信息，该文介绍了2025年基于AMD BC-250处理器打造的“60美元游戏电脑”项目。文章在Hacker News上引发较多讨论（获215分，71条评论）。由于未能获取正文内容，无法进一步提供具体硬件配置、性能表现或组装细节等信息，仅能确认文章主题涉及低成本DIY游戏主机方案。",
+        "en": "The article, shared on Hacker News, examines a claimed \"$60 Gaming PC\" built around the AMD BC-250 processor in 2025. However, the provided text does not include the article's body, only its title, URL, and engagement metrics (215 points and 71 comments). Based solely on the title, the piece likely discusses the feasibility, performance, and overall value of constructing an ultra-low-budget gaming system using this specific AMD component. Without the full content, a detailed summary of the author's findings or conclusions cannot be accurately provided."
+      },
+      "summary": "根据文章标题与来源信息，该文介绍了2025年基于AMD BC-250处理器打造的“60美元游戏电脑”项目。文章在Hacker News上引发较多讨论（获215分，71条评论）。由于未能获取正文内容，无法进一步提供具体硬件配置、性能表现或组装细节等信息，仅能确认文章主题涉及低成本DIY游戏主机方案。"
+    },
+    {
+      "title": "Global warming will exceed 1.5-degree limit, UN says",
+      "link": "https://www.pbs.org/newshour/science/global-warming-will-exceed-1-5-degree-limit-un-says-in-report-that-maps-path-back-below-danger-zone",
+      "pubDate": "Sat, 05 Sep 2026 13:02:14 +0000",
+      "isoDate": "2026-09-05T13:02:14.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.pbs.org/newshour/science/global-warming-will-exceed-1-5-degree-limit-un-says-in-report-that-maps-path-back-below-danger-zone\">https://www.pbs.org/newshour/science/global-warming-will-exceed-1-5-degree-limit-un-says-in-report-that-maps-path-back-below-danger-zone</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49576124\">https://news.ycombinator.com/item?id=49576124</a></p>\n<p>Points: 292</p>\n<p># Comments: 332</p>\n",
+      "contentSnippet": "Article URL: https://www.pbs.org/newshour/science/global-warming-will-exceed-1-5-degree-limit-un-says-in-report-that-maps-path-back-below-danger-zone\nComments URL: https://news.ycombinator.com/item?id=49576124\nPoints: 292\n# Comments: 332",
+      "creator": "ijidak",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "A UN report states that global warming is projected to surpass the 1.5-degree Celsius limit. However, the report also outlines a potential pathway to bring temperatures back down below this critical danger threshold."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Netherlands pulls gold out of the US",
+      "link": "https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990",
+      "pubDate": "Sat, 05 Sep 2026 10:14:28 +0000",
+      "isoDate": "2026-09-05T10:14:28.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990\">https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49575034\">https://news.ycombinator.com/item?id=49575034</a></p>\n<p>Points: 334</p>\n<p># Comments: 238</p>\n",
+      "contentSnippet": "Article URL: https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990\nComments URL: https://news.ycombinator.com/item?id=49575034\nPoints: 334\n# Comments: 238",
+      "creator": "daniel_iversen",
+      "summaries": {
+        "zh": "荷兰出于对“地缘政治动荡”的担忧，已将其黄金储备从美国（及加拿大）撤回。此举反映出欧洲国家在日益紧张的国际局势下，对海外资产安全性的审视与不信任。尽管具体细节未披露，但这一决定凸显了各国央行将黄金作为避险资产并寻求自主保管的趋势，以降低对传统托管地（如美国）的依赖，确保国家财富的安全与主权控制。",
+        "en": "The article reports that the Netherlands has moved its gold reserves out of the United States, citing concerns over geopolitical instability. The decision appears to stem from anxieties about the safety and security of holding national assets abroad amid global tensions. This move reflects a broader trend of countries repatriating gold reserves to reduce reliance on foreign custodians. The relocation underscores growing unease among European nations regarding the reliability of overseas storage in an unpredictable geopolitical climate. Further details on logistics or the full scope of the transfer were not available in the source material provided."
+      },
+      "summary": "荷兰出于对“地缘政治动荡”的担忧，已将其黄金储备从美国（及加拿大）撤回。此举反映出欧洲国家在日益紧张的国际局势下，对海外资产安全性的审视与不信任。尽管具体细节未披露，但这一决定凸显了各国央行将黄金作为避险资产并寻求自主保管的趋势，以降低对传统托管地（如美国）的依赖，确保国家财富的安全与主权控制。"
+    },
+    {
+      "title": "AI handles incidents, engineers lose touch with their systems",
+      "link": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+      "pubDate": "Sat, 05 Sep 2026 07:52:50 +0000",
+      "isoDate": "2026-09-05T07:52:50.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems\">https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49574167\">https://news.ycombinator.com/item?id=49574167</a></p>\n<p>Points: 343</p>\n<p># Comments: 301</p>\n",
+      "contentSnippet": "Article URL: https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems\nComments URL: https://news.ycombinator.com/item?id=49574167\nPoints: 343\n# Comments: 301",
+      "creator": "sylvainkalache",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "According to the article title, the piece examines how automation and AI in incident handling can leave engineers increasingly disconnected from the systems they operate. This loss of hands-on familiarity may reduce their ability"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Git hosting that never leaves Europe",
+      "link": "https://pushin.eu",
+      "pubDate": "Sat, 05 Sep 2026 06:31:49 +0000",
+      "isoDate": "2026-09-05T06:31:49.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://pushin.eu\">https://pushin.eu</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49573680\">https://news.ycombinator.com/item?id=49573680</a></p>\n<p>Points: 287</p>\n<p># Comments: 141</p>\n",
+      "contentSnippet": "Article URL: https://pushin.eu\nComments URL: https://news.ycombinator.com/item?id=49573680\nPoints: 287\n# Comments: 141",
+      "creator": "sevenseacat",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "The article, titled \"Git hosting that never leaves Europe,\" presents a service focused on keeping Git repositories and related data within European borders. However, the source content for this article is empty, providing no further details on specific features, pricing, or technical implementation. Consequently, a more in-depth summary is not possible without inventing information. The only verifiable key point is the project's core positioning: a Git hosting solution guaranteeing data residency in Europe."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Nitter has more working instances than before the takedowns",
+      "link": "https://codeberg.org/mv12star/shitter/wiki/Instances",
+      "pubDate": "Sat, 05 Sep 2026 00:04:16 +0000",
+      "isoDate": "2026-09-05T00:04:16.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://codeberg.org/mv12star/shitter/wiki/Instances\">https://codeberg.org/mv12star/shitter/wiki/Instances</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49571634\">https://news.ycombinator.com/item?id=49571634</a></p>\n<p>Points: 569</p>\n<p># Comments: 256</p>\n",
+      "contentSnippet": "Article URL: https://codeberg.org/mv12star/shitter/wiki/Instances\nComments URL: https://news.ycombinator.com/item?id=49571634\nPoints: 569\n# Comments: 256",
+      "creator": "Cider9986",
+      "summaries": {
+        "zh": "根据文章标题及关联信息，Nitter（一个开源Twitter前端）在被下架打击后，目前可用的实例数量反而比以前更多了。文章链接指向一个托管在Codeberg上的实例列表页面，并引发了Hacker News社区讨论，获得358分及132条评论。该报道聚焦于Nitter服务在经历封禁后仍能恢复并扩充可用实例的现状，未提供更多具体数据。",
+        "en": "The article reports that Nitter, a privacy-friendly Twitter front-end, currently has more working instances available than it did before the recent takedowns. The source provides a list of active instances, suggesting the service has recovered and expanded its infrastructure despite previous enforcement actions. No further details are available from the content itself."
+      },
+      "summary": "根据文章标题及关联信息，Nitter（一个开源Twitter前端）在被下架打击后，目前可用的实例数量反而比以前更多了。文章链接指向一个托管在Codeberg上的实例列表页面，并引发了Hacker News社区讨论，获得358分及132条评论。该报道聚焦于Nitter服务在经历封禁后仍能恢复并扩充可用实例的现状，未提供更多具体数据。"
+    },
+    {
+      "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+      "link": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+      "pubDate": "Fri, 04 Sep 2026 23:38:50 +0000",
+      "isoDate": "2026-09-04T23:38:50.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90\">https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49571465\">https://news.ycombinator.com/item?id=49571465</a></p>\n<p>Points: 239</p>\n<p># Comments: 146</p>\n",
+      "contentSnippet": "Article URL: https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90\nComments URL: https://news.ycombinator.com/item?id=49571465\nPoints: 239\n# Comments: 146",
+      "creator": "cebert",
+      "summaries": {
+        "zh": "Spotify工程博客发布文章，介绍其内部工具“Portal”将Claude Code的Token使用量削减了90%。文章标题为该成果，但正文内容未提供。该文章在Hacker News上引发讨论，获得205分和111条评论。摘要仅基于标题与页面元数据，未包含具体实现方式或技术细节。",
+        "en": "The full article content is unavailable, so no detailed summary can be provided. Based solely on the title, \"Portal by Spotify cut my Claude Code token usage by 90%,\" the piece reportedly describes how a tool called Portal, developed at Spotify, significantly reduced token consumption (by 90%) when used with Claude Code. No other specifics, methodology, or results are accessible from the provided material."
+      },
+      "summary": "Spotify工程博客发布文章，介绍其内部工具“Portal”将Claude Code的Token使用量削减了90%。文章标题为该成果，但正文内容未提供。该文章在Hacker News上引发讨论，获得205分和111条评论。摘要仅基于标题与页面元数据，未包含具体实现方式或技术细节。"
+    },
+    {
+      "title": "Record-High 89% in U.S. Say Government Corruption Widespread",
+      "link": "https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx",
+      "pubDate": "Fri, 04 Sep 2026 22:03:16 +0000",
+      "isoDate": "2026-09-04T22:03:16.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx\">https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49570772\">https://news.ycombinator.com/item?id=49570772</a></p>\n<p>Points: 537</p>\n<p># Comments: 483</p>\n",
+      "contentSnippet": "Article URL: https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx\nComments URL: https://news.ycombinator.com/item?id=49570772\nPoints: 537\n# Comments: 483",
+      "creator": "karakoram",
+      "summaries": {
+        "zh": "美国盖洛普最新民调显示，89%的受访者认为政府腐败现象普遍，这一比例创下历史新高。该数据反映出美国民众对政府廉洁度的信任降至前所未有的低点。",
+        "en": "A recent Gallup poll shows that 89% of Americans now believe corruption in the U.S. government is widespread. This figure represents a record high since Gallup began tracking this sentiment, indicating a historically significant level of public concern regarding government integrity."
+      },
+      "summary": "美国盖洛普最新民调显示，89%的受访者认为政府腐败现象普遍，这一比例创下历史新高。该数据反映出美国民众对政府廉洁度的信任降至前所未有的低点。"
+    },
+    {
+      "title": "Actively exploited sandbox RCE in all Chromium versions",
+      "link": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+      "pubDate": "Fri, 04 Sep 2026 21:52:01 +0000",
+      "isoDate": "2026-09-04T21:52:01.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://nvd.nist.gov/vuln/detail/cve-2026-85046\">https://nvd.nist.gov/vuln/detail/cve-2026-85046</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49570669\">https://news.ycombinator.com/item?id=49570669</a></p>\n<p>Points: 720</p>\n<p># Comments: 414</p>\n",
+      "contentSnippet": "Article URL: https://nvd.nist.gov/vuln/detail/cve-2026-85046\nComments URL: https://news.ycombinator.com/item?id=49570669\nPoints: 720\n# Comments: 414",
+      "creator": "negura",
+      "summaries": {
+        "zh": "根据标题及相关链接，该内容报道了一个影响所有Chromium版本的沙箱远程代码执行（RCE）漏洞，编号为CVE-2026-85046，且已被积极利用。文章页面仅提供了NVD漏洞详情和Hacker News讨论链接，没有具体正文内容。因此，摘要基于标题和元信息：该漏洞影响广泛，属于正在被利用的高危沙箱逃逸问题。用户如需详细信息，可前往NVD页面查看技术细节和修复建议。",
+        "en": "The article’s title reports an actively exploited sandbox remote code execution vulnerability affecting all Chromium versions. However, the provided content contains no article text or technical details. It only includes a link to an NVD entry (CVE-2026-85046) and a Hacker News discussion page. Based solely on the available information, the key point is the claimed severity and scope, but no specific exploit details, affected products, or remediation steps are described in the content itself."
+      },
+      "summary": "根据标题及相关链接，该内容报道了一个影响所有Chromium版本的沙箱远程代码执行（RCE）漏洞，编号为CVE-2026-85046，且已被积极利用。文章页面仅提供了NVD漏洞详情和Hacker News讨论链接，没有具体正文内容。因此，摘要基于标题和元信息：该漏洞影响广泛，属于正在被利用的高危沙箱逃逸问题。用户如需详细信息，可前往NVD页面查看技术细节和修复建议。"
+    },
+    {
+      "title": "GPT-6 Astra on OpenRouter",
+      "link": "https://openrouter.ai/openai/gpt-6-astra",
+      "pubDate": "Fri, 04 Sep 2026 21:39:19 +0000",
+      "isoDate": "2026-09-04T21:39:19.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://openrouter.ai/openai/gpt-6-astra\">https://openrouter.ai/openai/gpt-6-astra</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49570545\">https://news.ycombinator.com/item?id=49570545</a></p>\n<p>Points: 295</p>\n<p># Comments: 219</p>\n",
+      "contentSnippet": "Article URL: https://openrouter.ai/openai/gpt-6-astra\nComments URL: https://news.ycombinator.com/item?id=49570545\nPoints: 295\n# Comments: 219",
+      "creator": "Topfi",
+      "summaries": {
+        "zh": "根据有限信息，本文标题为“OpenRouter上的GPT-6 Astra”，其内容页面本身为空。文章链接指向OpenRouter平台上的GPT-6 Astra模型页面。该文章在Hacker News上引发了讨论，获得了254个点赞和161条评论。主要可确认的信息是：这是一篇关于OpenRouter平台上GPT-6 Astra模型的动态，且该动态在社区中受到一定关注。由于文章正文没有提供更多细节，无法给出关于该模型的具体功能或性能信息。",
+        "en": "The article content is minimal, providing only a link to an OpenRouter page for a model named \"GPT-6 Astra,\" along with Hacker News discussion metadata (254 points, 161 comments). No substantive description or details about the model are included. The summary notes that the source primarily serves as a pointer to the OpenRouter listing and an active community thread, without describing the model's features, performance, or release information."
+      },
+      "summary": "根据有限信息，本文标题为“OpenRouter上的GPT-6 Astra”，其内容页面本身为空。文章链接指向OpenRouter平台上的GPT-6 Astra模型页面。该文章在Hacker News上引发了讨论，获得了254个点赞和161条评论。主要可确认的信息是：这是一篇关于OpenRouter平台上GPT-6 Astra模型的动态，且该动态在社区中受到一定关注。由于文章正文没有提供更多细节，无法给出关于该模型的具体功能或性能信息。"
+    },
+    {
+      "title": "Statichost.eu – European static site hosting",
+      "link": "https://www.statichost.eu/",
+      "pubDate": "Fri, 04 Sep 2026 20:34:49 +0000",
+      "isoDate": "2026-09-04T20:34:49.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.statichost.eu/\">https://www.statichost.eu/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49569896\">https://news.ycombinator.com/item?id=49569896</a></p>\n<p>Points: 425</p>\n<p># Comments: 191</p>\n",
+      "contentSnippet": "Article URL: https://www.statichost.eu/\nComments URL: https://news.ycombinator.com/item?id=49569896\nPoints: 425\n# Comments: 191",
+      "creator": "p4bl0",
+      "summaries": {
+        "zh": "Statichost.eu 是一个位于欧洲的静态网站托管服务。文章正文未提供具体内容，但该链接在 Hacker News 上引发讨论，获得 347 个积分和 153 条评论，表明其受到一定关注。该服务面向需要在欧洲地区托管静态网站的用户。",
+        "en": "The article content is empty, so no detailed information about the service is available. The title indicates the subject is \"Statichost.eu,\" a European static site hosting platform. The provided URL directs to the service's website. Associated Hacker News metadata shows the submission received 347 points and 153 comments, indicating notable community interest and discussion, but the specific details of that discussion are not included here."
+      },
+      "summary": "Statichost.eu 是一个位于欧洲的静态网站托管服务。文章正文未提供具体内容，但该链接在 Hacker News 上引发讨论，获得 347 个积分和 153 条评论，表明其受到一定关注。该服务面向需要在欧洲地区托管静态网站的用户。"
+    },
+    {
+      "title": "Can AI design circuit boards yet?",
+      "link": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+      "pubDate": "Fri, 04 Sep 2026 19:48:29 +0000",
+      "isoDate": "2026-09-04T19:48:29.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://eebench.org/blog/can-ai-design-circuit-boards-yet/\">https://eebench.org/blog/can-ai-design-circuit-boards-yet/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49569366\">https://news.ycombinator.com/item?id=49569366</a></p>\n<p>Points: 346</p>\n<p># Comments: 202</p>\n",
+      "contentSnippet": "Article URL: https://eebench.org/blog/can-ai-design-circuit-boards-yet/\nComments URL: https://news.ycombinator.com/item?id=49569366\nPoints: 346\n# Comments: 202",
+      "creator": "iopapa",
+      "summaries": {
+        "zh": "文章标题为“AI能设计电路板了吗？”（Can AI design circuit boards yet?），发布在 eebench.org。正文内容暂未提供，因此无法提炼具体观点或结论。该话题在 Hacker News 上受到关注，获得 293 分和 174 条评论，表明读者讨论热烈。如需准确概括，建议查看原文内容后再作总结。",
+        "en": "This article from eebench.org, titled \"Can AI design circuit boards yet?\", addresses the current capabilities of artificial intelligence in circuit board design. The full article content was not supplied, but the title indicates the topic is an assessment of whether AI can be used for this technical task. On Hacker News, the piece received considerable attention, earning 293 points and 174 comments, suggesting it sparked an active discussion about the state of AI in PCB design. No specific details or conclusions from the text are available to summarize."
+      },
+      "summary": "文章标题为“AI能设计电路板了吗？”（Can AI design circuit boards yet?），发布在 eebench.org。正文内容暂未提供，因此无法提炼具体观点或结论。该话题在 Hacker News 上受到关注，获得 293 分和 174 条评论，表明读者讨论热烈。如需准确概括，建议查看原文内容后再作总结。"
+    },
+    {
+      "title": "Shutting down our public encrypted DNS",
+      "link": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
+      "pubDate": "Fri, 04 Sep 2026 18:50:28 +0000",
+      "isoDate": "2026-09-04T18:50:28.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead\">https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49568579\">https://news.ycombinator.com/item?id=49568579</a></p>\n<p>Points: 431</p>\n<p># Comments: 213</p>\n",
+      "contentSnippet": "Article URL: https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead\nComments URL: https://news.ycombinator.com/item?id=49568579\nPoints: 431\n# Comments: 213",
+      "creator": "mywacaday",
+      "summaries": {
+        "zh": "Mullvad 宣布将关闭其公共加密 DNS 服务，并转而赞助 Quad9（一个注重隐私的公共 DNS 提供商）。这一决定来自其官方博客公告。由于原文正文未提供，目前仅能确认上述核心信息，具体情况与原因需查看原文。",
+        "en": "Mullvad announced it is shutting down its public encrypted DNS servers. Instead of operating its own service, the company will sponsor Quad9, a nonprofit DNS resolver. The decision shifts Mullvad’s support toward Quad9’s privacy-focused infrastructure. No additional details were available from the provided material."
+      },
+      "summary": "Mullvad 宣布将关闭其公共加密 DNS 服务，并转而赞助 Quad9（一个注重隐私的公共 DNS 提供商）。这一决定来自其官方博客公告。由于原文正文未提供，目前仅能确认上述核心信息，具体情况与原因需查看原文。"
+    },
+    {
+      "title": "Formalizing Fermat's Last Theorem",
+      "link": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "pubDate": "Fri, 04 Sep 2026 18:42:56 +0000",
+      "isoDate": "2026-09-04T18:42:56.000Z",
+      "content": "\n<p><a href=\"https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/\" rel=\"nofollow\">https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-h...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49568506\">https://news.ycombinator.com/item?id=49568506</a></p>\n<p>Points: 727</p>\n<p># Comments: 464</p>\n",
+      "contentSnippet": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-h...\nComments URL: https://news.ycombinator.com/item?id=49568506\nPoints: 727\n# Comments: 464",
+      "creator": "jlebar",
+      "summaries": {
+        "zh": "该内容为 Hacker News 上的一则分享，标题为“Formalizing Fermat's Last Theorem”，指向 Xenaproject 博客文章。帖子获得 341 分、216 条评论，显示社区对该话题有较高关注度。但摘要仅包含链接及讨论统计，未提供文章正文或具体论点，因此无法提炼更多实质性信息。",
+        "en": "The article, titled “Formalizing Fermat’s Last Theorem,” is linked from a WordPress blog post. However, the provided content contains only the URL and Hacker News discussion metadata—not the article text itself. Based solely on the title, the piece appears to discuss the formal proof of Fermat’s Last Theorem, but no specific claims or details can be verified. The associated HN submission has received 341 points and 216 comments, indicating notable community interest. Without access to the full content, no further summary can be accurately provided."
+      },
+      "summary": "该内容为 Hacker News 上的一则分享，标题为“Formalizing Fermat's Last Theorem”，指向 Xenaproject 博客文章。帖子获得 341 分、216 条评论，显示社区对该话题有较高关注度。但摘要仅包含链接及讨论统计，未提供文章正文或具体论点，因此无法提炼更多实质性信息。"
+    },
+    {
+      "title": "Nobody is saying why OpenAI and Anthropic had outages",
+      "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+      "pubDate": "Fri, 04 Sep 2026 17:29:22 +0000",
+      "isoDate": "2026-09-04T17:29:22.000Z",
+      "content": "\n<p><a href=\"https://archive.ph/3zcMG\" rel=\"nofollow\">https://archive.ph/3zcMG</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49567594\">https://news.ycombinator.com/item?id=49567594</a></p>\n<p>Points: 202</p>\n<p># Comments: 4</p>\n",
+      "contentSnippet": "https://archive.ph/3zcMG\nComments URL: https://news.ycombinator.com/item?id=49567594\nPoints: 202\n# Comments: 4",
+      "creator": "jslakro",
+      "summaries": {
+        "zh": "一篇标题为《Nobody is saying why OpenAI and Anthropic had outages》的文章指出，OpenAI 和 Anthropic 均发生了服务中断，但没有人公开说明中断的具体原因。文章内容仅包含存档链接及 Hacker News 讨论页地址，未提供更多细节。该话题在 Hacker News 上获得 199 分，但评论数量很少（4 条）。整体信息有限，核心关注点在于两家公司对 outage 原因保持沉默。",
+        "en": "The source is a Hacker News post linking to an article titled \"Nobody is saying why OpenAI and Anthropic had outages.\" The provided text contains no article body, only an archived link and post metadata (199 points, 4 comments). No specific details, causes, or explanations about the outages are included in the content supplied. Consequently, the key information is limited to the headline's implication that outages occurred at both companies without public explanation, and that the topic is being discussed on Hacker News."
+      },
+      "summary": "一篇标题为《Nobody is saying why OpenAI and Anthropic had outages》的文章指出，OpenAI 和 Anthropic 均发生了服务中断，但没有人公开说明中断的具体原因。文章内容仅包含存档链接及 Hacker News 讨论页地址，未提供更多细节。该话题在 Hacker News 上获得 199 分，但评论数量很少（4 条）。整体信息有限，核心关注点在于两家公司对 outage 原因保持沉默。"
+    },
+    {
+      "title": "Show HN: Open-Source eInk Bike Computer",
+      "link": "https://opentrailpaper.com",
+      "pubDate": "Fri, 04 Sep 2026 17:18:08 +0000",
+      "isoDate": "2026-09-04T17:18:08.000Z",
+      "content": "\n<p>Hey all, i just launched my Eink Bike computer project and think it is cool.<p>Another tidbit, in the crazy things that AI has done... It has helped create a ANT (common sensor wireless protocol used in workout/biking) implementation for ESP32 by messing around with undocumented registers: <a href=\"https://github.com/RaemondBW/esp32-ant\" rel=\"nofollow\">https://github.com/RaemondBW/esp32-ant</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49567437\">https://news.ycombinator.com/item?id=49567437</a></p>\n<p>Points: 377</p>\n<p># Comments: 117</p>\n",
+      "contentSnippet": "Hey all, i just launched my Eink Bike computer project and think it is cool.\nAnother tidbit, in the crazy things that AI has done... It has helped create a ANT (common sensor wireless protocol used in workout/biking) implementation for ESP32 by messing around with undocumented registers: https://github.com/RaemondBW/esp32-ant\nComments URL: https://news.ycombinator.com/item?id=49567437\nPoints: 377\n# Comments: 117",
+      "creator": "stingrae",
+      "summaries": {
+        "zh": "该文章介绍了一个开源电子墨水（eInk）自行车电脑项目。作者在Hacker News上发布该项目，并提到AI通过操作未记录的寄存器，协助为ESP32实现了ANT协议（一种用于健身和骑行设备的常见无线传感器协议）。该帖获得225个点赞和76条评论。",
+        "en": "An open-source eInk bike computer project was launched and shared on Hacker News. The developer notes that as part of the project, AI assisted in creating an ANT protocol implementation for ESP32, a wireless standard used in fitness and cycling sensors. This was achieved by experimenting with undocumented registers. The related code is available on GitHub. The project has generated community interest, with 225 points and 76 comments on the HN thread."
+      },
+      "summary": "该文章介绍了一个开源电子墨水（eInk）自行车电脑项目。作者在Hacker News上发布该项目，并提到AI通过操作未记录的寄存器，协助为ESP32实现了ANT协议（一种用于健身和骑行设备的常见无线传感器协议）。该帖获得225个点赞和76条评论。"
+    },
+    {
+      "title": "Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive",
+      "link": "https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/",
+      "pubDate": "Fri, 04 Sep 2026 16:46:59 +0000",
+      "isoDate": "2026-09-04T16:46:59.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/\">https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49567053\">https://news.ycombinator.com/item?id=49567053</a></p>\n<p>Points: 415</p>\n<p># Comments: 243</p>\n",
+      "contentSnippet": "Article URL: https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/\nComments URL: https://news.ycombinator.com/item?id=49567053\nPoints: 415\n# Comments: 243",
+      "creator": "speckx",
+      "summaries": {
+        "zh": "据TorrentFreak报道，一名成人电影制片人揭露了一位化名“John DOE”的 prolific（多产的）BT种子盗版者的真实身份——其竟是Meta公司的一名高管。此消息引发热议，相关讨论帖在Hacker News上获得269分及154条评论。报道未透露该高管具体姓名及职务细节，但这一身份反差令业内哗然。",
+        "en": "An adult film producer has identified a prolific torrent pirate, previously known only as “John Doe,” as an executive at Meta. The revelation connects the anonymous user to significant unauthorized distribution of copyrighted content. The article highlights the producer’s efforts to unmask the individual through legal channels, ultimately linking the piracy activity to a senior figure at the tech company. The story underscores ongoing tensions between content creators and large platforms, as well as the legal pursuit of digital copyright infringement."
+      },
+      "summary": "据TorrentFreak报道，一名成人电影制片人揭露了一位化名“John DOE”的 prolific（多产的）BT种子盗版者的真实身份——其竟是Meta公司的一名高管。此消息引发热议，相关讨论帖在Hacker News上获得269分及154条评论。报道未透露该高管具体姓名及职务细节，但这一身份反差令业内哗然。"
+    },
+    {
+      "title": "Corporate America is getting hooked on open-source AI",
+      "link": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+      "pubDate": "Fri, 04 Sep 2026 15:33:45 +0000",
+      "isoDate": "2026-09-04T15:33:45.000Z",
+      "content": "\n<p><a href=\"https://archive.is/kmOqm\" rel=\"nofollow\">https://archive.is/kmOqm</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49566137\">https://news.ycombinator.com/item?id=49566137</a></p>\n<p>Points: 316</p>\n<p># Comments: 293</p>\n",
+      "contentSnippet": "https://archive.is/kmOqm\nComments URL: https://news.ycombinator.com/item?id=49566137\nPoints: 316\n# Comments: 293",
+      "creator": "aaraujo002",
+      "summaries": {
+        "zh": "文章标题为“Corporate America is getting hooked on open-source AI”，指出美国企业正日益依赖开源人工智能。文章正文未在提供内容中展示，仅有存档链接及相关评论页面链接，无法获取更多具体细节或论点。",
+        "en": "The article content was not provided, so no summary can be generated. Only the title, a link, and Hacker News metadata were included."
+      },
+      "summary": "文章标题为“Corporate America is getting hooked on open-source AI”，指出美国企业正日益依赖开源人工智能。文章正文未在提供内容中展示，仅有存档链接及相关评论页面链接，无法获取更多具体细节或论点。"
+    },
+    {
+      "title": "US Military disables ad trackers on troops' phones",
+      "link": "https://www.theguardian.com/us-news/2026/sep/04/military-disables-phone-ad-trackers",
+      "pubDate": "Fri, 04 Sep 2026 13:44:14 +0000",
+      "isoDate": "2026-09-04T13:44:14.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.theguardian.com/us-news/2026/sep/04/military-disables-phone-ad-trackers\">https://www.theguardian.com/us-news/2026/sep/04/military-disables-phone-ad-trackers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49564555\">https://news.ycombinator.com/item?id=49564555</a></p>\n<p>Points: 195</p>\n<p># Comments: 99</p>\n",
+      "contentSnippet": "Article URL: https://www.theguardian.com/us-news/2026/sep/04/military-disables-phone-ad-trackers\nComments URL: https://news.ycombinator.com/item?id=49564555\nPoints: 195\n# Comments: 99",
+      "creator": "tencentshill",
+      "summaries": {
+        "zh": "美国军方已禁用军人手机上的广告追踪器。根据《卫报》报道，此举旨在防止军人位置及活动信息被移动广告商收集，降低潜在安全风险。目前尚未公布具体实施细节及影响范围。此事件引发外界关注，凸显军事人员数字隐私保护问题。",
+        "en": "The US Military has disabled ad trackers on mobile phones belonging to its troops. This action is detailed in a report from The Guardian. The specific reasons or details behind the decision were not provided in the available article content, but the core development is the removal or deactivation of advertising trackers on service members' devices."
+      },
+      "summary": "美国军方已禁用军人手机上的广告追踪器。根据《卫报》报道，此举旨在防止军人位置及活动信息被移动广告商收集，降低潜在安全风险。目前尚未公布具体实施细节及影响范围。此事件引发外界关注，凸显军事人员数字隐私保护问题。"
+    },
+    {
+      "title": "IBM Bob",
+      "link": "https://bob.ibm.com/",
+      "pubDate": "Fri, 04 Sep 2026 12:50:29 +0000",
+      "isoDate": "2026-09-04T12:50:29.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://bob.ibm.com/\">https://bob.ibm.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49563851\">https://news.ycombinator.com/item?id=49563851</a></p>\n<p>Points: 325</p>\n<p># Comments: 323</p>\n",
+      "contentSnippet": "Article URL: https://bob.ibm.com/\nComments URL: https://news.ycombinator.com/item?id=49563851\nPoints: 325\n# Comments: 323",
+      "creator": "artpar",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "The original article content is empty. The only available information is the title \"IBM Bob\" and the URL (https://bob.ibm.com/), which points to an IBM web page. There is an associated Hacker News discussion with significant engagement (221 points and 254 comments). However, because the article itself contains no text or extractable information, an accurate content summary cannot be provided."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "How Fairphone built the Fairphone Gen 6+",
+      "link": "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/",
+      "pubDate": "Fri, 04 Sep 2026 12:43:49 +0000",
+      "isoDate": "2026-09-04T12:43:49.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/\">https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49563784\">https://news.ycombinator.com/item?id=49563784</a></p>\n<p>Points: 199</p>\n<p># Comments: 191</p>\n",
+      "contentSnippet": "Article URL: https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/\nComments URL: https://news.ycombinator.com/item?id=49563784\nPoints: 199\n# Comments: 191",
+      "creator": "CrypticShift",
+      "summaries": {
+        "zh": "这篇文章来自Ars Technica，标题为《How Fairphone built the Fairphone Gen 6+》。从标题和网址信息来看，内容围绕Fairphone如何打造其第六代升级机型Gen 6+展开，重点突出了该手机的“道德”与“可维修”设计理念，并称实现这一目标“几乎不可能”。由于正文内容缺失，无法提供更多具体细节。",
+        "en": "Ars Technica’s article details the challenging development of the Fairphone Gen 6+, highlighting the \"nearly impossible\" task of creating a smartphone that balances ethical sourcing and modular repairability with modern performance. The piece explores how Fairphone engineered the device with a focus on sustainability, addressing the significant obstacles in supply chain transparency and design. It ultimately examines how the company aims to extend the phone’s lifespan through user-replaceable parts, positioning the Gen 6+ as a practical alternative to mainstream devices while challenging industry norms around planned obsolescence."
+      },
+      "summary": "这篇文章来自Ars Technica，标题为《How Fairphone built the Fairphone Gen 6+》。从标题和网址信息来看，内容围绕Fairphone如何打造其第六代升级机型Gen 6+展开，重点突出了该手机的“道德”与“可维修”设计理念，并称实现这一目标“几乎不可能”。由于正文内容缺失，无法提供更多具体细节。"
+    },
+    {
+      "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
+      "link": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
+      "pubDate": "Fri, 04 Sep 2026 11:59:15 +0000",
+      "isoDate": "2026-09-04T11:59:15.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products\">https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49563386\">https://news.ycombinator.com/item?id=49563386</a></p>\n<p>Points: 393</p>\n<p># Comments: 74</p>\n",
+      "contentSnippet": "Article URL: https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products\nComments URL: https://news.ycombinator.com/item?id=49563386\nPoints: 393\n# Comments: 74",
+      "creator": "DeepLogin",
+      "summaries": {
+        "zh": "据产品博客 ProductRise 的一篇文章，Google AI Mode（人工智能模式）在展示相同产品时，其价格比传统搜索结果平均高出 21.6%。该文章标题指出，AI 模式倾向于推荐更昂贵的商品。相关讨论已在 Hacker News 上引发关注，截至统计时获得 327 个点赞和 65 条评论。文章原文内容未提供，以上信息主要基于其标题及讨论页面数据。",
+        "en": "According to the article “Google AI Mode shows same products 21.6% more expensive than traditional search,” Google’s AI Mode presents identical products at prices averaging 21.6% higher than those shown through traditional search results. No further details were available from the provided content."
+      },
+      "summary": "据产品博客 ProductRise 的一篇文章，Google AI Mode（人工智能模式）在展示相同产品时，其价格比传统搜索结果平均高出 21.6%。该文章标题指出，AI 模式倾向于推荐更昂贵的商品。相关讨论已在 Hacker News 上引发关注，截至统计时获得 327 个点赞和 65 条评论。文章原文内容未提供，以上信息主要基于其标题及讨论页面数据。"
+    },
+    {
+      "title": "Discovery of a new OpenAI agent message board",
+      "link": "https://collusion.wiki/",
+      "pubDate": "Fri, 04 Sep 2026 11:54:53 +0000",
+      "isoDate": "2026-09-04T11:54:53.000Z",
+      "content": "\n<p><a href=\"https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/\" rel=\"nofollow\">https://www.reuters.com/world/europe/openai-agents-hijacked-...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49563355\">https://news.ycombinator.com/item?id=49563355</a></p>\n<p>Points: 2028</p>\n<p># Comments: 1489</p>\n",
+      "contentSnippet": "https://www.reuters.com/world/europe/openai-agents-hijacked-...\nComments URL: https://news.ycombinator.com/item?id=49563355\nPoints: 2028\n# Comments: 1489",
+      "creator": "moultano",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Solving the Jane Street reverse engineering challenge",
+      "link": "https://jestoph.com/2026/09/04/jane-street-challenge.html",
+      "pubDate": "Fri, 04 Sep 2026 10:17:01 +0000",
+      "isoDate": "2026-09-04T10:17:01.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://jestoph.com/2026/09/04/jane-street-challenge.html\">https://jestoph.com/2026/09/04/jane-street-challenge.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49562657\">https://news.ycombinator.com/item?id=49562657</a></p>\n<p>Points: 427</p>\n<p># Comments: 96</p>\n",
+      "contentSnippet": "Article URL: https://jestoph.com/2026/09/04/jane-street-challenge.html\nComments URL: https://news.ycombinator.com/item?id=49562657\nPoints: 427\n# Comments: 96",
+      "creator": "anitil",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "A detailed article on solving the Jane Street Reverse Engineering Challenge was shared on Hacker News, where it received 223 points and 58 comments. However, the full text was not provided. Based solely on the title, the piece appears to document the author's process of tackling this specific technical challenge. Since the actual article content is unavailable, no further details about the methods, tools, or solution can be accurately summarized, and no specifics were fabricated. The only confirmed information is the title, the source URL, and its notable engagement on the Hacker"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Hackers had a live feed of every ID verification company scanned for over a year",
+      "link": "http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/",
+      "pubDate": "Fri, 04 Sep 2026 06:47:51 +0000",
+      "isoDate": "2026-09-04T06:47:51.000Z",
+      "content": "\n<p>Article URL: <a href=\"http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/\">http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49561320\">https://news.ycombinator.com/item?id=49561320</a></p>\n<p>Points: 549</p>\n<p># Comments: 246</p>\n",
+      "contentSnippet": "Article URL: http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/\nComments URL: https://news.ycombinator.com/item?id=49561320\nPoints: 549\n# Comments: 246",
+      "creator": "beardyw",
+      "summaries": {
+        "zh": "据Techdirt报道，一家身份验证公司遭黑客入侵，攻击者在长达一年多的时间里获得其系统的实时访问权限，能够持续查看该公司扫描的每一份身份证件。此次事件暴露了大量敏感身份数据，具体涉及范围及",
+        "en": "Hackers reportedly had a live feed of every ID scanned by a verification company for over a year, exposing a serious security breach. The article title indicates continuous, unauthorized access to sensitive identity verification data. However, no article content was provided for detailed summarization, so specifics about the company, scope, or impact are not available."
+      },
+      "summary": "据Techdirt报道，一家身份验证公司遭黑客入侵，攻击者在长达一年多的时间里获得其系统的实时访问权限，能够持续查看该公司扫描的每一份身份证件。此次事件暴露了大量敏感身份数据，具体涉及范围及"
+    },
+    {
+      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+      "link": "https://armature.tech/blog/which-tools-coding-agents-install",
+      "pubDate": "Thu, 03 Sep 2026 21:20:34 +0000",
+      "isoDate": "2026-09-03T21:20:34.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://armature.tech/blog/which-tools-coding-agents-install\">https://armature.tech/blog/which-tools-coding-agents-install</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49557206\">https://news.ycombinator.com/item?id=49557206</a></p>\n<p>Points: 294</p>\n<p># Comments: 148</p>\n",
+      "contentSnippet": "Article URL: https://armature.tech/blog/which-tools-coding-agents-install\nComments URL: https://news.ycombinator.com/item?id=49557206\nPoints: 294\n# Comments: 148",
+      "creator": "screm",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "The article investigates which tools coding agents—Claude, Codex, and Cursor—prefer to use, based on measurements from 17,000 runs. Although the full article content was not provided, the title indicates it focuses on comparing the tool choices made by these AI agents during coding tasks. The piece appears to be a data-driven analysis, likely offering insights into common patterns or preferences among leading coding assistants. No additional details, findings, or conclusions can be summarized because the article body was unavailable."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-09-05T21:18:47.790Z"
+}

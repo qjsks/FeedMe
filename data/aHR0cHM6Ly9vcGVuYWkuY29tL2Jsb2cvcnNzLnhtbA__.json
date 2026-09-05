@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://openai.com/blog/rss.xml",
+  "title": "OpenAI News",
+  "description": "The OpenAI blog",
+  "link": "https://openai.com/news",
+  "items": [
+    {
+      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "link": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "pubDate": "Thu, 03 Sep 2026 13:15:00 GMT",
+      "isoDate": "2026-09-03T13:15:00.000Z",
+      "content": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+      "contentSnippet": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI推出“Daybreak for Frontline Defenders”计划，承诺投入10亿美元，扩大前沿网络AI、培训及支持服务的获取范围，以保护关键基础设施和基本服务。该计划旨在帮助一线防御者应对网络威胁。",
+        "en": "OpenAI has announced “Daybreak for Frontline Defenders,” a $1 billion initiative aimed at protecting essential services. The program expands access to frontier cyber AI, along with training and support, for organizations that serve critical infrastructure and frontline roles. By increasing availability of advanced security tools, the effort seeks to strengthen defenses against evolving cyber threats. The announcement highlights a major financial commitment to safeguarding vital public services."
+      },
+      "summary": "OpenAI推出“Daybreak for Frontline Defenders”计划，承诺投入10亿美元，扩大前沿网络AI、培训及支持服务的获取范围，以保护关键基础设施和基本服务。该计划旨在帮助一线防御者应对网络威胁。"
+    },
+    {
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "pubDate": "Thu, 03 Sep 2026 12:00:00 GMT",
+      "isoDate": "2026-09-03T12:00:00.000Z",
+      "content": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "contentSnippet": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "creator": "",
+      "summaries": {
+        "zh": "Playco 公司利用 GPT-6 Astra 模型，基于一个灰盒基础框架构建了三个不同主题的游戏原型。该公司报告称，与使用之前的模型相比，手动修复工作量减少了 50%。",
+        "en": "Playco used GPT-6 Astra to create three themed game prototypes from a single grey box foundation. The company reported a 50% reduction in manual fixes compared to its previous model, indicating improved prototyping efficiency and fewer corrections needed during development."
+      },
+      "summary": "Playco 公司利用 GPT-6 Astra 模型，基于一个灰盒基础框架构建了三个不同主题的游戏原型。该公司报告称，与使用之前的模型相比，手动修复工作量减少了 50%。"
+    },
+    {
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "pubDate": "Thu, 03 Sep 2026 12:00:00 GMT",
+      "isoDate": "2026-09-03T12:00:00.000Z",
+      "content": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+      "contentSnippet": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+      "creator": "",
+      "summaries": {
+        "zh": "Legora 借助 GPT-6 Astra 在数分钟内完成了41份文档的审阅，成功找出全部四个预先设置的错误，并在该财务审阅工作流中将性能提升了近40%。",
+        "en": "Legora used GPT-6 Astra to review 41 financial documents in just minutes. The tool successfully identified all four deliberately planted errors and boosted workflow performance by nearly 40%. This demonstrates a significant efficiency gain in financial-review tasks."
+      },
+      "summary": "Legora 借助 GPT-6 Astra 在数分钟内完成了41份文档的审阅，成功找出全部四个预先设置的错误，并在该财务审阅工作流中将性能提升了近40%。"
+    },
+    {
+      "title": "GPT-6 Astra: A new generation of intelligence",
+      "link": "https://openai.com/index/gpt-6-astra",
+      "pubDate": "Thu, 03 Sep 2026 11:00:00 GMT",
+      "isoDate": "2026-09-03T11:00:00.000Z",
+      "content": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+      "contentSnippet": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+      "creator": "",
+      "summaries": {
+        "zh": "GPT-6 Astra 是新一代人工智能模型，被其团队称为迄今最智能、对齐度最高的版本。它在计算机使用、编程、网络安全和科学等领域具备顶尖能力。此次发布重点强调模型在专业任务中的性能提升与安全性优化，但目前未提供更多技术细节或应用案例。",
+        "en": "GPT-6 Astra is introduced as a new-generation AI model, described as the most intelligent and aligned to date. It features state-of-the-art capabilities in computer use, coding, cybersecurity, and science. The announcement highlights its advanced performance across these domains, positioning it as a significant step forward in AI development."
+      },
+      "summary": "GPT-6 Astra 是新一代人工智能模型，被其团队称为迄今最智能、对齐度最高的版本。它在计算机使用、编程、网络安全和科学等领域具备顶尖能力。此次发布重点强调模型在专业任务中的性能提升与安全性优化，但目前未提供更多技术细节或应用案例。"
+    },
+    {
+      "title": "Safety overview: GPT-6 Astra",
+      "link": "https://openai.com/index/safety-overview-gpt-6-astra",
+      "pubDate": "Thu, 03 Sep 2026 00:00:00 GMT",
+      "isoDate": "2026-09-03T00:00:00.000Z",
+      "content": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+      "contentSnippet": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+      "creator": "",
+      "summaries": {
+        "zh": "GPT-6 Astra 是我们已广泛部署的模型中能力最强的，也是在 Preparedness Framework 下首个达到“严重（Critical）”网络安全能力等级的模型。该概述突出其在安全分级中的关键里程碑，表明其高水平能力已被正式评估。",
+        "en": "GPT-6 Astra is described as the most capable broadly deployed model to date. It is also the first model to reach the Critical level of cybersecurity capability under the company’s Preparedness Framework. This marks a significant milestone in the model’s safety and capability assessment. The overview focuses on highlighting these key technical and safety-related achievements without additional detail."
+      },
+      "summary": "GPT-6 Astra 是我们已广泛部署的模型中能力最强的，也是在 Preparedness Framework 下首个达到“严重（Critical）”网络安全能力等级的模型。该概述突出其在安全分级中的关键里程碑，表明其高水平能力已被正式评估。"
+    },
+    {
+      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "link": "https://openai.com/index/atv-big-air-tour",
+      "pubDate": "Wed, 02 Sep 2026 12:00:00 GMT",
+      "isoDate": "2026-09-02T12:00:00.000Z",
+      "content": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+      "contentSnippet": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+      "creator": "",
+      "summaries": {
+        "zh": "ATV Big Air Tour 利用 ChatGPT 工作版加速其市场营销和商品销售等业务。他们表示，原本需要 3 天的工作现在只需 3 小时即可完成。此外，团队还将商品照片转换成商品库存网站，整个过程仅用了 15 分钟。",
+        "en": "ATV Big Air Tour uses ChatGPT Work to streamline business operations, significantly reducing the time spent on marketing and merchandising tasks. By leveraging the AI tool, the company cut a project that typically took three days down to just three hours. In one notable instance, ChatGPT Work transformed merchandise photos into a fully functional inventory website in only 15 minutes, showcasing the tool's efficiency in handling complex tasks quickly."
+      },
+      "summary": "ATV Big Air Tour 利用 ChatGPT 工作版加速其市场营销和商品销售等业务。他们表示，原本需要 3 天的工作现在只需 3 小时即可完成。此外，团队还将商品照片转换成商品库存网站，整个过程仅用了 15 分钟。"
+    },
+    {
+      "title": "How AI-native companies turn workflows into operating capability",
+      "link": "https://openai.com/index/ai-native-company-workflows",
+      "pubDate": "Tue, 01 Sep 2026 17:00:00 GMT",
+      "isoDate": "2026-09-01T17:00:00.000Z",
+      "content": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+      "contentSnippet": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+      "creator": "",
+      "summaries": {
+        "zh": "AI原生公司（如Basis、Clay和Exa Labs）将AI智能体嵌入工作流，用于优化客户入职、账户管理和开发者集成等环节，从而把日常流程转化为可复用的运营能力。文章指出，企业领导者可借鉴这一做法，通过AI代理提升效率与响应速度，实现从单点工具到系统性运营能力的转变。核心启示在于：将AI深度融入关键业务流程，而非仅作辅助。",
+        "en": "AI-native companies such as Basis, Clay, and Exa Labs are using AI agents to transform key workflows into operational strengths. They focus on improving customer onboarding, account management, and developer integrations. These examples show how AI can streamline processes and enhance efficiency. Enterprise leaders can apply similar approaches to turn routine workflows into scalable operating capabilities. The key is integrating AI agents strategically into core business functions rather than treating them as isolated tools."
+      },
+      "summary": "AI原生公司（如Basis、Clay和Exa Labs）将AI智能体嵌入工作流，用于优化客户入职、账户管理和开发者集成等环节，从而把日常流程转化为可复用的运营能力。文章指出，企业领导者可借鉴这一做法，通过AI代理提升效率与响应速度，实现从单点工具到系统性运营能力的转变。核心启示在于：将AI深度融入关键业务流程，而非仅作辅助。"
+    },
+    {
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "link": "https://openai.com/index/path-to-astra",
+      "pubDate": "Tue, 01 Sep 2026 13:00:00 GMT",
+      "isoDate": "2026-09-01T13:00:00.000Z",
+      "content": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+      "contentSnippet": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+      "creator": "",
+      "summaries": {
+        "zh": "Astra是OpenAI首个在《预备框架》下达到“关键网络安全能力”门槛的模型。该门槛是根据预备框架评估得出的，标志着其能力已达到关键水平。同时，OpenAI为Astra的发布配备了更强的安全防护措施，以确保其在具备高级能力的同时，能够更安全地部署和使用。",
+        "en": "Astra is the first OpenAI model to reach the \"Critical\" cybersecurity capability threshold under the company’s Preparedness Framework. Because of this elevated capability level, OpenAI applied stronger safeguards before releasing the model. The announcement highlights both the model’s advanced security-related abilities and the increased protective measures taken to ensure responsible deployment."
+      },
+      "summary": "Astra是OpenAI首个在《预备框架》下达到“关键网络安全能力”门槛的模型。该门槛是根据预备框架评估得出的，标志着其能力已达到关键水平。同时，OpenAI为Astra的发布配备了更强的安全防护措施，以确保其在具备高级能力的同时，能够更安全地部署和使用。"
+    },
+    {
+      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "pubDate": "Tue, 01 Sep 2026 12:00:00 GMT",
+      "isoDate": "2026-09-01T12:00:00.000Z",
+      "content": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+      "contentSnippet": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+      "creator": "",
+      "summaries": {
+        "zh": "医疗机构现在可以将电子健康记录（EHR）及其他行业数据连接到ChatGPT。ChatGPT能够接入可信的医疗数据，帮助临床医生安全地获取患者背景信息、医学研究资料等内容。该功能旨在为医疗工作者提供更便捷的信息访问方式。",
+        "en": "Healthcare organizations can now connect ChatGPT to electronic health records (EHR) and additional industry data. This integration allows clinicians to securely access relevant patient context, medical research, and related information in a trusted environment. The announcement highlights a new capability aimed at streamlining clinical workflows by bringing AI-assisted data retrieval directly into healthcare settings, while maintaining security and reliability."
+      },
+      "summary": "医疗机构现在可以将电子健康记录（EHR）及其他行业数据连接到ChatGPT。ChatGPT能够接入可信的医疗数据，帮助临床医生安全地获取患者背景信息、医学研究资料等内容。该功能旨在为医疗工作者提供更便捷的信息访问方式。"
+    },
+    {
+      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+      "link": "https://openai.com/index/gilbert-tobin",
+      "pubDate": "Tue, 01 Sep 2026 01:00:00 GMT",
+      "isoDate": "2026-09-01T01:00:00.000Z",
+      "content": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
+      "contentSnippet": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
+      "creator": "",
+      "summaries": {
+        "zh": "Gilbert + Tobin律师事务所借助OpenAI的ChatGPT Enterprise和Codex，在全所范围内推广生成式AI应用。其成功经验在于将CEO的坚定支持、严格的治理框架和明确的人类问责机制相结合，确保技术规模化落地的同时有效管控风险。该案例展示了专业服务机构如何在AI应用中平衡创新与合规。",
+        "en": "Gilbert + Tobin, an Australian law firm, scales AI tools like ChatGPT Enterprise and Codex by combining CEO-led commitment with rigorous governance and human accountability. The article highlights how this structured approach supports firm-wide adoption of generative AI while maintaining oversight and responsibility. The content outlines their framework for integrating these technologies across legal operations, emphasizing leadership buy-in and controlled implementation rather than providing specific technical details or metrics."
+      },
+      "summary": "Gilbert + Tobin律师事务所借助OpenAI的ChatGPT Enterprise和Codex，在全所范围内推广生成式AI应用。其成功经验在于将CEO的坚定支持、严格的治理框架和明确的人类问责机制相结合，确保技术规模化落地的同时有效管控风险。该案例展示了专业服务机构如何在AI应用中平衡创新与合规。"
+    },
+    {
+      "title": "OpenAI supports California’s bill to advance youth AI safety",
+      "link": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+      "pubDate": "Mon, 31 Aug 2026 07:00:00 GMT",
+      "isoDate": "2026-08-31T07:00:00.000Z",
+      "content": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
+      "contentSnippet": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI表示支持加利福尼亚州参议院法案SB 1119。该法案旨在为青少年建立强有力的、适龄的人工智能安全保护措施，同时保留他们学习、创造和探索的机会。OpenAI的立场强调在保障年轻人安全与不限制其发展潜力之间取得平衡。",
+        "en": "OpenAI has expressed support for California’s Senate Bill 1119, which aims to establish strong, age-appropriate AI safeguards for teenagers. The company emphasizes that the bill balances safety with preserving young people’s opportunities to learn, create, and explore using AI. The summary reflects OpenAI’s endorsement of the legislation and its focus on teen protection without restricting beneficial access."
+      },
+      "summary": "OpenAI表示支持加利福尼亚州参议院法案SB 1119。该法案旨在为青少年建立强有力的、适龄的人工智能安全保护措施，同时保留他们学习、创造和探索的机会。OpenAI的立场强调在保障年轻人安全与不限制其发展潜力之间取得平衡。"
+    },
+    {
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "link": "https://openai.com/index/polimill",
+      "pubDate": "Mon, 31 Aug 2026 07:00:00 GMT",
+      "isoDate": "2026-08-31T07:00:00.000Z",
+      "content": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+      "contentSnippet": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+      "creator": "",
+      "summaries": {
+        "zh": "Polimill正在构建日本下一代公共AI基础设施，利用OpenAI的GPT模型和Codex，帮助地方政府搜索和利用行政知识，同时加速开发进程。该公司将AI技术应用于公共行政领域，提升信息检索与使用效率。",
+        "en": "Polimill is developing Japan’s next-generation public AI infrastructure. The company leverages OpenAI’s GPT models and Codex to assist municipalities in searching and utilizing administrative knowledge. This approach also accelerates development, enabling more efficient use of public-sector information."
+      },
+      "summary": "Polimill正在构建日本下一代公共AI基础设施，利用OpenAI的GPT模型和Codex，帮助地方政府搜索和利用行政知识，同时加速开发进程。该公司将AI技术应用于公共行政领域，提升信息检索与使用效率。"
+    },
+    {
+      "title": "A milestone in expanding access to AI",
+      "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "pubDate": "Mon, 31 Aug 2026 04:00:00 GMT",
+      "isoDate": "2026-08-31T04:00:00.000Z",
+      "content": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+      "contentSnippet": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+      "creator": "",
+      "summaries": {
+        "zh": "ChatGPT Ads年化收入达到10亿美元，并在全球范围内扩展。这一里程碑式进展通过免费和低价选项，降低了AI使用门槛，让更多人能够便捷地接触和利用人工智能技术。",
+        "en": "ChatGPT Ads has reached a $1 billion annualized revenue run rate, marking a key milestone. The platform is also expanding globally, which supports broader access to AI by helping fund free and affordable options for users."
+      },
+      "summary": "ChatGPT Ads年化收入达到10亿美元，并在全球范围内扩展。这一里程碑式进展通过免费和低价选项，降低了AI使用门槛，让更多人能够便捷地接触和利用人工智能技术。"
+    },
+    {
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "pubDate": "Fri, 28 Aug 2026 06:00:00 GMT",
+      "isoDate": "2026-08-28T06:00:00.000Z",
+      "content": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+      "contentSnippet": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题：关于SpaceX收购Cursor后我们的决定\n\n内容摘要：由于Cursor被SpaceX收购，我们决定终止向其提供OpenAI模型的合同。",
+        "en": "The company announced it will terminate its contract to supply OpenAI models to Cursor, following Cursor’s acquisition by SpaceX. This decision means the existing partnership will be wound down after the acquisition. No further details or reasons were provided beyond the change in ownership."
+      },
+      "summary": "文章标题：关于SpaceX收购Cursor后我们的决定\n\n内容摘要：由于Cursor被SpaceX收购，我们决定终止向其提供OpenAI模型的合同。"
+    },
+    {
+      "title": "Supporting Thailand’s next generation of AI startups",
+      "link": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "pubDate": "Fri, 28 Aug 2026 02:00:00 GMT",
+      "isoDate": "2026-08-28T02:00:00.000Z",
+      "content": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+      "contentSnippet": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI与泰国高等教育、科研与创新部（MHESI）合作，推出为期八周的加速器项目，支持10家医疗、健康与教育领域的初创企业，帮助其将AI原型转化为可信赖的产品，助力泰国新一代AI初创公司发展。",
+        "en": "OpenAI and Thailand’s Ministry of Higher Education, Science, Research and Innovation (MHESI) have launched an eight-week accelerator program. It supports ten startups in health, wellness, and education, helping them transform AI prototypes into reliable products. The initiative aims to strengthen Thailand’s emerging AI startup ecosystem and foster trusted innovation in key sectors."
+      },
+      "summary": "OpenAI与泰国高等教育、科研与创新部（MHESI）合作，推出为期八周的加速器项目，支持10家医疗、健康与教育领域的初创企业，帮助其将AI原型转化为可信赖的产品，助力泰国新一代AI初创公司发展。"
+    },
+    {
+      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+      "link": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+      "pubDate": "Thu, 27 Aug 2026 09:00:00 GMT",
+      "isoDate": "2026-08-27T09:00:00.000Z",
+      "content": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
+      "contentSnippet": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
+      "creator": "",
+      "summaries": {
+        "zh": "一项涉及1000多名学生的随机研究发现，ChatGPT与批判性思维训练相结合，能够改善学生的答案质量，并拓展其思维广度。研究聚焦于真实大学作业中学生的表现、原创性及批判性思维能力的提升。结果表明，接受相关训练的学生在作业中展现出更出色的综合分析能力。不过，研究未提供具体数据细节，仅指出ChatGPT与批判性思维训练之间的关联。",
+        "en": "A randomized study involving over 1,000 students explored how ChatGPT and critical-thinking training affect learning outcomes. It assessed student performance on a real university assignment, focusing on answer quality, originality, and broader thinking. The findings suggest that combining ChatGPT use with critical-thinking instruction improves student responses and encourages more expansive reasoning. The study highlights potential benefits of integrating AI tools with structured thinking skills in educational settings."
+      },
+      "summary": "一项涉及1000多名学生的随机研究发现，ChatGPT与批判性思维训练相结合，能够改善学生的答案质量，并拓展其思维广度。研究聚焦于真实大学作业中学生的表现、原创性及批判性思维能力的提升。结果表明，接受相关训练的学生在作业中展现出更出色的综合分析能力。不过，研究未提供具体数据细节，仅指出ChatGPT与批判性思维训练之间的关联。"
+    },
+    {
+      "title": "Expanding OpenAI’s presence in Brazil",
+      "link": "https://openai.com/index/expanding-our-presence-in-brazil",
+      "pubDate": "Thu, 27 Aug 2026 03:00:00 GMT",
+      "isoDate": "2026-08-27T03:00:00.000Z",
+      "content": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
+      "contentSnippet": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI正在扩展其在巴西的业务，深化与开发者、企业和社区的合作，以支持该国的人工智能应用普及。此次扩张旨在加强本地生态建设，推动AI技术在巴西更广泛的采用。",
+        "en": "OpenAI is expanding its operations in Brazil, aiming to strengthen ties with developers, businesses, and local communities. The initiative focuses on supporting broader AI adoption throughout the country, reflecting OpenAI’s commitment to increasing engagement and accessibility in the Brazilian market."
+      },
+      "summary": "OpenAI正在扩展其在巴西的业务，深化与开发者、企业和社区的合作，以支持该国的人工智能应用普及。此次扩张旨在加强本地生态建设，推动AI技术在巴西更广泛的采用。"
+    },
+    {
+      "title": "Learning never stops: How AI makes learning continuous",
+      "link": "https://openai.com/index/learning-never-stops",
+      "pubDate": "Wed, 26 Aug 2026 10:00:00 GMT",
+      "isoDate": "2026-08-26T10:00:00.000Z",
+      "content": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "contentSnippet": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI新报告探讨了学生和教师如何利用ChatGPT，使学习更具延续性。报告指出，ChatGPT的支持不仅限于课堂内，还延伸至课外，帮助用户在任何时间、任何地点持续学习。这种工具正在改变传统学习模式，让学习不再因下课或放学而中断。",
+        "en": "OpenAI’s report examines how students and educators use ChatGPT to support continuous learning. It highlights that AI assistance extends beyond the classroom, enabling ongoing education anytime. The report focuses on practical applications of ChatGPT in learning environments, emphasizing its role in maintaining engagement and providing support outside traditional school settings."
+      },
+      "summary": "OpenAI新报告探讨了学生和教师如何利用ChatGPT，使学习更具延续性。报告指出，ChatGPT的支持不仅限于课堂内，还延伸至课外，帮助用户在任何时间、任何地点持续学习。这种工具正在改变传统学习模式，让学习不再因下课或放学而中断。"
+    },
+    {
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "pubDate": "Wed, 26 Aug 2026 10:00:00 GMT",
+      "isoDate": "2026-08-26T10:00:00.000Z",
+      "content": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+      "contentSnippet": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+      "creator": "",
+      "summaries": {
+        "zh": "ChatGPT for Teachers将扩展至美国55个学区，为超过10万名教育工作者和教职员工提供安全的AI工具、培训及支持。此次扩展旨在帮助教师更有效地利用人工智能辅助教学，同时确保数据安全与合规。这一举措覆盖更多学校系统，进一步推动AI在教育领域的应用。",
+        "en": "ChatGPT for Teachers is expanding to 55 additional U.S. school systems, extending access to secure AI tools, training, and support. This initiative will reach over 100,000 more educators and staff members across these districts."
+      },
+      "summary": "ChatGPT for Teachers将扩展至美国55个学区，为超过10万名教育工作者和教职员工提供安全的AI工具、培训及支持。此次扩展旨在帮助教师更有效地利用人工智能辅助教学，同时确保数据安全与合规。这一举措覆盖更多学校系统，进一步推动AI在教育领域的应用。"
+    },
+    {
+      "title": "The Hugging Face incident and the road ahead",
+      "link": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+      "pubDate": "Wed, 26 Aug 2026 00:00:00 GMT",
+      "isoDate": "2026-08-26T00:00:00.000Z",
+      "content": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
+      "contentSnippet": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI公布了关于Hugging Face安全事件的调查结果，并说明了为加强AI模型安全、监控与对齐所采取的措施。此次事件凸显了模型供应链中的潜在风险，促使OpenAI进一步强化安全防护体系。公司表示，将持续提升对AI模型的监控能力，并推进模型对齐工作，以降低未来安全威胁。",
+        "en": "OpenAI has released findings from a security incident involving Hugging Face, detailing what occurred and the measures being implemented in response. The company is focusing on strengthening AI model security, improving monitoring systems, and reinforcing alignment to prevent similar issues. The announcement outlines steps aimed at enhancing safeguards and ensuring more robust oversight of AI models. No additional specifics or opinions are provided in the source content."
+      },
+      "summary": "OpenAI公布了关于Hugging Face安全事件的调查结果，并说明了为加强AI模型安全、监控与对齐所采取的措施。此次事件凸显了模型供应链中的潜在风险，促使OpenAI进一步强化安全防护体系。公司表示，将持续提升对AI模型的监控能力，并推进模型对齐工作，以降低未来安全威胁。"
+    },
+    {
+      "title": "How loveholidays is making everyone a builder with Codex",
+      "link": "https://openai.com/index/loveholidays",
+      "pubDate": "Wed, 26 Aug 2026 00:00:00 GMT",
+      "isoDate": "2026-08-26T00:00:00.000Z",
+      "content": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
+      "contentSnippet": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
+      "creator": "",
+      "summaries": {
+        "zh": "loveholidays 利用 OpenAI Codex 将软件开发能力普及到整个公司，让非技术团队也能参与构建产品。通过这一工具，各部门能够快速将想法转化为实际产品，缩短开发流程，提升创新效率。文章重点展示了 Codex 如何降低编程门槛，推动全员参与开发，从而实现更快速的业务迭代。",
+        "en": "loveholidays is using OpenAI Codex to make software development accessible to everyone in the business, not just engineers. By enabling teams across the company to build and create, the tool helps turn ideas into products more quickly, breaking down technical barriers and accelerating innovation."
+      },
+      "summary": "loveholidays 利用 OpenAI Codex 将软件开发能力普及到整个公司，让非技术团队也能参与构建产品。通过这一工具，各部门能够快速将想法转化为实际产品，缩短开发流程，提升创新效率。文章重点展示了 Codex 如何降低编程门槛，推动全员参与开发，从而实现更快速的业务迭代。"
+    },
+    {
+      "title": "The full stack behind abundant intelligence",
+      "link": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+      "pubDate": "Tue, 25 Aug 2026 07:05:00 GMT",
+      "isoDate": "2026-08-25T07:05:00.000Z",
+      "content": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+      "contentSnippet": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "link": "https://openai.com/index/jalapeno-first-results",
+      "pubDate": "Tue, 25 Aug 2026 07:00:00 GMT",
+      "isoDate": "2026-08-25T07:00:00.000Z",
+      "content": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+      "contentSnippet": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Disrupting a new covert influence campaign from Russia",
+      "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+      "pubDate": "Tue, 25 Aug 2026 00:00:00 GMT",
+      "isoDate": "2026-08-25T00:00:00.000Z",
+      "content": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
+      "contentSnippet": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+      "link": "https://openai.com/index/introducing-admin-plugin",
+      "pubDate": "Tue, 25 Aug 2026 00:00:00 GMT",
+      "isoDate": "2026-08-25T00:00:00.000Z",
+      "content": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
+      "contentSnippet": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "link": "https://openai.com/index/gpt-5-6-in-kiro",
+      "pubDate": "Mon, 24 Aug 2026 12:00:00 GMT",
+      "isoDate": "2026-08-24T12:00:00.000Z",
+      "content": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+      "contentSnippet": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+      "creator": "",
+      "summaries": {
+        "zh": "Kiro 现已支持 GPT-5.6，为开发者提供更优的性价比。该模型可帮助开发者完成软件规划、构建、审查和测试等环节，旨在提升开发效率并降低成本。",
+        "en": "GPT-5.6 is now available in Kiro, providing developers with enhanced price-performance for software development. It supports key tasks such as planning, building, reviewing, and testing code, offering a more cost-effective and efficient tool within the Kiro platform."
+      },
+      "summary": "Kiro 现已支持 GPT-5.6，为开发者提供更优的性价比。该模型可帮助开发者完成软件规划、构建、审查和测试等环节，旨在提升开发效率并降低成本。"
+    },
+    {
+      "title": "Introducing Intelligence Age",
+      "link": "https://openai.com/index/introducing-intelligence-age",
+      "pubDate": "Thu, 20 Aug 2026 07:00:00 GMT",
+      "isoDate": "2026-08-20T07:00:00.000Z",
+      "content": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+      "contentSnippet": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI推出新博客“Intelligence Age”（智能时代），旨在探讨变革性人工智能如何重塑权力、治理、经济和个体自由。该博客将聚焦AI技术对社会各层面的深远影响，为相关议题提供深入分析与讨论平台。",
+        "en": "OpenAI has launched a new blog called \"Intelligence Age.\" The blog will explore how transformative AI could reshape major aspects of society, focusing on four key areas: power, governance, the economy, and individual freedom. The announcement introduces the blog's purpose as a platform for discussing these potential impacts of advanced AI on the future."
+      },
+      "summary": "OpenAI推出新博客“Intelligence Age”（智能时代），旨在探讨变革性人工智能如何重塑权力、治理、经济和个体自由。该博客将聚焦AI技术对社会各层面的深远影响，为相关议题提供深入分析与讨论平台。"
+    },
+    {
+      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+      "link": "https://openai.com/index/stampli",
+      "pubDate": "Thu, 20 Aug 2026 00:00:00 GMT",
+      "isoDate": "2026-08-20T00:00:00.000Z",
+      "content": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+      "contentSnippet": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+      "creator": "",
+      "summaries": {
+        "zh": "Stampli 在固定截止日期且设计资源被占用的情况下，利用 Codex 和 ChatGPT Work 将原本需数周的上线筹备工作压缩至数天完成。这一案例展示了人工智能工具在加速产品从构想到市场落地过程中的实际作用。",
+        "en": "Stampli accelerated its product launch timeline by using Codex and ChatGPT Work. Facing a fixed deadline and with design resources already assigned elsewhere, the team compressed what would have taken weeks of launch production into just days. The tools enabled faster execution and helped move ideas to market more efficiently, despite internal constraints. The case highlights how AI-assisted workflows can streamline production when time and resources are limited."
+      },
+      "summary": "Stampli 在固定截止日期且设计资源被占用的情况下，利用 Codex 和 ChatGPT Work 将原本需数周的上线筹备工作压缩至数天完成。这一案例展示了人工智能工具在加速产品从构想到市场落地过程中的实际作用。"
+    },
+    {
+      "title": "Offering Zero Data Retention for frontier models",
+      "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "pubDate": "Wed, 19 Aug 2026 19:00:00 GMT",
+      "isoDate": "2026-08-19T19:00:00.000Z",
+      "content": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+      "contentSnippet": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI重申，符合条件的API客户可继续享受零数据保留（Zero Data Retention）政策。同时，公司预览了“私密安全处理”（Private Safety Processing）功能，旨在推进前沿模型的安全保障，同时不损害数据隐私。该举措在强化AI安全性的同时，确保客户数据不会被存储或用于训练，兼顾合规与隐私保护需求。",
+        "en": "OpenAI has reaffirmed its commitment to Zero Data Retention (ZDR) for eligible API customers, ensuring their data is not stored. The company also previews a new initiative called Private Safety Processing, designed to enhance advanced AI safety without compromising data privacy. This approach reportedly allows safety measures to be applied while maintaining strict privacy standards for users. The announcement highlights OpenAI’s ongoing effort to balance robust AI safeguards with customer data protection."
+      },
+      "summary": "OpenAI重申，符合条件的API客户可继续享受零数据保留（Zero Data Retention）政策。同时，公司预览了“私密安全处理”（Private Safety Processing）功能，旨在推进前沿模型的安全保障，同时不损害数据隐私。该举措在强化AI安全性的同时，确保客户数据不会被存储或用于训练，兼顾合规与隐私保护需求。"
+    },
+    {
+      "title": "Replit expands access to software creation with GPT-5.6 Luna",
+      "link": "https://openai.com/index/replit",
+      "pubDate": "Wed, 19 Aug 2026 07:00:00 GMT",
+      "isoDate": "2026-08-19T07:00:00.000Z",
+      "content": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+      "contentSnippet": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+      "creator": "",
+      "summaries": {
+        "zh": "Replit发布由GPT-5.6 Luna驱动的免费模式，进一步降低软件创作门槛。该模式让任何人都能将创意直接转化为可运行的软件，且无需顾虑代币成本。此举旨在扩大软件开发的普及度，使用户更专注于实现想法本身。",
+        "en": "Replit is expanding software creation access by introducing Free Mode, powered by GPT-5.6 Luna. This new offering enables anyone to turn ideas into functional software without worrying about token costs. The move removes financial barriers for users, making software development more accessible to a broader audience."
+      },
+      "summary": "Replit发布由GPT-5.6 Luna驱动的免费模式，进一步降低软件创作门槛。该模式让任何人都能将创意直接转化为可运行的软件，且无需顾虑代币成本。此举旨在扩大软件开发的普及度，使用户更专注于实现想法本身。"
+    }
+  ],
+  "lastUpdated": "2026-09-05T21:18:24.430Z"
+}
