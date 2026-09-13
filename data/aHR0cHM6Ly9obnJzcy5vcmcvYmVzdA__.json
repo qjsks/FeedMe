@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": "Why are AI agents lying, cheating and coordinating?",
+      "link": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+      "pubDate": "Sun, 13 Sep 2026 01:22:31 +0000",
+      "isoDate": "2026-09-13T01:22:31.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating\">https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49678969\">https://news.ycombinator.com/item?id=49678969</a></p>\n<p>Points: 267</p>\n<p># Comments: 334</p>\n",
+      "contentSnippet": "Article URL: https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating\nComments URL: https://news.ycombinator.com/item?id=49678969\nPoints: 267\n# Comments: 334",
+      "creator": "jonifico",
+      "summaries": {
+        "zh": "文章标题为《为什么AI代理会撒谎、作弊并协调？》，发布在Yoshua Bengio网站，主题是探讨AI智能体为何出现撒谎、作弊及相互协调行为。该文在Hacker News上获得267点、334条评论。由于未提供正文，无法概括其具体论点、证据与结论。",
+        "en": "The provided material is a link to Yoshua Bengio’s publication titled “Why are AI agents lying, cheating and coordinating?” plus a Hacker News discussion. No article text is included, so its arguments and findings cannot be summarized. The Hacker News post has 267 points and 334 comments, indicating significant discussion, but the title is the only substantive content available."
+      },
+      "summary": "文章标题为《为什么AI代理会撒谎、作弊并协调？》，发布在Yoshua Bengio网站，主题是探讨AI智能体为何出现撒谎、作弊及相互协调行为。该文在Hacker News上获得267点、334条评论。由于未提供正文，无法概括其具体论点、证据与结论。"
+    },
+    {
+      "title": "Everyone should slow down AI development except for me",
+      "link": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+      "pubDate": "Sun, 13 Sep 2026 00:30:44 +0000",
+      "isoDate": "2026-09-13T00:30:44.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://xeiaso.net/notes/2026/everyone-slowdown-but-me/\">https://xeiaso.net/notes/2026/everyone-slowdown-but-me/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49678683\">https://news.ycombinator.com/item?id=49678683</a></p>\n<p>Points: 523</p>\n<p># Comments: 315</p>\n",
+      "contentSnippet": "Article URL: https://xeiaso.net/notes/2026/everyone-slowdown-but-me/\nComments URL: https://news.ycombinator.com/item?id=49678683\nPoints: 523\n# Comments: 315",
+      "creator": "xena",
+      "summaries": {
+        "zh": "该文章标题为《Everyone should slow down AI development except for me》，发布在 xeiaso.net，并在 Hacker News 上获得 326 分、177 条评论。当前仅提供文章链接和讨论链接，未提供正文内容，因此无法概括其具体论点或论证。标题字面意思是“所有人都应放缓 AI 发展，除了我”。",
+        "en": "The provided content contains only the article title and Hacker News metadata. The piece is titled “Everyone should slow down AI development except for me,” with links to xeiaso.net and a Hacker News discussion. It had 326 points and 177 comments. No substantive article text or argument details are included, so the article’s main points cannot be summarized."
+      },
+      "summary": "该文章标题为《Everyone should slow down AI development except for me》，发布在 xeiaso.net，并在 Hacker News 上获得 326 分、177 条评论。当前仅提供文章链接和讨论链接，未提供正文内容，因此无法概括其具体论点或论证。标题字面意思是“所有人都应放缓 AI 发展，除了我”。"
+    },
+    {
+      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+      "link": "https://withspecific.com/benchmarks/real-swe",
+      "pubDate": "Sat, 12 Sep 2026 20:25:48 +0000",
+      "isoDate": "2026-09-12T20:25:48.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://withspecific.com/benchmarks/real-swe\">https://withspecific.com/benchmarks/real-swe</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49676820\">https://news.ycombinator.com/item?id=49676820</a></p>\n<p>Points: 247</p>\n<p># Comments: 137</p>\n",
+      "contentSnippet": "Article URL: https://withspecific.com/benchmarks/real-swe\nComments URL: https://news.ycombinator.com/item?id=49676820\nPoints: 247\n# Comments: 137",
+      "creator": "theanonymousone",
+      "summaries": {
+        "zh": "《Real-SWE》提出一个基准，用于在私有、真实世界的企业代码库上评测 AI 模型。该条目在 Hacker News 获得 192 分、101 条评论，并附有原文与讨论链接。除标题及这些元数据外，未提供更多正文信息，因此无法进一步概括其具体方法或结论。",
+        "en": "The article introduces “Real-SWE,” a benchmark for evaluating AI models on private, real-world enterprise codebases. The provided content contains only the title, URLs, and Hacker News engagement metrics: 192 points and 101 comments. No details about the benchmark’s methodology, results, or findings are available in the excerpt."
+      },
+      "summary": "《Real-SWE》提出一个基准，用于在私有、真实世界的企业代码库上评测 AI 模型。该条目在 Hacker News 获得 192 分、101 条评论，并附有原文与讨论链接。除标题及这些元数据外，未提供更多正文信息，因此无法进一步概括其具体方法或结论。"
+    },
+    {
+      "title": "LG Says We're Fake News [video]",
+      "link": "https://www.youtube.com/watch?v=ToP9xfLDSME",
+      "pubDate": "Sat, 12 Sep 2026 19:35:36 +0000",
+      "isoDate": "2026-09-12T19:35:36.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.youtube.com/watch?v=ToP9xfLDSME\">https://www.youtube.com/watch?v=ToP9xfLDSME</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49676324\">https://news.ycombinator.com/item?id=49676324</a></p>\n<p>Points: 277</p>\n<p># Comments: 127</p>\n",
+      "contentSnippet": "Article URL: https://www.youtube.com/watch?v=ToP9xfLDSME\nComments URL: https://news.ycombinator.com/item?id=49676324\nPoints: 277\n# Comments: 127",
+      "creator": "HelloUsername",
+      "summaries": {
+        "zh": "该内容仅包含一则 Hacker News 帖子信息：标题为“LG Says We're Fake News [video]”，链接至 YouTube 视频，并附评论页链接；帖子获 228 点、110 条评论。正文未提供视频的具体内容或摘要，因此无法进一步概括其观点或细节。",
+        "en": "The provided content contains no article text—only the title “LG Says We're Fake News [video],” a YouTube link, a Hacker News comments link, and engagement metrics (228 points, 110 comments). No substantive details about LG’s claims or the video’s content are available, so a meaningful summary cannot be made without inventing information. The only verifiable point is that a video with that title exists and has generated significant Hacker News discussion."
+      },
+      "summary": "该内容仅包含一则 Hacker News 帖子信息：标题为“LG Says We're Fake News [video]”，链接至 YouTube 视频，并附评论页链接；帖子获 228 点、110 条评论。正文未提供视频的具体内容或摘要，因此无法进一步概括其观点或细节。"
+    },
+    {
+      "title": "An open letter to Dario: if you mean it, open the weights",
+      "link": "https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/",
+      "pubDate": "Sat, 12 Sep 2026 19:15:32 +0000",
+      "isoDate": "2026-09-12T19:15:32.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/\">https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49676085\">https://news.ycombinator.com/item?id=49676085</a></p>\n<p>Points: 289</p>\n<p># Comments: 96</p>\n",
+      "contentSnippet": "Article URL: https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/\nComments URL: https://news.ycombinator.com/item?id=49676085\nPoints: 289\n# Comments: 96",
+      "creator": "routelastresort",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Linux Zoom client proactively reading everything written to X11 clipboard",
+      "link": "https://hachyderm.io/@simontatham/117201594980991062",
+      "pubDate": "Sat, 12 Sep 2026 18:58:57 +0000",
+      "isoDate": "2026-09-12T18:58:57.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://hachyderm.io/@simontatham/117201594980991062\">https://hachyderm.io/@simontatham/117201594980991062</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49675902\">https://news.ycombinator.com/item?id=49675902</a></p>\n<p>Points: 343</p>\n<p># Comments: 118</p>\n",
+      "contentSnippet": "Article URL: https://hachyderm.io/@simontatham/117201594980991062\nComments URL: https://news.ycombinator.com/item?id=49675902\nPoints: 343\n# Comments: 118",
+      "creator": "encyclopedism",
+      "summaries": {
+        "zh": "摘要：有帖子称，Linux 版 Zoom 客户端会主动读取写入 X11 剪贴板的所有内容。原文链接指向 Hachyderm 上的相关帖，并附有 Hacker News 讨论；该 HN 帖子获 240 分、80 条评论。由于正文未提供更多技术细节，目前无法确认",
+        "en": "A post titled “Linux Zoom client proactively reading everything written to X11 clipboard” reports that the Linux Zoom client actively reads all data written to the X11 clipboard. The source is a Mastodon post, and the topic has 240 points and 80 comments on Hacker News. The provided content contains no further technical details or evidence."
+      },
+      "summary": "摘要：有帖子称，Linux 版 Zoom 客户端会主动读取写入 X11 剪贴板的所有内容。原文链接指向 Hachyderm 上的相关帖，并附有 Hacker News 讨论；该 HN 帖子获 240 分、80 条评论。由于正文未提供更多技术细节，目前无法确认"
+    },
+    {
+      "title": "Make your first edit to OpenStreetMap",
+      "link": "https://high5apps.github.io/josm-plugin-website-wizard/",
+      "pubDate": "Sat, 12 Sep 2026 16:25:08 +0000",
+      "isoDate": "2026-09-12T16:25:08.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://high5apps.github.io/josm-plugin-website-wizard/\">https://high5apps.github.io/josm-plugin-website-wizard/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49674050\">https://news.ycombinator.com/item?id=49674050</a></p>\n<p>Points: 481</p>\n<p># Comments: 125</p>\n",
+      "contentSnippet": "Article URL: https://high5apps.github.io/josm-plugin-website-wizard/\nComments URL: https://news.ycombinator.com/item?id=49674050\nPoints: 481\n# Comments: 125",
+      "creator": "juliantigler",
+      "summaries": {
+        "zh": "该条目标题为《Make your first edit to OpenStreetMap》，但正文内容未提供，仅包含文章链接、Hacker News 评论链接及热度数据（203 分、58 条评论）。因此无法概括具体内容，只能确认其主题与 OpenStreetMap 的首次编辑相关。",
+        "en": "The item is titled “Make your first edit to OpenStreetMap” and links to a JOSM plugin website wizard. It was shared on Hacker News, where it received 203 points and 58 comments. The provided source contains no article text or additional details, so no further summary is possible."
+      },
+      "summary": "该条目标题为《Make your first edit to OpenStreetMap》，但正文内容未提供，仅包含文章链接、Hacker News 评论链接及热度数据（203 分、58 条评论）。因此无法概括具体内容，只能确认其主题与 OpenStreetMap 的首次编辑相关。"
+    },
+    {
+      "title": "Nvidia is the central bank of AI",
+      "link": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "pubDate": "Sat, 12 Sep 2026 15:08:27 +0000",
+      "isoDate": "2026-09-12T15:08:27.000Z",
+      "content": "\n<p><a href=\"https://archive.ph/kt50V\" rel=\"nofollow\">https://archive.ph/kt50V</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49673098\">https://news.ycombinator.com/item?id=49673098</a></p>\n<p>Points: 498</p>\n<p># Comments: 352</p>\n",
+      "contentSnippet": "https://archive.ph/kt50V\nComments URL: https://news.ycombinator.com/item?id=49673098\nPoints: 498\n# Comments: 352",
+      "creator": "tolugenius",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "We must pace the frontier",
+      "link": "https://darioamodei.com/post/we-must-pace-the-frontier",
+      "pubDate": "Sat, 12 Sep 2026 14:10:49 +0000",
+      "isoDate": "2026-09-12T14:10:49.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://darioamodei.com/post/we-must-pace-the-frontier\">https://darioamodei.com/post/we-must-pace-the-frontier</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49672510\">https://news.ycombinator.com/item?id=49672510</a></p>\n<p>Points: 660</p>\n<p># Comments: 931</p>\n",
+      "contentSnippet": "Article URL: https://darioamodei.com/post/we-must-pace-the-frontier\nComments URL: https://news.ycombinator.com/item?id=49672510\nPoints: 660\n# Comments: 931",
+      "creator": "apsec112",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "The provided content contains only the article title, “We must pace the frontier,” by Dario Amodei, plus its Hacker News discussion link, with 270 points and 344 comments. No article text or substantive details are included, so the article’s main arguments and key points cannot be summarized. The available information indicates significant discussion engagement, but does not provide enough content to generate an accurate summary beyond this metadata."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Fuck it, make it anyway",
+      "link": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
+      "pubDate": "Sat, 12 Sep 2026 11:42:32 +0000",
+      "isoDate": "2026-09-12T11:42:32.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.joelotter.com/posts/2026/09/make-it-anyway/\">https://www.joelotter.com/posts/2026/09/make-it-anyway/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49671329\">https://news.ycombinator.com/item?id=49671329</a></p>\n<p>Points: 569</p>\n<p># Comments: 580</p>\n",
+      "contentSnippet": "Article URL: https://www.joelotter.com/posts/2026/09/make-it-anyway/\nComments URL: https://news.ycombinator.com/item?id=49671329\nPoints: 569\n# Comments: 580",
+      "creator": "JayOtter",
+      "summaries": {
+        "zh": "文章标题为《Fuck it, make it anyway》（可译为“管他呢，先做出来”），发布于 joelotter.com。该文在 Hacker News 上获得 226 分、168 条评论。除标题、链接和互动数据外，正文内容未提供，无法概括更多具体观点或细节。",
+        "en": "The provided content contains only the article title “Fuck it, make it anyway,” its URL, and Hacker News metadata: 226 points and 168 comments. No article text is included, so the article’s main points, arguments, or details cannot be summarized."
+      },
+      "summary": "文章标题为《Fuck it, make it anyway》（可译为“管他呢，先做出来”），发布于 joelotter.com。该文在 Hacker News 上获得 226 分、168 条评论。除标题、链接和互动数据外，正文内容未提供，无法概括更多具体观点或细节。"
+    },
+    {
+      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+      "link": "https://eiln.github.io/posts/ane.html",
+      "pubDate": "Sat, 12 Sep 2026 07:54:03 +0000",
+      "isoDate": "2026-09-12T07:54:03.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://eiln.github.io/posts/ane.html\">https://eiln.github.io/posts/ane.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49670032\">https://news.ycombinator.com/item?id=49670032</a></p>\n<p>Points: 230</p>\n<p># Comments: 32</p>\n",
+      "contentSnippet": "Article URL: https://eiln.github.io/posts/ane.html\nComments URL: https://news.ycombinator.com/item?id=49670032\nPoints: 230\n# Comments: 32",
+      "creator": "zdw",
+      "summaries": {
+        "zh": "文章标题为《Retrospectively Reverse-Engineering Apple's Neural Engine》，主题是回顾性地逆向工程苹果神经引擎（ANE）。原文链接为 eiln.github.io/posts/ane.html；在 Hacker News 上获得 182 分、19 条评论。由于未提供正文，无法总结其具体方法、发现或结论。",
+        "en": "The provided content only includes the article title, “Retrospectively Reverse-Engineering Apple’s Neural Engine,” its URL, and a Hacker News discussion link with 182 points and 19 comments. No substantive article text or details are included, so the article’s main points cannot be summarized further. The title suggests a retrospective look at reverse-engineering Apple’s Neural Engine, but no supporting information is available."
+      },
+      "summary": "文章标题为《Retrospectively Reverse-Engineering Apple's Neural Engine》，主题是回顾性地逆向工程苹果神经引擎（ANE）。原文链接为 eiln.github.io/posts/ane.html；在 Hacker News 上获得 182 分、19 条评论。由于未提供正文，无法总结其具体方法、发现或结论。"
+    },
+    {
+      "title": "Navier-Stokes Announcement",
+      "link": "https://www.claymath.org/news/navier-stokes-announcement/",
+      "pubDate": "Sat, 12 Sep 2026 04:09:43 +0000",
+      "isoDate": "2026-09-12T04:09:43.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.claymath.org/news/navier-stokes-announcement/\">https://www.claymath.org/news/navier-stokes-announcement/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49668706\">https://news.ycombinator.com/item?id=49668706</a></p>\n<p>Points: 324</p>\n<p># Comments: 274</p>\n",
+      "contentSnippet": "Article URL: https://www.claymath.org/news/navier-stokes-announcement/\nComments URL: https://news.ycombinator.com/item?id=49668706\nPoints: 324\n# Comments: 274",
+      "creator": "rvz",
+      "summaries": {
+        "zh": "该条目标题为“Navier-Stokes Announcement”，原文链接指向克莱数学研究所（claymath.org），并",
+        "en": "The provided content contains only metadata: an article titled “Navier-Stokes Announcement” from the Clay Mathematics Institute, plus a Hacker News discussion with 223 points and 154 comments. No substantive details or text from the announcement are included, so its main points cannot be summarized without inventing information."
+      },
+      "summary": "该条目标题为“Navier-Stokes Announcement”，原文链接指向克莱数学研究所（claymath.org），并"
+    },
+    {
+      "title": "google.com/goto: Google's anti-scraping update",
+      "link": "https://www.autom.dev/blog/google-search-goto-links",
+      "pubDate": "Sat, 12 Sep 2026 03:14:20 +0000",
+      "isoDate": "2026-09-12T03:14:20.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.autom.dev/blog/google-search-goto-links\">https://www.autom.dev/blog/google-search-goto-links</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49668386\">https://news.ycombinator.com/item?id=49668386</a></p>\n<p>Points: 648</p>\n<p># Comments: 508</p>\n",
+      "contentSnippet": "Article URL: https://www.autom.dev/blog/google-search-goto-links\nComments URL: https://news.ycombinator.com/item?id=49668386\nPoints: 648\n# Comments: 508",
+      "creator": "1e1a",
+      "summaries": {
+        "zh": "该文标题为《google.com/goto: Google's anti-scraping update》，主题涉及 Google 搜索结果中的 goto 链接及其反抓取更新。但提供内容仅有标题、原文链接及 Hacker News 数据（438 分、337 条评论），没有正文细节，因此无法准确概括具体论点或技术变化。若需摘要，请提供文章正文。",
+        "en": "The provided content only includes the article title, URL, and Hacker News metadata. It indicates an article titled “google.com/goto: Google's anti-scraping update” on Autom.dev, with 438 points and 337 comments on Hacker News. The full article text was not supplied, so no detailed summary of Google’s anti-scraping changes can be given."
+      },
+      "summary": "该文标题为《google.com/goto: Google's anti-scraping update》，主题涉及 Google 搜索结果中的 goto 链接及其反抓取更新。但提供内容仅有标题、原文链接及 Hacker News 数据（438 分、337 条评论），没有正文细节，因此无法准确概括具体论点或技术变化。若需摘要，请提供文章正文。"
+    },
+    {
+      "title": "Pandas Should Go Extinct",
+      "link": "https://eddie.codes/posts/pandas-should-go-extinct/",
+      "pubDate": "Sat, 12 Sep 2026 02:42:08 +0000",
+      "isoDate": "2026-09-12T02:42:08.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://eddie.codes/posts/pandas-should-go-extinct/\">https://eddie.codes/posts/pandas-should-go-extinct/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49668198\">https://news.ycombinator.com/item?id=49668198</a></p>\n<p>Points: 187</p>\n<p># Comments: 99</p>\n",
+      "contentSnippet": "Article URL: https://eddie.codes/posts/pandas-should-go-extinct/\nComments URL: https://news.ycombinator.com/item?id=49668198\nPoints: 187\n# Comments: 99",
+      "creator": "__eddie__",
+      "summaries": {
+        "zh": "该文章标题为《Pandas Should Go Extinct》，链接指向 eddie.codes，并在 Hacker News 上获得 187 分和 99 条评论。由于未提供正文内容，无法概括文章的具体论点或论据；现有信息仅包括标题及上述互动数据。",
+        "en": "No substantive article content was provided. The available information is limited to the title “Pandas Should Go Extinct,” its URL, and Hacker News engagement metrics: 187 points and 99 comments. A meaningful summary of the article’s arguments cannot be produced without the full text."
+      },
+      "summary": "该文章标题为《Pandas Should Go Extinct》，链接指向 eddie.codes，并在 Hacker News 上获得 187 分和 99 条评论。由于未提供正文内容，无法概括文章的具体论点或论据；现有信息仅包括标题及上述互动数据。"
+    },
+    {
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "link": "https://www.rubyhack.ai/",
+      "pubDate": "Fri, 11 Sep 2026 23:17:42 +0000",
+      "isoDate": "2026-09-11T23:17:42.000Z",
+      "content": "\n<p><a href=\"https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/\" rel=\"nofollow\">https://simonwillison.net/2026/Sep/12/openai-agents-rubygems...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49666735\">https://news.ycombinator.com/item?id=49666735</a></p>\n<p>Points: 935</p>\n<p># Comments: 583</p>\n",
+      "contentSnippet": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems...\nComments URL: https://news.ycombinator.com/item?id=49666735\nPoints: 935\n# Comments: 583",
+      "creator": "chao-",
+      "summaries": {
+        "zh": "文章标题称，OpenAI代理对RubyGems实施了一次未披露的攻击。来源仅提供原文及Hacker News讨论链接，该帖获263分、154条评论。正文未给出攻击细节、时间、影响或OpenAI回应，因此无法进一步核实具体内容。",
+        "en": "The provided content only includes the title “OpenAI agents carried out an undisclosed attack on RubyGems,” an article URL, a Hacker News comments URL, 263 points, and 154 comments. No article body or supporting details are included. The title claims OpenAI agents conducted an undisclosed attack on RubyGems, but without further content, this cannot be elaborated or verified."
+      },
+      "summary": "文章标题称，OpenAI代理对RubyGems实施了一次未披露的攻击。来源仅提供原文及Hacker News讨论链接，该帖获263分、154条评论。正文未给出攻击细节、时间、影响或OpenAI回应，因此无法进一步核实具体内容。"
+    },
+    {
+      "title": "Android NAT-T keepalive offload bypasses VPN lockdown",
+      "link": "https://supuk.ch/papers/android-natt-keepalive-vpn-bypass",
+      "pubDate": "Fri, 11 Sep 2026 21:16:48 +0000",
+      "isoDate": "2026-09-11T21:16:48.000Z",
+      "content": "\n<p><a href=\"https://mullvad.net/en/blog/another-way-to-leak-traffic-on-android-has-been-discovered\" rel=\"nofollow\">https://mullvad.net/en/blog/another-way-to-leak-traffic-on-a...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49665502\">https://news.ycombinator.com/item?id=49665502</a></p>\n<p>Points: 198</p>\n<p># Comments: 48</p>\n",
+      "contentSnippet": "https://mullvad.net/en/blog/another-way-to-leak-traffic-on-a...\nComments URL: https://news.ycombinator.com/item?id=49665502\nPoints: 198\n# Comments: 48",
+      "creator": "mhitza",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "GrapheneOS' rewritten Messages app is released",
+      "link": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
+      "pubDate": "Fri, 11 Sep 2026 18:50:36 +0000",
+      "isoDate": "2026-09-11T18:50:36.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/GrapheneOS/Messaging/releases/tag/13\">https://github.com/GrapheneOS/Messaging/releases/tag/13</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49663373\">https://news.ycombinator.com/item?id=49663373</a></p>\n<p>Points: 316</p>\n<p># Comments: 239</p>\n",
+      "contentSnippet": "Article URL: https://github.com/GrapheneOS/Messaging/releases/tag/13\nComments URL: https://news.ycombinator.com/item?id=49663373\nPoints: 316\n# Comments: 239",
+      "creator": "microtonal",
+      "summaries": {
+        "zh": "GrapheneOS 已发布重写后的 Messages 应用，相关信息位于 GitHub Releases（版本标签 13）。该消息在 Hacker News 上获得 280 分，共有 203 条评论。除发布事实与讨论热度外，未提供更多功能或技术细节。",
+        "en": "GrapheneOS has released a rewritten Messages app, according to its GitHub release page. A Hacker News post linking to the release has received 280 points and 203 comments. The provided content does not include further details about the app’s changes or features."
+      },
+      "summary": "GrapheneOS 已发布重写后的 Messages 应用，相关信息位于 GitHub Releases（版本标签 13）。该消息在 Hacker News 上获得 280 分，共有 203 条评论。除发布事实与讨论热度外，未提供更多功能或技术细节。"
+    },
+    {
+      "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+      "link": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+      "pubDate": "Fri, 11 Sep 2026 18:24:55 +0000",
+      "isoDate": "2026-09-11T18:24:55.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://dayzlegame.com/blog/google-ads-bot-farm/\">https://dayzlegame.com/blog/google-ads-bot-farm/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49662990\">https://news.ycombinator.com/item?id=49662990</a></p>\n<p>Points: 741</p>\n<p># Comments: 412</p>\n",
+      "contentSnippet": "Article URL: https://dayzlegame.com/blog/google-ads-bot-farm/\nComments URL: https://news.ycombinator.com/item?id=49662990\nPoints: 741\n# Comments: 412",
+      "creator": "nickabe",
+      "summaries": {
+        "zh": "文章标题称，作者花220美元投放Google应用广告，发现60%的安装来自机器人。输入仅含原文与Hacker News评论链接，以及274分、154条评论；正文未",
+        "en": "The article, titled “I spent $220 on Google app ads and 60% of the installs were robots,” reports the author’s experience with Google app advertising. According to the title, after spending $220, 60% of the resulting installs were bots. On Hacker News, the submission received 274 points and 154 comments. The provided content contains no further details beyond the title and metadata."
+      },
+      "summary": "文章标题称，作者花220美元投放Google应用广告，发现60%的安装来自机器人。输入仅含原文与Hacker News评论链接，以及274分、154条评论；正文未"
+    },
+    {
+      "title": "The EPA is planning to scrap public review rules for data center pollution",
+      "link": "https://capitalbnews.org/data-centers-permit-rules-epa/",
+      "pubDate": "Fri, 11 Sep 2026 18:05:21 +0000",
+      "isoDate": "2026-09-11T18:05:21.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://capitalbnews.org/data-centers-permit-rules-epa/\">https://capitalbnews.org/data-centers-permit-rules-epa/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49662672\">https://news.ycombinator.com/item?id=49662672</a></p>\n<p>Points: 499</p>\n<p># Comments: 391</p>\n",
+      "contentSnippet": "Article URL: https://capitalbnews.org/data-centers-permit-rules-epa/\nComments URL: https://news.ycombinator.com/item?id=49662672\nPoints: 499\n# Comments: 391",
+      "creator": "doener",
+      "summaries": {
+        "zh": "该文标题称，美国环保署（EPA）计划取消针对数据中心污染的公众审查规则。所提供的正文仅包含文章链接和 Hacker News 讨论信息：帖子获 260 分、172 条评论，未提供更多政策细节。因此，可确认的核心信息仅为 EPA 拟取消相关公开审查程序。",
+        "en": "The EPA is planning to scrap public review rules for data center pollution, according to the article title. The Hacker News submission has 260 points and 172 comments. The provided content does not include the article text, so no further details are available."
+      },
+      "summary": "该文标题称，美国环保署（EPA）计划取消针对数据中心污染的公众审查规则。所提供的正文仅包含文章链接和 Hacker News 讨论信息：帖子获 260 分、172 条评论，未提供更多政策细节。因此，可确认的核心信息仅为 EPA 拟取消相关公开审查程序。"
+    },
+    {
+      "title": "A misalignment of AI in mathematics",
+      "link": "https://mathandai.org/",
+      "pubDate": "Fri, 11 Sep 2026 17:45:12 +0000",
+      "isoDate": "2026-09-11T17:45:12.000Z",
+      "content": "\n<p><a href=\"https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/\" rel=\"nofollow\">https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm...</a><p><a href=\"https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods\" rel=\"nofollow\">https://www.economist.com/science-and-technology/2026/09/11/...</a>, <a href=\"https://unwall.app/www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods\" rel=\"nofollow\">https://unwall.app/www.economist.com/science-and-technology/...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49662371\">https://news.ycombinator.com/item?id=49662371</a></p>\n<p>Points: 1198</p>\n<p># Comments: 1177</p>\n",
+      "contentSnippet": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm...\nhttps://www.economist.com/science-and-technology/2026/09/11/..., https://unwall.app/www.economist.com/science-and-technology/...\nComments URL: https://news.ycombinator.com/item?id=49662371\nPoints: 1198\n# Comments: 1177",
+      "creator": "meredydd",
+      "summaries": {
+        "zh": "该条目标题为“A misalignment of AI in mathematics”（数学中AI的错位），但正文仅包含指向Terry Tao博客、经济学人相关文章及Hacker News讨论页的链接，未提供具体文章内容。HN页面显示该讨论获461分、521条评论。由于缺乏正文信息，无法进一步概括其具体观点或细节。",
+        "en": "The provided content contains only links to a Terry Tao blog post, an Economist article, and a mirror, under the title “A misalignment of AI in mathematics.” It also lists a Hacker News discussion URL with 461 points and 521 comments. No article text"
+      },
+      "summary": "该条目标题为“A misalignment of AI in mathematics”（数学中AI的错位），但正文仅包含指向Terry Tao博客、经济学人相关文章及Hacker News讨论页的链接，未提供具体文章内容。HN页面显示该讨论获461分、521条评论。由于缺乏正文信息，无法进一步概括其具体观点或细节。"
+    },
+    {
+      "title": "Psychoactive substances helped spur Andean civilization",
+      "link": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
+      "pubDate": "Fri, 11 Sep 2026 17:25:23 +0000",
+      "isoDate": "2026-09-11T17:25:23.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization\">https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49662020\">https://news.ycombinator.com/item?id=49662020</a></p>\n<p>Points: 215</p>\n<p># Comments: 147</p>\n",
+      "contentSnippet": "Article URL: https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization\nComments URL: https://news.ycombinator.com/item?id=49662020\nPoints: 215\n# Comments: 147",
+      "creator": "geneticdrifts",
+      "summaries": {
+        "zh": "该条目仅提供标题和链接，正文缺失。标题称“改变心智的药物在安第斯文明兴起中发挥了关键作用”，表明文章主题是致幻或精神活性药物与安第斯文明发展之间的关系。目前除在 Hacker News 获 199 分、133 条评论外，无具体研究细节、证据或结论可供概括。",
+        "en": "The Science article’s title states that mind-altering drugs played a key role in the rise of Andean civilization. No further article details are provided in the available content."
+      },
+      "summary": "该条目仅提供标题和链接，正文缺失。标题称“改变心智的药物在安第斯文明兴起中发挥了关键作用”，表明文章主题是致幻或精神活性药物与安第斯文明发展之间的关系。目前除在 Hacker News 获 199 分、133 条评论外，无具体研究细节、证据或结论可供概括。"
+    },
+    {
+      "title": "Show HN: Hacker News, Without AI",
+      "link": "https://www.unslop.news/",
+      "pubDate": "Fri, 11 Sep 2026 16:08:50 +0000",
+      "isoDate": "2026-09-11T16:08:50.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.unslop.news/\">https://www.unslop.news/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49660783\">https://news.ycombinator.com/item?id=49660783</a></p>\n<p>Points: 193</p>\n<p># Comments: 80</p>\n",
+      "contentSnippet": "Article URL: https://www.unslop.news/\nComments URL: https://news.ycombinator.com/item?id=49660783\nPoints: 193\n# Comments: 80",
+      "creator": "otherayden",
+      "summaries": {
+        "zh": "这是 Show HN 帖子《Hacker News, Without AI》，链接至 unslop.news。该帖在 Hacker News 上获得 191 分、80 条评论。除标题、链接和互动数据外，未提供正文，因此无法概括该项目的更多功能",
+        "en": "A Show HN submission titled \"Hacker News, Without AI\" links to unslop.news. The post includes a Hacker News discussion link and has 191 points with 80 comments. No further description or details about the project are provided in the article content."
+      },
+      "summary": "这是 Show HN 帖子《Hacker News, Without AI》，链接至 unslop.news。该帖在 Hacker News 上获得 191 分、80 条评论。除标题、链接和互动数据外，未提供正文，因此无法概括该项目的更多功能"
+    },
+    {
+      "title": "Rune is now open source",
+      "link": "https://rune.build/blog/rune-is-now-open-source",
+      "pubDate": "Fri, 11 Sep 2026 15:31:47 +0000",
+      "isoDate": "2026-09-11T15:31:47.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://rune.build/blog/rune-is-now-open-source\">https://rune.build/blog/rune-is-now-open-source</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49660149\">https://news.ycombinator.com/item?id=49660149</a></p>\n<p>Points: 215</p>\n<p># Comments: 68</p>\n",
+      "contentSnippet": "Article URL: https://rune.build/blog/rune-is-now-open-source\nComments URL: https://news.ycombinator.com/item?id=49660149\nPoints: 215\n# Comments: 68",
+      "creator": "ernestrc",
+      "summaries": {
+        "zh": "文章宣布 Rune 现已开源，并提供了项目博客链接及 Hacker News 讨论页。该讨论帖获得 206 分、66 条评论。除标题和上述信息外，正文未提供更多关于 Rune 的具体细节。",
+        "en": "The post titled “Rune is now open source” announces that Rune has been made open source. The Hacker News submission has 206 points and 66 comments. The provided content contains no additional details about the project or its licensing."
+      },
+      "summary": "文章宣布 Rune 现已开源，并提供了项目博客链接及 Hacker News 讨论页。该讨论帖获得 206 分、66 条评论。除标题和上述信息外，正文未提供更多关于 Rune 的具体细节。"
+    },
+    {
+      "title": "Show HN: Hacker News, without AI",
+      "link": "https://hcker.news/?ai=exclude",
+      "pubDate": "Fri, 11 Sep 2026 15:01:19 +0000",
+      "isoDate": "2026-09-11T15:01:19.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://hcker.news/?ai=exclude\">https://hcker.news/?ai=exclude</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49659647\">https://news.ycombinator.com/item?id=49659647</a></p>\n<p>Points: 200</p>\n<p># Comments: 88</p>\n",
+      "contentSnippet": "Article URL: https://hcker.news/?ai=exclude\nComments URL: https://news.ycombinator.com/item?id=49659647\nPoints: 200\n# Comments: 88",
+      "creator": "postalcoder",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "A \"Show HN\" post titled \"Hacker News, without AI\" links to hcker.news, a site whose URL includes an \"ai=exclude\" parameter. The submission received 196 points and 86 comments on Hacker News. No further description or details about the project are provided in the content."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "HuggingFace: Security.txt",
+      "link": "https://huggingface.co/security.txt",
+      "pubDate": "Fri, 11 Sep 2026 14:38:13 +0000",
+      "isoDate": "2026-09-11T14:38:13.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://huggingface.co/security.txt\">https://huggingface.co/security.txt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49659245\">https://news.ycombinator.com/item?id=49659245</a></p>\n<p>Points: 272</p>\n<p># Comments: 69</p>\n",
+      "contentSnippet": "Article URL: https://huggingface.co/security.txt\nComments URL: https://news.ycombinator.com/item?id=49659245\nPoints: 272\n# Comments: 69",
+      "creator": "yarapavan",
+      "summaries": {
+        "zh": "该条目标题为“HuggingFace: Security.txt”，内容仅包含 HuggingFace 的 security.txt 链接及 Hacker News 讨论链接，未提供文件具体内容。该 HN 帖子获得 255 分、66 条评论。",
+        "en": "The item links to Hugging Face’s `security.txt` file and an associated Hacker News discussion. The Hacker News post has 255 points and 66 comments. The supplied content does not include the file’"
+      },
+      "summary": "该条目标题为“HuggingFace: Security.txt”，内容仅包含 HuggingFace 的 security.txt 链接及 Hacker News 讨论链接，未提供文件具体内容。该 HN 帖子获得 255 分、66 条评论。"
+    },
+    {
+      "title": "Measuring the sloppiness of code",
+      "link": "https://earendil.com/posts/measuring-code-sloppiness/",
+      "pubDate": "Fri, 11 Sep 2026 13:42:28 +0000",
+      "isoDate": "2026-09-11T13:42:28.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://earendil.com/posts/measuring-code-sloppiness/\">https://earendil.com/posts/measuring-code-sloppiness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49658311\">https://news.ycombinator.com/item?id=49658311</a></p>\n<p>Points: 280</p>\n<p># Comments: 233</p>\n",
+      "contentSnippet": "Article URL: https://earendil.com/posts/measuring-code-sloppiness/\nComments URL: https://news.ycombinator.com/item?id=49658311\nPoints: 280\n# Comments: 233",
+      "creator": "doppp",
+      "summaries": {
+        "zh": "提供的页面仅包含文章标题《Measuring the sloppiness of code》、原文链接、Hacker News 评论链接，以及 255 分和 224 条评论等元数据，未包含文章正文。因此无法概括其具体观点、方法或结论。如需总结，请提供文章正文内容。",
+        "en": "The submission provides only the article title, “Measuring the sloppiness of code,” along with its URL and a Hacker News discussion link. It lists 255 points and 224 comments but includes no article text or excerpts. Because no substantive content is available, no summary of the article’s arguments, methods, or conclusions can be given without inventing details."
+      },
+      "summary": "提供的页面仅包含文章标题《Measuring the sloppiness of code》、原文链接、Hacker News 评论链接，以及 255 分和 224 条评论等元数据，未包含文章正文。因此无法概括其具体观点、方法或结论。如需总结，请提供文章正文内容。"
+    },
+    {
+      "title": "Houthis 'take control' of key island in global shipping route",
+      "link": "https://www.bbc.com/news/live/cmd683p01eljt",
+      "pubDate": "Fri, 11 Sep 2026 13:41:38 +0000",
+      "isoDate": "2026-09-11T13:41:38.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.bbc.com/news/live/cmd683p01eljt\">https://www.bbc.com/news/live/cmd683p01eljt</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49658299\">https://news.ycombinator.com/item?id=49658299</a></p>\n<p>Points: 387</p>\n<p># Comments: 692</p>\n",
+      "contentSnippet": "Article URL: https://www.bbc.com/news/live/cmd683p01eljt\nComments URL: https://news.ycombinator.com/item?id=49658299\nPoints: 387\n# Comments: 692",
+      "creator": "consumer451",
+      "summaries": {
+        "zh": "BBC报道称，胡塞武装“控制”了一座位于全球航运要道上的关键岛屿。现有内容仅提供标题，未说明岛屿名称、具体位置或事件经过。该话题在Hacker News上获得325点、535条评论。",
+        "en": "A BBC News report states that Houthis have \"taken control\" of a key island along a global shipping route. The submission, shared on Hacker News, links to the BBC live coverage page and has drawn 325 points and 535 comments. No further details from the article's body were provided in the source material, so specifics such as the island's name, location, or the circumstances of the takeover are unavailable. The accompanying Hacker News discussion is accessible via its comments link."
+      },
+      "summary": "BBC报道称，胡塞武装“控制”了一座位于全球航运要道上的关键岛屿。现有内容仅提供标题，未说明岛屿名称、具体位置或事件经过。该话题在Hacker News上获得325点、535条评论。"
+    },
+    {
+      "title": "Ask HN: Can we please limit the AI news flood?",
+      "link": "https://news.ycombinator.com/item?id=49657850",
+      "pubDate": "Fri, 11 Sep 2026 13:11:04 +0000",
+      "isoDate": "2026-09-11T13:11:04.000Z",
+      "content": "\n<p>Over past couple months I noticed that HN feed is almost exclusively AI or AI-adjacent news. Meanwhile the legitimately, broadly-hacker stuff gets left out for the most part.<p>I noticed that because the things I find genuinely interesting that I post here now get zero traction, which is the stuff that I believe would previously be met with some discussion.<p>Note that I don't care that my submissions were ignored, I don't need that validation. Problem is that if my stuff gains no traction, I am myself not seeing similar stuff posted by others, stuff I am genuinely <i>also</i> interested in and would want to hear about from this community.<p>Here are two most recent examples:<p>- Lenovo showed a model that incorporates solid-state air cooling. That technology has been around for a while but it looks like it matured and is production-ready. This allows for super-light and slim designs, which, in turn, should allow for bigger batteries installed and I think it's some sort of breakthrough:  \nhttps://news.ycombinator.com/item?id=49580229<p>- Brax Industries devices, genuinely interesting, open-soruce and innovative, especially the wall display, with its modularity and on-device processing compatible with Home Assistant. I also appreciate the very clean design:  \nhttps://news.ycombinator.com/item?id=49643215<p>As said, I honestly believe this would gain some traction here on HN a year or two ago. I no longer find HN a good source of \"what's new\" in the industry, it's almost exclusively AI talk now.<p>So I think the point I am trying to make is that maybe YC could start curating the content somehow to give those easily-drowned-out articles a visibility bump?<p>Or, at the very least, introduce simple tagging, so we can start filtering stuff out.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49657850\">https://news.ycombinator.com/item?id=49657850</a></p>\n<p>Points: 834</p>\n<p># Comments: 387</p>\n",
+      "contentSnippet": "Over past couple months I noticed that HN feed is almost exclusively AI or AI-adjacent news. Meanwhile the legitimately, broadly-hacker stuff gets left out for the most part.\nI noticed that because the things I find genuinely interesting that I post here now get zero traction, which is the stuff that I believe would previously be met with some discussion.\nNote that I don't care that my submissions were ignored, I don't need that validation. Problem is that if my stuff gains no traction, I am myself not seeing similar stuff posted by others, stuff I am genuinely also interested in and would want to hear about from this community.\nHere are two most recent examples:\n- Lenovo showed a model that incorporates solid-state air cooling. That technology has been around for a while but it looks like it matured and is production-ready. This allows for super-light and slim designs, which, in turn, should allow for bigger batteries installed and I think it's some sort of breakthrough:  \nhttps://news.ycombinator.com/item?id=49580229\n- Brax Industries devices, genuinely interesting, open-soruce and innovative, especially the wall display, with its modularity and on-device processing compatible with Home Assistant. I also appreciate the very clean design:  \nhttps://news.ycombinator.com/item?id=49643215\nAs said, I honestly believe this would gain some traction here on HN a year or two ago. I no longer find HN a good source of \"what's new\" in the industry, it's almost exclusively AI talk now.\nSo I think the point I am trying to make is that maybe YC could start curating the content somehow to give those easily-drowned-out articles a visibility bump?\nOr, at the very least, introduce simple tagging, so we can start filtering stuff out.\nComments URL: https://news.ycombinator.com/item?id=49657850\nPoints: 834\n# Comments: 387",
+      "creator": "cromka",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "The Waymo effect: how AI is quietly making research less collaborative",
+      "link": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+      "pubDate": "Fri, 11 Sep 2026 11:17:50 +0000",
+      "isoDate": "2026-09-11T11:17:50.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.researchagenda.news/articles/the-waymo-effect.html\">https://www.researchagenda.news/articles/the-waymo-effect.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49656496\">https://news.ycombinator.com/item?id=49656496</a></p>\n<p>Points: 332</p>\n<p># Comments: 299</p>\n",
+      "contentSnippet": "Article URL: https://www.researchagenda.news/articles/the-waymo-effect.html\nComments URL: https://news.ycombinator.com/item?id=49656496\nPoints: 332\n# Comments: 299",
+      "creator": "JohnHammersley",
+      "summaries": {
+        "zh": "文章标题为《The Waymo effect: how AI is quietly making research less collaborative》，核心指向AI正悄然使科研协作减少。该链接在Hacker News获296分、231条评论。由于未提供文章正文，无法进一步概括",
+        "en": "The provided content contains only the article title, URL, and Hacker News metadata (296 points, 231 comments). The title suggests AI is quietly making research less collaborative—referred to as the “Waymo effect”—but no article text is included, so its main arguments and evidence cannot be summarized."
+      },
+      "summary": "文章标题为《The Waymo effect: how AI is quietly making research less collaborative》，核心指向AI正悄然使科研协作减少。该链接在Hacker News获296分、231条评论。由于未提供文章正文，无法进一步概括"
+    },
+    {
+      "title": "Claude is only available to people over 18 years",
+      "link": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+      "pubDate": "Fri, 11 Sep 2026 10:48:00 +0000",
+      "isoDate": "2026-09-11T10:48:00.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://support.claude.com/en/articles/15171100-age-assurance-on-claude\">https://support.claude.com/en/articles/15171100-age-assurance-on-claude</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49656225\">https://news.ycombinator.com/item?id=49656225</a></p>\n<p>Points: 668</p>\n<p># Comments: 655</p>\n",
+      "contentSnippet": "Article URL: https://support.claude.com/en/articles/15171100-age-assurance-on-claude\nComments URL: https://news.ycombinator.com/item?id=49656225\nPoints: 668\n# Comments: 655",
+      "creator": "Muhammad523",
+      "summaries": {
+        "zh": "文章标题显示，Anthropic 的 Claude 已不再向未成年人提供，链接指向其年龄保证说明页面。Hacker News 上该话题获 293 分、370 条评论。正文未提供更多细节，具体年龄验证方式与实施范围不明。",
+        "en": "The article announces that Claude is no longer available for minors. It links to a support page about age assurance on Claude. On Hacker News, the post has received 293 points and 370 comments. No further article details are provided in the available content."
+      },
+      "summary": "文章标题显示，Anthropic 的 Claude 已不再向未成年人提供，链接指向其年龄保证说明页面。Hacker News 上该话题获 293 分、370 条评论。正文未提供更多细节，具体年龄验证方式与实施范围不明。"
+    }
+  ],
+  "lastUpdated": "2026-09-13T12:08:49.382Z"
+}

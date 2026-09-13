@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://openai.com/news/rss.xml",
+  "title": "OpenAI News",
+  "description": "The OpenAI blog",
+  "link": "https://openai.com/news",
+  "items": [
+    {
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "pubDate": "Mon, 14 Sep 2026 00:00:00 GMT",
+      "isoDate": "2026-09-14T00:00:00.000Z",
+      "content": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "contentSnippet": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "creator": "",
+      "summaries": {
+        "zh": "Perplexity 已让 GPT-6 Astra 承担端到端系统任务，包括撰写通讯、修改软件和监控生产系统；相比早期模型，其人工检查频率明显降低。",
+        "en": "Perplexity relies on GPT-6 Astra for end-to-end tasks, including writing communications, changing software, and monitoring production systems. It checks in much less frequently than with earlier models."
+      },
+      "summary": "Perplexity 已让 GPT-6 Astra 承担端到端系统任务，包括撰写通讯、修改软件和监控生产系统；相比早期模型，其人工检查频率明显降低。"
+    },
+    {
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "pubDate": "Fri, 11 Sep 2026 10:00:00 GMT",
+      "isoDate": "2026-09-11T10:00:00.000Z",
+      "content": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+      "contentSnippet": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI 将 Habitat 从 Python 库演进为全球分布式存储平台，用于支撑超过 10 亿 ChatGPT 用户，并应对每秒 2200 万次请求。",
+        "en": "OpenAI explains how it evolved Habitat from a Python library into a globally distributed storage platform. The system now serves over 1 billion ChatGPT users and handles 22 million requests per second, highlighting the scaling required to support massive demand."
+      },
+      "summary": "OpenAI 将 Habitat 从 Python 库演进为全球分布式存储平台，用于支撑超过 10 亿 ChatGPT 用户，并应对每秒 2200 万次请求。"
+    },
+    {
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "link": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "pubDate": "Fri, 11 Sep 2026 16:00:00 GMT",
+      "isoDate": "2026-09-11T16:00:00.000Z",
+      "content": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+      "contentSnippet": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+      "creator": "",
+      "summaries": {
+        "zh": "Cognition 利用 GPT-6 Astra 提升 Devin 的软件测试能力，使其能够测试并验证自身工作成果。该功能旨在帮助工程师减少代码审查工作量，从而更专注于交付和发布更多软件。",
+        "en": "GPT-6 Astra improves Devin’s ability to test software and demonstrate that it works. Cognition’s stated goal is to help engineers review less code and ship more."
+      },
+      "summary": "Cognition 利用 GPT-6 Astra 提升 Devin 的软件测试能力，使其能够测试并验证自身工作成果。该功能旨在帮助工程师减少代码审查工作量，从而更专注于交付和发布更多软件。"
+    },
+    {
+      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "pubDate": "Thu, 10 Sep 2026 16:00:00 GMT",
+      "isoDate": "2026-09-10T16:00:00.000Z",
+      "content": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+      "contentSnippet": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+      "creator": "",
+      "summaries": {
+        "zh": "César de la Fuente 的实验室利用 Codex 和 ChatGPT，从现存及已灭绝生物的基因组中筛选抗菌候选分子，以应对耐药性感染，目标是寻找新型抗菌分子。",
+        "en": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for potential antimicrobial molecules, aiming to combat drug-resistant infections."
+      },
+      "summary": "César de la Fuente 的实验室利用 Codex 和 ChatGPT，从现存及已灭绝生物的基因组中筛选抗菌候选分子，以应对耐药性感染，目标是寻找新型抗菌分子。"
+    },
+    {
+      "title": "Now everyone can put data to work",
+      "link": "https://openai.com/index/put-data-to-work",
+      "pubDate": "Thu, 10 Sep 2026 15:00:00 GMT",
+      "isoDate": "2026-09-10T15:00:00.000Z",
+      "content": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+      "contentSnippet": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+      "creator": "",
+      "summaries": {
+        "zh": "ChatGPT Work 推出 Data agent，用户可通过自然语言连接公司数据、发现洞察，并借助 AI 构建交互式仪表盘，让每个人都能利用数据。",
+        "en": "ChatGPT Work introduces a Data agent that allows users to connect company data, uncover insights, and build interactive dashboards using AI and natural language."
+      },
+      "summary": "ChatGPT Work 推出 Data agent，用户可通过自然语言连接公司数据、发现洞察，并借助 AI 构建交互式仪表盘，让每个人都能利用数据。"
+    },
+    {
+      "title": "Introducing ChatGPT for Financial Services",
+      "link": "https://openai.com/index/introducing-chatgpt-financial-services",
+      "pubDate": "Thu, 10 Sep 2026 07:00:00 GMT",
+      "isoDate": "2026-09-10T07:00:00.000Z",
+      "content": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
+      "contentSnippet": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
+      "creator": "",
+      "summaries": {
+        "zh": "推出面向金融服务的 ChatGPT，结合内置金融数据与 GPT-6 Astra，可用于研究、建模以及制作可直接交付客户的材料。",
+        "en": "The article introduces ChatGPT for Financial Services, which combines built-in financial data with GPT-6 Astra. It is designed to support research, financial modeling, and the creation of client-ready materials."
+      },
+      "summary": "推出面向金融服务的 ChatGPT，结合内置金融数据与 GPT-6 Astra，可用于研究、建模以及制作可直接交付客户的材料。"
+    },
+    {
+      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "link": "https://openai.com/index/expanding-ai-access-us-government",
+      "pubDate": "Thu, 10 Sep 2026 07:00:00 GMT",
+      "isoDate": "2026-09-10T07:00:00.000Z",
+      "content": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
+      "contentSnippet": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI与美国GSA合作，将面向符合条件的联邦、州、地方及部落政府提供零许可费、使用费五折优惠，并扩大网络安全防御支持，以推动人工智能应用并加强网络防御。",
+        "en": "OpenAI and the GSA are expanding AI access and cyber defense for eligible federal, state, local, and tribal governments. The initiative includes $0 license fees, 50% off usage, and expanded cybersecurity support."
+      },
+      "summary": "OpenAI与美国GSA合作，将面向符合条件的联邦、州、地方及部落政府提供零许可费、使用费五折优惠，并扩大网络安全防御支持，以推动人工智能应用并加强网络防御。"
+    },
+    {
+      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "pubDate": "Thu, 10 Sep 2026 00:00:00 GMT",
+      "isoDate": "2026-09-10T00:00:00.000Z",
+      "content": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+      "contentSnippet": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+      "creator": "",
+      "summaries": {
+        "zh": "GPT‑Live‑1 现已接入 API，可带来自然、全双工的语音对话体验，并增强指令遵循能力，支持自定义语音和电话通信功能。",
+        "en": "GPT‑Live‑1 is now available in the API, enabling natural, full-duplex voice conversations. It offers stronger instruction following, custom voices, and telephony support, helping developers build more natural voice experiences."
+      },
+      "summary": "GPT‑Live‑1 现已接入 API，可带来自然、全双工的语音对话体验，并增强指令遵循能力，支持自定义语音和电话通信功能。"
+    },
+    {
+      "title": "Introducing the Agents API",
+      "link": "https://openai.com/index/introducing-the-agents-api",
+      "pubDate": "Thu, 10 Sep 2026 00:00:00 GMT",
+      "isoDate": "2026-09-10T00:00:00.000Z",
+      "content": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+      "contentSnippet": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+      "creator": "",
+      "summaries": {
+        "zh": "推出 Agents API。该 API 是一项托管服务，由 Codex harness 提供支持，可用于构建和启动云端智能体，支持编排、长时间运行的会话以及工具调用。",
+        "en": "The Agents API is introduced as a managed service for building and launching cloud agents. Powered by the Codex harness, it supports orchestration, long-running sessions, and tool use."
+      },
+      "summary": "推出 Agents API。该 API 是一项托管服务，由 Codex harness 提供支持，可用于构建和启动云端智能体，支持编排、长时间运行的会话以及工具调用。"
+    },
+    {
+      "title": "The AI policy window is open. We need to act.",
+      "link": "https://openai.com/index/ai-policy-window",
+      "pubDate": "Wed, 09 Sep 2026 13:00:00 GMT",
+      "isoDate": "2026-09-09T13:00:00.000Z",
+      "content": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
+      "contentSnippet": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题为《AI政策窗口已打开，我们必须行动》。克里斯·莱汉主张，AI能力越强，就越需要更充分的安全证据、共享标准和持久的政策行动；趁政策窗口仍开放，应尽快采取行动。",
+        "en": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action. He warns that the current policy window is open and urges stakeholders to act before it closes."
+      },
+      "summary": "文章标题为《AI政策窗口已打开，我们必须行动》。克里斯·莱汉主张，AI能力越强，就越需要更充分的安全证据、共享标准和持久的政策行动；趁政策窗口仍开放，应尽快采取行动。"
+    },
+    {
+      "title": "GPT-6 Astra: The next generation in intelligence for work",
+      "link": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "pubDate": "Wed, 09 Sep 2026 11:00:00 GMT",
+      "isoDate": "2026-09-09T11:00:00.000Z",
+      "content": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+      "contentSnippet": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+      "creator": "",
+      "summaries": {
+        "zh": "GPT-6 Astra 是 OpenAI 面向商业领域推出的新一代模型，专为工作场景设计。它具备高级推理能力、计算机使用功能，并在写作和设计判断方面表现更优。该模型定位为 OpenAI 迄今最强大的商用智能工具。",
+        "en": "GPT-6 Astra is OpenAI’s most capable model for business, designed for professional work. It offers advanced reasoning, computer use, and stronger judgment in writing and design. The focus is on delivering next-generation intelligence to support workplace tasks."
+      },
+      "summary": "GPT-6 Astra 是 OpenAI 面向商业领域推出的新一代模型，专为工作场景设计。它具备高级推理能力、计算机使用功能，并在写作和设计判断方面表现更优。该模型定位为 OpenAI 迄今最强大的商用智能工具。"
+    },
+    {
+      "title": "Paul Christiano joins OpenAI Foundation Board",
+      "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "pubDate": "Wed, 09 Sep 2026 17:00:00 GMT",
+      "isoDate": "2026-09-09T17:00:00.000Z",
+      "content": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+      "contentSnippet": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+      "creator": "",
+      "summaries": {
+        "zh": "保罗·克里斯蒂亚诺加入OpenAI基金会董事会，同时成为安全与安保委员会成员。他拥有AI对齐、安全及标准制定方面的丰富经验。此次任命旨在加强OpenAI在人工智能安全治理方面的能力。",
+        "en": "Paul Christiano has joined the OpenAI Foundation Board and its Safety and Security Committee. He brings significant expertise in AI alignment, safety, and standards to the organization. His appointment adds experienced perspective on these critical areas to OpenAI's governance structure."
+      },
+      "summary": "保罗·克里斯蒂亚诺加入OpenAI基金会董事会，同时成为安全与安保委员会成员。他拥有AI对齐、安全及标准制定方面的丰富经验。此次任命旨在加强OpenAI在人工智能安全治理方面的能力。"
+    },
+    {
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "link": "https://openai.com/index/codex-quantum-computing-experiments",
+      "pubDate": "Tue, 08 Sep 2026 17:00:00 GMT",
+      "isoDate": "2026-09-08T17:00:00.000Z",
+      "content": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+      "contentSnippet": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+      "creator": "",
+      "summaries": {
+        "zh": "MIT研究员借助GPT-5.6 Sol与Codex，自主运行量子计算实验、分析结果并校准量子比特。该应用展示了AI在科研自动化中的实际潜力，不仅处理实验流程，还能从数据中提取洞见并优化量子硬件参数，从而提升实验效率与可靠性。这一实践体现了大语言模型与编程工具结合，正加速量子计算研究进程。",
+        "en": "An MIT researcher uses GPT-5.6 Sol, paired with Codex, to autonomously operate quantum computing experiments. The AI assists in running the experiments, analyzing the results, and calibrating qubits, streamlining tasks that typically require manual intervention. This demonstrates a practical application of advanced AI in quantum research, improving efficiency in handling complex experimental procedures."
+      },
+      "summary": "MIT研究员借助GPT-5.6 Sol与Codex，自主运行量子计算实验、分析结果并校准量子比特。该应用展示了AI在科研自动化中的实际潜力，不仅处理实验流程，还能从数据中提取洞见并优化量子硬件参数，从而提升实验效率与可靠性。这一实践体现了大语言模型与编程工具结合，正加速量子计算研究进程。"
+    },
+    {
+      "title": "The Work Now Within Reach",
+      "link": "https://openai.com/index/the-work-now-within-reach",
+      "pubDate": "Tue, 08 Sep 2026 13:00:00 GMT",
+      "isoDate": "2026-09-08T13:00:00.000Z",
+      "content": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+      "contentSnippet": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+      "creator": "",
+      "summaries": {
+        "zh": "这篇文章探讨了更强大且价格更实惠的人工智能如何扩展个人和企业可完成的工作范围，同时降低增长成本。重点在于AI技术的进步使更多任务成为可能，并推动经济发展更高效、更经济。",
+        "en": "The article highlights how increasingly capable and affordable AI expands what individuals and businesses can achieve. It emphasizes that these advances allow for a broader range of work to be accomplished while also making economic growth more cost-efficient. The focus is on AI’s practical potential to unlock new opportunities and drive productivity."
+      },
+      "summary": "这篇文章探讨了更强大且价格更实惠的人工智能如何扩展个人和企业可完成的工作范围，同时降低增长成本。重点在于AI技术的进步使更多任务成为可能，并推动经济发展更高效、更经济。"
+    },
+    {
+      "title": "Introducing ChatGPT Images 2.5",
+      "link": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "pubDate": "Tue, 08 Sep 2026 11:30:00 GMT",
+      "isoDate": "2026-09-08T11:30:00.000Z",
+      "content": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+      "contentSnippet": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI 推出 ChatGPT Images 2.5。该版本能将用户的想法、草图及参考照片转化为更个性化、更精美的图像，从而更准确地呈现用户意图。其核心功能是提升图像生成的定制化与精细度，帮助用户将创意转化为成品。",
+        "en": "ChatGPT Images 2.5 is introduced as a tool that transforms users' ideas, sketches, and reference photos into more polished, personalized images. It aims to produce results that more accurately reflect the user's original vision. The update emphasizes improved customization and refinement in image generation."
+      },
+      "summary": "OpenAI 推出 ChatGPT Images 2.5。该版本能将用户的想法、草图及参考照片转化为更个性化、更精美的图像，从而更准确地呈现用户意图。其核心功能是提升图像生成的定制化与精细度，帮助用户将创意转化为成品。"
+    },
+    {
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "link": "https://openai.com/index/navier-stokes-solution",
+      "pubDate": "Tue, 08 Sep 2026 10:00:00 GMT",
+      "isoDate": "2026-09-08T10:00:00.000Z",
+      "content": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+      "contentSnippet": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+      "creator": "",
+      "summaries": {
+        "zh": "该文章介绍其分享了一个针对“纳维-斯托克斯千禧年大奖难题”的AI生成解决方案，内容包括一份书面说明，以及用Lean形式化验证的证明。",
+        "en": "The article announces an AI-generated solution to the Navier–Stokes Millennium Prize Problem. It states that the work includes a written explanation and a formal proof developed in the Lean proof assistant. The content presents this as a proposed solution to the problem, without providing further technical details."
+      },
+      "summary": "该文章介绍其分享了一个针对“纳维-斯托克斯千禧年大奖难题”的AI生成解决方案，内容包括一份书面说明，以及用Lean形式化验证的证明。"
+    },
+    {
+      "title": "Funding grants for new research into AI and teen development",
+      "link": "https://openai.com/index/teen-development-research-grants",
+      "pubDate": "Tue, 08 Sep 2026 09:00:00 GMT",
+      "isoDate": "2026-09-08T09:00:00.000Z",
+      "content": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
+      "contentSnippet": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI推出了一项总额500万美元的资助计划，支持关于生成式人工智能对青少年发展、福祉及安全影响的独立研究。该计划现正开放申请。资助旨在鼓励更多独立研究，深入探讨生成式AI在青少年成长中的作用。",
+        "en": "OpenAI is offering $5 million in grants to support independent research on how generative AI impacts teen development, well-being, and safety. Applications are now open for the funding program. The initiative aims to encourage studies that examine the effects of AI technology on adolescents. This summary captures the key details: the grant amount, the focus area, and the call for applications."
+      },
+      "summary": "OpenAI推出了一项总额500万美元的资助计划，支持关于生成式人工智能对青少年发展、福祉及安全影响的独立研究。该计划现正开放申请。资助旨在鼓励更多独立研究，深入探讨生成式AI在青少年成长中的作用。"
+    },
+    {
+      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "link": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+      "pubDate": "Tue, 08 Sep 2026 00:00:00 GMT",
+      "isoDate": "2026-09-08T00:00:00.000Z",
+      "content": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
+      "contentSnippet": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI 正在扩大对新闻业的支持，涵盖课堂与新闻编辑室。其举措包括为相关群体提供工具、培训及合作机会，对象涉及学生、教育工作者、记者和新闻机构。",
+        "en": "OpenAI is broadening its efforts to support journalism by offering tools, training, and partnerships aimed at students, educators, journalists, and news organizations. The initiative spans both educational settings and professional newsrooms, reflecting a commitment to strengthening journalism through AI assistance across different levels of the industry."
+      },
+      "summary": "OpenAI 正在扩大对新闻业的支持，涵盖课堂与新闻编辑室。其举措包括为相关群体提供工具、培训及合作机会，对象涉及学生、教育工作者、记者和新闻机构。"
+    },
+    {
+      "title": "1Password increases engineering productivity 21% with Codex",
+      "link": "https://openai.com/index/1password",
+      "pubDate": "Tue, 08 Sep 2026 00:00:00 GMT",
+      "isoDate": "2026-09-08T00:00:00.000Z",
+      "content": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
+      "contentSnippet": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
+      "creator": "",
+      "summaries": {
+        "zh": "1Password 利用 Codex 提升工程效率21%。工程师借助 Codex 快速开发新功能和内部工具，在保持严格安全策略的同时，使项目达到生产就绪状态。",
+        "en": "1Password reports a 21% increase in engineering productivity through the use of OpenAI's Codex. Engineers at the company leverage the tool to rapidly build new features and internal tools. Codex enables them to reach production-readiness more efficiently while still maintaining their rigorous security policies and standards."
+      },
+      "summary": "1Password 利用 Codex 提升工程效率21%。工程师借助 Codex 快速开发新功能和内部工具，在保持严格安全策略的同时，使项目达到生产就绪状态。"
+    },
+    {
+      "title": "Supporting independent journalism in Ukraine",
+      "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "pubDate": "Mon, 07 Sep 2026 00:00:00 GMT",
+      "isoDate": "2026-09-07T00:00:00.000Z",
+      "content": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+      "contentSnippet": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI、AIRPPU与WAN-IFRA联合推出了一项人工智能计划，旨在帮助乌克兰新闻机构增强创新能力、提升韧性，并支持独立新闻业的发展。该计划通过AI技术赋能，助力乌克兰媒体在复杂环境中维持新闻独立性与运营稳定性。",
+        "en": "OpenAI, together with AIRPPU and WAN-IFRA, has launched an AI program aimed at supporting Ukrainian news organizations. The initiative is designed to help these outlets bolster their innovation, strengthen resilience, and sustain independent journalism amid challenging conditions. The partnership underscores a collaborative effort to equip the Ukrainian press with technological tools and resources."
+      },
+      "summary": "OpenAI、AIRPPU与WAN-IFRA联合推出了一项人工智能计划，旨在帮助乌克兰新闻机构增强创新能力、提升韧性，并支持独立新闻业的发展。该计划通过AI技术赋能，助力乌克兰媒体在复杂环境中维持新闻独立性与运营稳定性。"
+    },
+    {
+      "title": "An Alien Mind",
+      "link": "https://openai.com/index/an-alien-mind",
+      "pubDate": "Sun, 06 Sep 2026 09:00:00 GMT",
+      "isoDate": "2026-09-06T09:00:00.000Z",
+      "content": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+      "contentSnippet": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+      "creator": "",
+      "summaries": {
+        "zh": "Jakub Pachocki近期对日益强大的AI系统表示担忧，认为确保其与人类意图对齐是一大挑战。他呼吁建立更有效的安全防护机制，并加强国际间的协调合作，以应对AI快速发展带来的潜在风险，确保技术发展可控且符合人类利益。",
+        "en": "Jakub Pachocki discusses the growing capabilities of AI and the difficulties of keeping it aligned with human intentions. He emphasizes the need for stronger safety measures and greater international cooperation to manage advanced AI systems responsibly."
+      },
+      "summary": "Jakub Pachocki近期对日益强大的AI系统表示担忧，认为确保其与人类意图对齐是一大挑战。他呼吁建立更有效的安全防护机制，并加强国际间的协调合作，以应对AI快速发展带来的潜在风险，确保技术发展可控且符合人类利益。"
+    },
+    {
+      "title": "Research acceleration: The view inside OpenAI",
+      "link": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "pubDate": "Sun, 06 Sep 2026 08:00:00 GMT",
+      "isoDate": "2026-09-06T08:00:00.000Z",
+      "content": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+      "contentSnippet": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI内部正利用编码代理加速AI研究。早期数据显示，这些代理已广泛应用于实验流程，显著提升了实验速度与任务复杂度上限，从而推动研究进程加速。该趋势表明，AI辅助编码正在成为研究基础设施的重要部分。",
+        "en": "Coding agents are significantly reshaping AI research inside OpenAI, according to early internal data highlighted in the article. Key areas examined include agent usage patterns, experiment velocity, task complexity, and overall research acceleration. The findings indicate that AI coding agents have become an integral part of OpenAI's research workflow, enabling faster iteration, more complex task handling, and accelerated progress in research efforts. The data underscores a transformative shift in how research is conducted at the organization."
+      },
+      "summary": "OpenAI内部正利用编码代理加速AI研究。早期数据显示，这些代理已广泛应用于实验流程，显著提升了实验速度与任务复杂度上限，从而推动研究进程加速。该趋势表明，AI辅助编码正在成为研究基础设施的重要部分。"
+    },
+    {
+      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "link": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "pubDate": "Thu, 03 Sep 2026 13:15:00 GMT",
+      "isoDate": "2026-09-03T13:15:00.000Z",
+      "content": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+      "contentSnippet": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI推出“Daybreak for Frontline Defenders”计划，承诺投入10亿美元，扩大前沿网络安全AI、培训及支持服务的获取范围，以保护关键基础设施和基本服务。该计划旨在帮助一线防御者应对网络威胁，提升整体安全韧性。",
+        "en": "OpenAI has announced the \"Daybreak for Frontline Defenders\" initiative, a $1 billion commitment aimed at strengthening cybersecurity for essential services. The program will expand access to frontier cyber AI tools, along with training and support. Its goal is to help protect critical infrastructure and frontline organizations from evolving digital threats. The announcement underscores a focused investment in safeguarding services that are vital to daily operations."
+      },
+      "summary": "OpenAI推出“Daybreak for Frontline Defenders”计划，承诺投入10亿美元，扩大前沿网络安全AI、培训及支持服务的获取范围，以保护关键基础设施和基本服务。该计划旨在帮助一线防御者应对网络威胁，提升整体安全韧性。"
+    },
+    {
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "pubDate": "Thu, 03 Sep 2026 12:00:00 GMT",
+      "isoDate": "2026-09-03T12:00:00.000Z",
+      "content": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "contentSnippet": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "creator": "",
+      "summaries": {
+        "zh": "据文章介绍，Playco 利用 GPT-6 Astra 从同一个灰盒基础开发出三款不同主题的游戏原型，并表示相比此前模型，手动修复工作量减少了 50%。这一结果显示出新一代模型在游戏原型制作中的效率提升，有助于降低迭代成本。",
+        "en": "Playco used GPT-6 Astra to create three themed game prototypes from a single grey box foundation. According to the report, this approach led to 50% fewer manual fixes compared to their previous model. The result highlights improved efficiency in prototyping, though no further technical details or opinions are provided."
+      },
+      "summary": "据文章介绍，Playco 利用 GPT-6 Astra 从同一个灰盒基础开发出三款不同主题的游戏原型，并表示相比此前模型，手动修复工作量减少了 50%。这一结果显示出新一代模型在游戏原型制作中的效率提升，有助于降低迭代成本。"
+    },
+    {
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "pubDate": "Thu, 03 Sep 2026 12:00:00 GMT",
+      "isoDate": "2026-09-03T12:00:00.000Z",
+      "content": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+      "contentSnippet": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+      "creator": "",
+      "summaries": {
+        "zh": "Legora 利用 GPT-6 Astra 在数分钟内审阅了 41 份文档，成功找出全部四个预设错误，并在财务审核流程中将性能提升近 40%。总结突出了其高效、准确及显著优化的结果。",
+        "en": "Legora used GPT-6 Astra to complete a financial-review task, processing 41 documents in minutes. The AI tool successfully identified all four deliberately planted errors and contributed to a performance improvement of nearly 40% in the workflow."
+      },
+      "summary": "Legora 利用 GPT-6 Astra 在数分钟内审阅了 41 份文档，成功找出全部四个预设错误，并在财务审核流程中将性能提升近 40%。总结突出了其高效、准确及显著优化的结果。"
+    },
+    {
+      "title": "GPT-6 Astra: A new generation of intelligence",
+      "link": "https://openai.com/index/gpt-6-astra",
+      "pubDate": "Thu, 03 Sep 2026 11:00:00 GMT",
+      "isoDate": "2026-09-03T11:00:00.000Z",
+      "content": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+      "contentSnippet": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+      "creator": "",
+      "summaries": {
+        "zh": "GPT-6 Astra 是新一代人工智能模型，号称迄今最智能且对齐程度最高。它具备跨计算机操作、编程、网络安全和科学领域的顶尖能力。该介绍突出其综合性能与安全性，旨在推动多领域应用。",
+        "en": "GPT-6 Astra is introduced as a new generation of artificial intelligence. It is described as the most intelligent and aligned model from the organization to date. The model features state-of-the-art capabilities in several key domains, including computer use, coding, cybersecurity, and science. The announcement positions GPT-6 Astra as a significant advancement in AI performance and safety alignment across these technical fields."
+      },
+      "summary": "GPT-6 Astra 是新一代人工智能模型，号称迄今最智能且对齐程度最高。它具备跨计算机操作、编程、网络安全和科学领域的顶尖能力。该介绍突出其综合性能与安全性，旨在推动多领域应用。"
+    },
+    {
+      "title": "Safety overview: GPT-6 Astra",
+      "link": "https://openai.com/index/safety-overview-gpt-6-astra",
+      "pubDate": "Thu, 03 Sep 2026 00:00:00 GMT",
+      "isoDate": "2026-09-03T00:00:00.000Z",
+      "content": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+      "contentSnippet": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+      "creator": "",
+      "summaries": {
+        "zh": "GPT-6 Astra 是我们已广泛部署的模型中能力最强的一个，也是在《预备框架》下首个达到“关键”网络安全能力级别的模型。本文概述其安全相关情况，突出这一里程碑所代表的能力与风险关注点。",
+        "en": "GPT-6 Astra is the most capable broadly deployed model from its developers. It is distinguished as the first model to reach the Critical level of cybersecurity capability, as defined by their internal Preparedness Framework. This designation marks a significant milestone in the model's deployment and security assessment."
+      },
+      "summary": "GPT-6 Astra 是我们已广泛部署的模型中能力最强的一个，也是在《预备框架》下首个达到“关键”网络安全能力级别的模型。本文概述其安全相关情况，突出这一里程碑所代表的能力与风险关注点。"
+    },
+    {
+      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "link": "https://openai.com/index/atv-big-air-tour",
+      "pubDate": "Wed, 02 Sep 2026 12:00:00 GMT",
+      "isoDate": "2026-09-02T12:00:00.000Z",
+      "content": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+      "contentSnippet": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+      "creator": "",
+      "summaries": {
+        "zh": "ATV Big Air Tour 利用 ChatGPT Work 加速其营销和商品管理等工作流程，将原本需要 3 天完成的任务缩短至 3 小时。此外，该团队还借助此工具，在 15 分钟内将商品照片转化为一个库存网站。这体现了 AI 工具在提升运营效率方面的实际应用。",
+        "en": "ATV Big Air Tour uses ChatGPT Work to significantly speed up its business operations. The company reports that tasks which previously took three days can now be completed in just three hours. ChatGPT is used to accelerate marketing and merchandising efforts. For example, merchandise photos were turned into a functional inventory website in only 15 minutes. This demonstrates how the company leverages the AI tool to streamline workflows and improve efficiency across multiple parts of its operations."
+      },
+      "summary": "ATV Big Air Tour 利用 ChatGPT Work 加速其营销和商品管理等工作流程，将原本需要 3 天完成的任务缩短至 3 小时。此外，该团队还借助此工具，在 15 分钟内将商品照片转化为一个库存网站。这体现了 AI 工具在提升运营效率方面的实际应用。"
+    },
+    {
+      "title": "How AI-native companies turn workflows into operating capability",
+      "link": "https://openai.com/index/ai-native-company-workflows",
+      "pubDate": "Tue, 01 Sep 2026 17:00:00 GMT",
+      "isoDate": "2026-09-01T17:00:00.000Z",
+      "content": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+      "contentSnippet": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+      "creator": "",
+      "summaries": {
+        "zh": "AI原生公司通过将工作流转化为运营能力，提升企业效率。Basis、Clay和Exa Labs等企业利用AI代理优化客户入职、账户管理及开发者集成流程。这些实践为领导者提供了借鉴，展示了如何借助AI实现更高效、可扩展的运营模式。",
+        "en": "AI-native companies like Basis, Clay, and Exa Labs are leveraging AI agents to transform routine workflows into strategic operating capabilities. Specifically, they use these agents to enhance customer onboarding, streamline account management, and improve developer integrations. The article highlights key takeaways for enterprise leaders, showing how deploying AI in these functional areas can turn operational processes into a competitive advantage. By examining these examples, leaders can glean practical applications for integrating AI agents into their own organizations to boost efficiency and capability."
+      },
+      "summary": "AI原生公司通过将工作流转化为运营能力，提升企业效率。Basis、Clay和Exa Labs等企业利用AI代理优化客户入职、账户管理及开发者集成流程。这些实践为领导者提供了借鉴，展示了如何借助AI实现更高效、可扩展的运营模式。"
+    },
+    {
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "link": "https://openai.com/index/path-to-astra",
+      "pubDate": "Tue, 01 Sep 2026 13:00:00 GMT",
+      "isoDate": "2026-09-01T13:00:00.000Z",
+      "content": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+      "contentSnippet": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+      "creator": "",
+      "summaries": {
+        "zh": "Astra是OpenAI首个在“准备框架”下达到“关键网络安全能力”阈值的模型，并为此加强了发布安全措施。该消息强调其在能力评估与安全防护两方面的前沿地位。",
+        "en": "Astra is the first OpenAI model to reach the Critical cybersecurity capability threshold defined by the Preparedness Framework. As a result, it includes stronger safeguards for its release. This marks a key milestone in frontier AI safety, highlighting both advanced capability and heightened precaution."
+      },
+      "summary": "Astra是OpenAI首个在“准备框架”下达到“关键网络安全能力”阈值的模型，并为此加强了发布安全措施。该消息强调其在能力评估与安全防护两方面的前沿地位。"
+    }
+  ],
+  "lastUpdated": "2026-09-13T12:02:34.200Z"
+}
