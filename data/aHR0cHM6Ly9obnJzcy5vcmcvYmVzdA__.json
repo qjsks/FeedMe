@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": "Introducing System One Models and Jev",
+      "link": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+      "pubDate": "Tue, 15 Sep 2026 19:25:03 +0000",
+      "isoDate": "2026-09-15T19:25:03.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://typesafe.ai/blog/introducing-system-one-models-and-jev\">https://typesafe.ai/blog/introducing-system-one-models-and-jev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49717558\">https://news.ycombinator.com/item?id=49717558</a></p>\n<p>Points: 607</p>\n<p># Comments: 203</p>\n",
+      "contentSnippet": "Article URL: https://typesafe.ai/blog/introducing-system-one-models-and-jev\nComments URL: https://news.ycombinator.com/item?id=49717558\nPoints: 607\n# Comments: 203",
+      "creator": "albelfio",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "An Update on Wayback Machine Access",
+      "link": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
+      "pubDate": "Tue, 15 Sep 2026 17:52:18 +0000",
+      "isoDate": "2026-09-15T17:52:18.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/\">https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49716176\">https://news.ycombinator.com/item?id=49716176</a></p>\n<p>Points: 329</p>\n<p># Comments: 179</p>\n",
+      "contentSnippet": "Article URL: https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/\nComments URL: https://news.ycombinator.com/item?id=49716176\nPoints: 329\n# Comments: 179",
+      "creator": "ChrisArchitect",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+      "pubDate": "Tue, 15 Sep 2026 17:38:18 +0000",
+      "isoDate": "2026-09-15T17:38:18.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/\">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49715947\">https://news.ycombinator.com/item?id=49715947</a></p>\n<p>Points: 251</p>\n<p># Comments: 174</p>\n",
+      "contentSnippet": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/\nComments URL: https://news.ycombinator.com/item?id=49715947\nPoints: 251\n# Comments: 174",
+      "creator": "leumon",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+      "link": "https://withcapsule.app/",
+      "pubDate": "Tue, 15 Sep 2026 13:31:40 +0000",
+      "isoDate": "2026-09-15T13:31:40.000Z",
+      "content": "\n<p>Hey HN,<p>I always had the problem that building HTML pages is really simple now, but trying to save data required hosting it somewhere, and sharing it afterwards was not easy. Over the last few months, I've been building an app called Capsule (it’s also the file extension name) written in Rust with Tauri 2.0 that allows packing an HTML app and its data into a single SQLite file.<p>The HTML file and any related assets are directly embedded in the database. User data can either be saved as a localStorage key/value store or via a MongoDB-inspired collections API as documents, saved in a table in the file. You can also save other assets, like PDF files or images, directly in the database to keep different documents together. All data can be easily exported to CSV or JSON if needed.<p>Privacy and security were a big priority for me, so documents cannot do anything out of the box. They don’t have direct access to the file system and they require permission to access the internet. The permission model is still something I’m working to improve. Capsule documents can also use local or remote AI models for document specific AI features.<p>One downside with this approach is that multiple people working on it will create different copies. To make it possible to merge different copies of the same file, each data entry has a unique UUID and timestamp.<p>I’m planning to open up the file format specification for the 1.0 version of the app so other apps can read or write Capsule files.<p>You can try it out in the web preview at <a href=\"https://withcapsule.app/preview\" rel=\"nofollow\">https://withcapsule.app/preview</a> with pre-built templates or use any AI provider of your choice to create a custom, Capsule-optimized app by using the following prompt:<p>\"Please read the app wizard instructions at <a href=\"https://withcapsule.app/prompt.txt\" rel=\"nofollow\">https://withcapsule.app/prompt.txt</a> and help me design an app.“<p>I’m still working on the file format but there are migrations for each new version, so data should never be lost when using newer versions of the app in the future. Please let me know if you have any ideas or use cases where this might make sense or does not work.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49712278\">https://news.ycombinator.com/item?id=49712278</a></p>\n<p>Points: 261</p>\n<p># Comments: 114</p>\n",
+      "contentSnippet": "Hey HN,\nI always had the problem that building HTML pages is really simple now, but trying to save data required hosting it somewhere, and sharing it afterwards was not easy. Over the last few months, I've been building an app called Capsule (it’s also the file extension name) written in Rust with Tauri 2.0 that allows packing an HTML app and its data into a single SQLite file.\nThe HTML file and any related assets are directly embedded in the database. User data can either be saved as a localStorage key/value store or via a MongoDB-inspired collections API as documents, saved in a table in the file. You can also save other assets, like PDF files or images, directly in the database to keep different documents together. All data can be easily exported to CSV or JSON if needed.\nPrivacy and security were a big priority for me, so documents cannot do anything out of the box. They don’t have direct access to the file system and they require permission to access the internet. The permission model is still something I’m working to improve. Capsule documents can also use local or remote AI models for document specific AI features.\nOne downside with this approach is that multiple people working on it will create different copies. To make it possible to merge different copies of the same file, each data entry has a unique UUID and timestamp.\nI’m planning to open up the file format specification for the 1.0 version of the app so other apps can read or write Capsule files.\nYou can try it out in the web preview at https://withcapsule.app/preview with pre-built templates or use any AI provider of your choice to create a custom, Capsule-optimized app by using the following prompt:\n\"Please read the app wizard instructions at https://withcapsule.app/prompt.txt and help me design an app.“\nI’m still working on the file format but there are migrations for each new version, so data should never be lost when using newer versions of the app in the future. Please let me know if you have any ideas or use cases where this might make sense or does not work.\nComments URL: https://news.ycombinator.com/item?id=49712278\nPoints: 261\n# Comments: 114",
+      "creator": "bashtian",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Java 27",
+      "link": "https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/",
+      "pubDate": "Tue, 15 Sep 2026 13:13:43 +0000",
+      "isoDate": "2026-09-15T13:13:43.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/\">https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49712041\">https://news.ycombinator.com/item?id=49712041</a></p>\n<p>Points: 312</p>\n<p># Comments: 279</p>\n",
+      "contentSnippet": "Article URL: https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/\nComments URL: https://news.ycombinator.com/item?id=49712041\nPoints: 312\n# Comments: 279",
+      "creator": "mkurz",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+      "link": "https://github.com/arnegiacomo/fugleramme",
+      "pubDate": "Tue, 15 Sep 2026 12:31:10 +0000",
+      "isoDate": "2026-09-15T12:31:10.000Z",
+      "content": "\n<p>See also: <i>Avian Visitors</i> - <a href=\"https://news.ycombinator.com/item?id=48343424\">https://news.ycombinator.com/item?id=48343424</a> - May 2026 (20 comments)</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49711544\">https://news.ycombinator.com/item?id=49711544</a></p>\n<p>Points: 1224</p>\n<p># Comments: 169</p>\n",
+      "contentSnippet": "See also: Avian Visitors - https://news.ycombinator.com/item?id=48343424 - May 2026 (20 comments)\nComments URL: https://news.ycombinator.com/item?id=49711544\nPoints: 1224\n# Comments: 169",
+      "creator": "arnemunthekaas",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "25 years of mass surveillance is enough",
+      "link": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
+      "pubDate": "Tue, 15 Sep 2026 11:26:48 +0000",
+      "isoDate": "2026-09-15T11:26:48.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html\">https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49710883\">https://news.ycombinator.com/item?id=49710883</a></p>\n<p>Points: 755</p>\n<p># Comments: 277</p>\n",
+      "contentSnippet": "Article URL: https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html\nComments URL: https://news.ycombinator.com/item?id=49710883\nPoints: 755\n# Comments: 277",
+      "creator": "iamnothere",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Suspected sabotage causes major Netherlands rail disruption",
+      "link": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+      "pubDate": "Tue, 15 Sep 2026 10:22:46 +0000",
+      "isoDate": "2026-09-15T10:22:46.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c8ly49w9g1edo\">https://www.bbc.com/news/articles/c8ly49w9g1edo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49710253\">https://news.ycombinator.com/item?id=49710253</a></p>\n<p>Points: 412</p>\n<p># Comments: 383</p>\n",
+      "contentSnippet": "Article URL: https://www.bbc.com/news/articles/c8ly49w9g1edo\nComments URL: https://news.ycombinator.com/item?id=49710253\nPoints: 412\n# Comments: 383",
+      "creator": "choult",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Let's make quality the norm again",
+      "link": "https://www.forbrukerradet.no/short-life/",
+      "pubDate": "Tue, 15 Sep 2026 10:00:16 +0000",
+      "isoDate": "2026-09-15T10:00:16.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.forbrukerradet.no/short-life/\">https://www.forbrukerradet.no/short-life/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49710109\">https://news.ycombinator.com/item?id=49710109</a></p>\n<p>Points: 282</p>\n<p># Comments: 292</p>\n",
+      "contentSnippet": "Article URL: https://www.forbrukerradet.no/short-life/\nComments URL: https://news.ycombinator.com/item?id=49710109\nPoints: 282\n# Comments: 292",
+      "creator": "ingve",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "I can't stop thinking about Papua New Guinea",
+      "link": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
+      "pubDate": "Tue, 15 Sep 2026 06:16:24 +0000",
+      "isoDate": "2026-09-15T06:16:24.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua\">https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49708431\">https://news.ycombinator.com/item?id=49708431</a></p>\n<p>Points: 1006</p>\n<p># Comments: 416</p>\n",
+      "contentSnippet": "Article URL: https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua\nComments URL: https://news.ycombinator.com/item?id=49708431\nPoints: 1006\n# Comments: 416",
+      "creator": "networked",
+      "summaries": {
+        "zh": "该条目标题为《我无法停止思考巴布亚新几内亚》，来自 Substack，并在 Hacker News 上获得 483 分、190 条评论。但所提供内容未包含文章正文，因此无法客观概括其具体观点或细节。现有信息仅能确认文章主题及网络讨论热度。",
+        "en": "The supplied material contains no article text—only the title \"I can't stop thinking about Papua New Guinea,\" a Substack link, and Hacker News metadata (483 points, 190 comments). Because no substantive content is included, the article's arguments, themes, and conclusions cannot be summarized. The available data indicates only that it is a Substack post that generated significant discussion on Hacker News."
+      },
+      "summary": "该条目标题为《我无法停止思考巴布亚新几内亚》，来自 Substack，并在 Hacker News 上获得 483 分、190 条评论。但所提供内容未包含文章正文，因此无法客观概括其具体观点或细节。现有信息仅能确认文章主题及网络讨论热度。"
+    },
+    {
+      "title": "Linux from Scratch",
+      "link": "https://www.linuxfromscratch.org/",
+      "pubDate": "Tue, 15 Sep 2026 04:15:23 +0000",
+      "isoDate": "2026-09-15T04:15:23.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.linuxfromscratch.org/\">https://www.linuxfromscratch.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49707627\">https://news.ycombinator.com/item?id=49707627</a></p>\n<p>Points: 350</p>\n<p># Comments: 109</p>\n",
+      "contentSnippet": "Article URL: https://www.linuxfromscratch.org/\nComments URL: https://news.ycombinator.com/item?id=49707627\nPoints: 350\n# Comments: 109",
+      "creator": "sippingabonedry",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "The provided content contains only a Hacker News submission titled “Linux from Scratch,” linking to linuxfromscratch.org and its discussion page. It reports 267 points and 79 comments. No article text or substantive details are included, so the project’s specifics cannot be summarized from this source."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "US confirms for first time it has deployed space weapons",
+      "link": "https://www.bbc.com/news/articles/ck790xg41ygro",
+      "pubDate": "Tue, 15 Sep 2026 03:47:56 +0000",
+      "isoDate": "2026-09-15T03:47:56.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.bbc.com/news/articles/ck790xg41ygro\">https://www.bbc.com/news/articles/ck790xg41ygro</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49707473\">https://news.ycombinator.com/item?id=49707473</a></p>\n<p>Points: 421</p>\n<p># Comments: 295</p>\n",
+      "contentSnippet": "Article URL: https://www.bbc.com/news/articles/ck790xg41ygro\nComments URL: https://news.ycombinator.com/item?id=49707473\nPoints: 421\n# Comments: 295",
+      "creator": "harporoeder",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Charts built for Chat",
+      "link": "https://dbtcharts.com/blog/charts-built-for-chat/",
+      "pubDate": "Mon, 14 Sep 2026 21:22:54 +0000",
+      "isoDate": "2026-09-14T21:22:54.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://dbtcharts.com/blog/charts-built-for-chat/\">https://dbtcharts.com/blog/charts-built-for-chat/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49704246\">https://news.ycombinator.com/item?id=49704246</a></p>\n<p>Points: 295</p>\n<p># Comments: 89</p>\n",
+      "contentSnippet": "Article URL: https://dbtcharts.com/blog/charts-built-for-chat/\nComments URL: https://news.ycombinator.com/item?id=49704246\nPoints: 295\n# Comments: 89",
+      "creator": "thingsilearned",
+      "summaries": {
+        "zh": "该条目仅包含文章标题《Charts built for Chat》（可译为“为聊天而构建的图表”）、原文链接，以及 Hacker News 讨论信息（263 分、79 条评论）。未提供文章正文，因此无法概括其具体观点或细节。",
+        "en": "The provided content lacks the article body, only listing the title “Charts built for Chat,” its URL, and Hacker News metrics: 263 points and 79 comments. No substantive details about the article’s main points are available to summarize."
+      },
+      "summary": "该条目仅包含文章标题《Charts built for Chat》（可译为“为聊天而构建的图表”）、原文链接，以及 Hacker News 讨论信息（263 分、79 条评论）。未提供文章正文，因此无法概括其具体观点或细节。"
+    },
+    {
+      "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+      "link": "https://www.effort.news/irregular",
+      "pubDate": "Mon, 14 Sep 2026 21:15:01 +0000",
+      "isoDate": "2026-09-14T21:15:01.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.effort.news/irregular\">https://www.effort.news/irregular</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49704132\">https://news.ycombinator.com/item?id=49704132</a></p>\n<p>Points: 417</p>\n<p># Comments: 141</p>\n",
+      "contentSnippet": "Article URL: https://www.effort.news/irregular\nComments URL: https://news.ycombinator.com/item?id=49704132\nPoints: 417\n# Comments: 141",
+      "creator": "yusufozkan",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "iOS 27, iPadOS 27, and macOS 27",
+      "link": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+      "pubDate": "Mon, 14 Sep 2026 17:50:29 +0000",
+      "isoDate": "2026-09-14T17:50:29.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/\">https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49701004\">https://news.ycombinator.com/item?id=49701004</a></p>\n<p>Points: 699</p>\n<p># Comments: 823</p>\n",
+      "contentSnippet": "Article URL: https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/\nComments URL: https://news.ycombinator.com/item?id=49701004\nPoints: 699\n# Comments: 823",
+      "creator": "throw0101d",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Steam Frame starts at $1059",
+      "link": "https://store.steampowered.com/hardware/steamframe",
+      "pubDate": "Mon, 14 Sep 2026 17:27:55 +0000",
+      "isoDate": "2026-09-14T17:27:55.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://store.steampowered.com/hardware/steamframe\">https://store.steampowered.com/hardware/steamframe</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49700661\">https://news.ycombinator.com/item?id=49700661</a></p>\n<p>Points: 720</p>\n<p># Comments: 615</p>\n",
+      "contentSnippet": "Article URL: https://store.steampowered.com/hardware/steamframe\nComments URL: https://news.ycombinator.com/item?id=49700661\nPoints: 720\n# Comments: 615",
+      "creator": "bsimpson",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Pion, an agent designed to run any company autonomously",
+      "link": "https://andonlabs.com/blog/why-we-built-pion",
+      "pubDate": "Mon, 14 Sep 2026 17:16:06 +0000",
+      "isoDate": "2026-09-14T17:16:06.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://andonlabs.com/blog/why-we-built-pion\">https://andonlabs.com/blog/why-we-built-pion</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49700477\">https://news.ycombinator.com/item?id=49700477</a></p>\n<p>Points: 479</p>\n<p># Comments: 584</p>\n",
+      "contentSnippet": "Article URL: https://andonlabs.com/blog/why-we-built-pion\nComments URL: https://news.ycombinator.com/item?id=49700477\nPoints: 479\n# Comments: 584",
+      "creator": "lukaspetersson",
+      "summaries": {
+        "zh": "该文章标题为《Pion，一个旨在自主运营任何公司的代理》，发布在 Andon Labs 博客，主题涉及“为何构建 Pion”。Hacker News 上该帖获 224 分、236 条评论。除标题和元数据外，未提供文章正文，因此无法总结更多具体细节。",
+        "en": "The article introduces Pion, an agent designed to run any company autonomously. The source is an Andon Labs blog post, accompanied by a Hacker News discussion. The Hacker News post has 224 points and 236 comments. No additional details about Pion’s capabilities, design, or implementation are provided in the available content."
+      },
+      "summary": "该文章标题为《Pion，一个旨在自主运营任何公司的代理》，发布在 Andon Labs 博客，主题涉及“为何构建 Pion”。Hacker News 上该帖获 224 分、236 条评论。除标题和元数据外，未提供文章正文，因此无法总结更多具体细节。"
+    },
+    {
+      "title": "Microsoft patches Windows and Excel – breaks audio, remote access, and paste",
+      "link": "https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085",
+      "pubDate": "Mon, 14 Sep 2026 16:09:45 +0000",
+      "isoDate": "2026-09-14T16:09:45.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085\">https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49699297\">https://news.ycombinator.com/item?id=49699297</a></p>\n<p>Points: 256</p>\n<p># Comments: 177</p>\n",
+      "contentSnippet": "Article URL: https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085\nComments URL: https://news.ycombinator.com/item?id=49699297\nPoints: 256\n# Comments: 177",
+      "creator": "Alephinitesimal",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Distributed Systems Classics (2017)",
+      "link": "https://nvartolomei.com/dist-sys-classics/",
+      "pubDate": "Mon, 14 Sep 2026 16:02:01 +0000",
+      "isoDate": "2026-09-14T16:02:01.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://nvartolomei.com/dist-sys-classics/\">https://nvartolomei.com/dist-sys-classics/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49699158\">https://news.ycombinator.com/item?id=49699158</a></p>\n<p>Points: 339</p>\n<p># Comments: 73</p>\n",
+      "contentSnippet": "Article URL: https://nvartolomei.com/dist-sys-classics/\nComments URL: https://news.ycombinator.com/item?id=49699158\nPoints: 339\n# Comments: 73",
+      "creator": "grep_it",
+      "summaries": {
+        "zh": "《Distributed Systems Classics (2017)》是一篇以分布式系统经典资料为主题的文章，原文链接为 nvartolomei.com/dist-sys-classics/，在 Hacker News 获 231 分、52 条评论。但所提供的正文内容为空，除标题、链接及评论数据外没有可用信息，因此无法进一步概括具体内容。",
+        "en": "The submission “Distributed Systems Classics (2017)” links to an external article at nvartolomei.com. On Hacker News, it has 231 points and 52 comments. No article text or substantive details are included in the provided content, so its specific points cannot be summarized."
+      },
+      "summary": "《Distributed Systems Classics (2017)》是一篇以分布式系统经典资料为主题的文章，原文链接为 nvartolomei.com/dist-sys-classics/，在 Hacker News 获 231 分、52 条评论。但所提供的正文内容为空，除标题、链接及评论数据外没有可用信息，因此无法进一步概括具体内容。"
+    },
+    {
+      "title": "A beginning for mathematics",
+      "link": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
+      "pubDate": "Mon, 14 Sep 2026 15:33:07 +0000",
+      "isoDate": "2026-09-14T15:33:07.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/\">https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49698699\">https://news.ycombinator.com/item?id=49698699</a></p>\n<p>Points: 265</p>\n<p># Comments: 146</p>\n",
+      "contentSnippet": "Article URL: https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/\nComments URL: https://news.ycombinator.com/item?id=49698699\nPoints: 265\n# Comments: 146",
+      "creator": "robinhouston",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Dario, Please",
+      "link": "https://pop.rdi.sh/dario-please/",
+      "pubDate": "Mon, 14 Sep 2026 14:50:32 +0000",
+      "isoDate": "2026-09-14T14:50:32.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://pop.rdi.sh/dario-please/\">https://pop.rdi.sh/dario-please/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49697893\">https://news.ycombinator.com/item?id=49697893</a></p>\n<p>Points: 614</p>\n<p># Comments: 298</p>\n",
+      "contentSnippet": "Article URL: https://pop.rdi.sh/dario-please/\nComments URL: https://news.ycombinator.com/item?id=49697893\nPoints: 614\n# Comments: 298",
+      "creator": "0x5FC3",
+      "summaries": {
+        "zh": "提供的文章仅有标题《Dario, Please》，正文内容缺失，只附带原文链接、Hacker News 评论链接，以及 267 分、140 条评论的互动数据。由于没有可用的正文信息，无法总结文章观点或细节。",
+        "en": "The provided material does not include the article’s body. It only lists the title “Dario, Please,” the article URL, a Hacker News comments URL, 267 points, and 140 comments. No substantive summary of the article’s main points can be provided without inventing details."
+      },
+      "summary": "提供的文章仅有标题《Dario, Please》，正文内容缺失，只附带原文链接、Hacker News 评论链接，以及 267 分、140 条评论的互动数据。由于没有可用的正文信息，无法总结文章观点或细节。"
+    },
+    {
+      "title": "Ubuntu 26.10 completes transition to Rust-based coreutils",
+      "link": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
+      "pubDate": "Mon, 14 Sep 2026 13:38:58 +0000",
+      "isoDate": "2026-09-14T13:38:58.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete\">https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49696697\">https://news.ycombinator.com/item?id=49696697</a></p>\n<p>Points: 272</p>\n<p># Comments: 295</p>\n",
+      "contentSnippet": "Article URL: https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete\nComments URL: https://news.ycombinator.com/item?id=49696697\nPoints: 272\n# Comments: 295",
+      "creator": "theanonymousone",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "How to write an effective software design document",
+      "link": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
+      "pubDate": "Mon, 14 Sep 2026 13:00:46 +0000",
+      "isoDate": "2026-09-14T13:00:46.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://refactoringenglish.com/excerpts/write-an-effective-design-doc/\">https://refactoringenglish.com/excerpts/write-an-effective-design-doc/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49696125\">https://news.ycombinator.com/item?id=49696125</a></p>\n<p>Points: 342</p>\n<p># Comments: 139</p>\n",
+      "contentSnippet": "Article URL: https://refactoringenglish.com/excerpts/write-an-effective-design-doc/\nComments URL: https://news.ycombinator.com/item?id=49696125\nPoints: 342\n# Comments: 139",
+      "creator": "fagnerbrack",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+      "link": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+      "pubDate": "Mon, 14 Sep 2026 12:40:57 +0000",
+      "isoDate": "2026-09-14T12:40:57.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/\">https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49695876\">https://news.ycombinator.com/item?id=49695876</a></p>\n<p>Points: 505</p>\n<p># Comments: 413</p>\n",
+      "contentSnippet": "Article URL: https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/\nComments URL: https://news.ycombinator.com/item?id=49695876\nPoints: 505\n# Comments: 413",
+      "creator": "gregnavis",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "XCancel suspended \"due to a new development in the ongoing legal proceedings\"",
+      "link": "https://xcancel.com/twitter",
+      "pubDate": "Mon, 14 Sep 2026 12:05:52 +0000",
+      "isoDate": "2026-09-14T12:05:52.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://xcancel.com/twitter\">https://xcancel.com/twitter</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49695459\">https://news.ycombinator.com/item?id=49695459</a></p>\n<p>Points: 272</p>\n<p># Comments: 1</p>\n",
+      "contentSnippet": "Article URL: https://xcancel.com/twitter\nComments URL: https://news.ycombinator.com/item?id=49695459\nPoints: 272\n# Comments: 1",
+      "creator": "unfocso",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "XCancel service is suspended until further notice",
+      "link": "https://xcancel.com/#",
+      "pubDate": "Mon, 14 Sep 2026 09:51:50 +0000",
+      "isoDate": "2026-09-14T09:51:50.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://xcancel.com/#\">https://xcancel.com/#</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49694296\">https://news.ycombinator.com/item?id=49694296</a></p>\n<p>Points: 746</p>\n<p># Comments: 1009</p>\n",
+      "contentSnippet": "Article URL: https://xcancel.com/#\nComments URL: https://news.ycombinator.com/item?id=49694296\nPoints: 746\n# Comments: 1009",
+      "creator": "gaganyaan",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Nike exits the S&P 100 after 18 years and a $200B market-cap wipeout",
+      "link": "https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/",
+      "pubDate": "Mon, 14 Sep 2026 02:50:40 +0000",
+      "isoDate": "2026-09-14T02:50:40.000Z",
+      "content": "\n<p><a href=\"https://archive.ph/8NmSg\" rel=\"nofollow\">https://archive.ph/8NmSg</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49691343\">https://news.ycombinator.com/item?id=49691343</a></p>\n<p>Points: 312</p>\n<p># Comments: 427</p>\n",
+      "contentSnippet": "https://archive.ph/8NmSg\nComments URL: https://news.ycombinator.com/item?id=49691343\nPoints: 312\n# Comments: 427",
+      "creator": "andsoitis",
+      "summaries": {
+        "zh": "文章标题显示，耐克在纳入标普100指数18年后被移出，期间市值蒸发约2000亿美元。正文仅提供存档链接，未给出更多细节；Hacker News相关讨论有222点、286条评论。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "文章标题显示，耐克在纳入标普100指数18年后被移出，期间市值蒸发约2000亿美元。正文仅提供存档链接，未给出更多细节；Hacker News相关讨论有222点、286条评论。"
+    },
+    {
+      "title": "The case against JPEG XL",
+      "link": "https://giannirosato.com/blog/post/case-against-jxl/",
+      "pubDate": "Mon, 14 Sep 2026 01:02:37 +0000",
+      "isoDate": "2026-09-14T01:02:37.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://giannirosato.com/blog/post/case-against-jxl/\">https://giannirosato.com/blog/post/case-against-jxl/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49690554\">https://news.ycombinator.com/item?id=49690554</a></p>\n<p>Points: 275</p>\n<p># Comments: 377</p>\n",
+      "contentSnippet": "Article URL: https://giannirosato.com/blog/post/case-against-jxl/\nComments URL: https://news.ycombinator.com/item?id=49690554\nPoints: 275\n# Comments: 377",
+      "creator": "contact9879",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Apple's Dimensional Drawings",
+      "link": "https://developer.apple.com/accessories/dimensional-drawings/",
+      "pubDate": "Mon, 14 Sep 2026 00:11:21 +0000",
+      "isoDate": "2026-09-14T00:11:21.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://developer.apple.com/accessories/dimensional-drawings/\">https://developer.apple.com/accessories/dimensional-drawings/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49690174\">https://news.ycombinator.com/item?id=49690174</a></p>\n<p>Points: 405</p>\n<p># Comments: 131</p>\n",
+      "contentSnippet": "Article URL: https://developer.apple.com/accessories/dimensional-drawings/\nComments URL: https://news.ycombinator.com/item?id=49690174\nPoints: 405\n# Comments: 131",
+      "creator": "herbertl",
+      "summaries": {
+        "zh": "文章标题为“Apple's Dimensional Drawings”，内容仅包含 Apple 开发者网站配件尺寸图页面的链接，以及 Hacker News 上的讨论链接。该讨论获得 270 分，共有 90 条评论。除链接和讨论数据外，未提供更多正文信息。",
+        "en": "The provided content contains only the title “Apple’s Dimensional Drawings,” a link to Apple’s developer accessories page, and a Hacker News discussion link. It does not include the article body or details about the drawings. The Hacker News post has 270 points and 90 comments. No substantive information is available to summarize."
+      },
+      "summary": "文章标题为“Apple's Dimensional Drawings”，内容仅包含 Apple 开发者网站配件尺寸图页面的链接，以及 Hacker News 上的讨论链接。该讨论获得 270 分，共有 90 条评论。除链接和讨论数据外，未提供更多正文信息。"
+    },
+    {
+      "title": "The contagion of fear",
+      "link": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
+      "pubDate": "Sun, 13 Sep 2026 22:38:18 +0000",
+      "isoDate": "2026-09-13T22:38:18.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/\">https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49689460\">https://news.ycombinator.com/item?id=49689460</a></p>\n<p>Points: 267</p>\n<p># Comments: 189</p>\n",
+      "contentSnippet": "Article URL: https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/\nComments URL: https://news.ycombinator.com/item?id=49689460\nPoints: 267\n# Comments: 189",
+      "creator": "elffjs",
+      "summaries": {
+        "zh": "所给内容未包含文章正文，仅有标题《恐惧的传染》（The contagion of fear）、原文链接及 Hacker News 讨论信息（194 分、138 条评论）。因此无法概括文章的具体观点或论据；可确认的信息仅为标题与讨论热度。若需摘要，请提供正文。",
+        "en": "The provided material contains no article text. It only lists the title “The contagion of fear,” its URL, and Hacker News metadata (194 points, 138 comments). No substantive details or key points are available to summarize."
+      },
+      "summary": "所给内容未包含文章正文，仅有标题《恐惧的传染》（The contagion of fear）、原文链接及 Hacker News 讨论信息（194 分、138 条评论）。因此无法概括文章的具体观点或论据；可确认的信息仅为标题与讨论热度。若需摘要，请提供正文。"
+    }
+  ],
+  "lastUpdated": "2026-09-16T00:31:40.996Z"
+}
