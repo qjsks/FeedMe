@@ -1,0 +1,219 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "cloudflare/security-audit-skill",
+      "link": "https://github.com/cloudflare/security-audit-skill",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/9b7890c0d423619e98d1ea2a81e567701cb4bae1e34435c787222f8158f5d352/cloudflare/security-audit-skill\" referrerpolicy=\"no-referrer\"><br>A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings<br><br>Language: JavaScript<br>Stars: 15353<br>Forks: 840",
+      "contentSnippet": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings\nLanguage: JavaScript\nStars: 15353\nForks: 840",
+      "creator": "cloudflare",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "trycua/cua",
+      "link": "https://github.com/trycua/cua",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/124ff0c3a89fc43cf440d647e9bdcf583d453fbc8b1829d9f4e3035d18635c8e/trycua/cua\" referrerpolicy=\"no-referrer\"><br>Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.<br><br>Language: HTML<br>Stars: 23987<br>Forks: 1657",
+      "contentSnippet": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.\nLanguage: HTML\nStars: 23987\nForks: 1657",
+      "creator": "trycua",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "addyosmani/agent-skills",
+      "link": "https://github.com/addyosmani/agent-skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/eaa1f130c763775add5e66e41422f654d554e994917e35355137a5a220327fe9/addyosmani/agent-skills\" referrerpolicy=\"no-referrer\"><br>Production-grade engineering skills for AI coding agents.<br><br>Language: JavaScript<br>Stars: 96760<br>Forks: 10222",
+      "contentSnippet": "Production-grade engineering skills for AI coding agents.\nLanguage: JavaScript\nStars: 96760\nForks: 10222",
+      "creator": "addyosmani",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "coder/coder",
+      "link": "https://github.com/coder/coder",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/440752086/eb56ccad-14f2-4c61-a024-20d1e77296c1\" referrerpolicy=\"no-referrer\"><br>Secure environments for developers and their agents<br><br>Language: Go<br>Stars: 15474<br>Forks: 1509",
+      "contentSnippet": "Secure environments for developers and their agents\nLanguage: Go\nStars: 15474\nForks: 1509",
+      "creator": "coder",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "anthropics/claude-code",
+      "link": "https://github.com/anthropics/claude-code",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/50e1444a36b294a77ab1c07c420314745c4ade2985c59b887ba2d43fee61b2e7/anthropics/claude-code\" referrerpolicy=\"no-referrer\"><br>Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.<br><br>Language: TypeScript<br>Stars: 146559<br>Forks: 23856",
+      "contentSnippet": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.\nLanguage: TypeScript\nStars: 146559\nForks: 23856",
+      "creator": "anthropics",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Open-Dev-Society/OpenStock",
+      "link": "https://github.com/Open-Dev-Society/OpenStock",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/42c33fb3812d17230b510f12c860621cdbb6fb08b4f37d24697eb4ec35e441a9/Open-Dev-Society/OpenStock\" referrerpolicy=\"no-referrer\"><br>OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.<br><br>Language: TypeScript<br>Stars: 15779<br>Forks: 2063",
+      "contentSnippet": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.\nLanguage: TypeScript\nStars: 15779\nForks: 2063",
+      "creator": "Open-Dev-Society",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "higgsfield-ai/higgsfield",
+      "link": "https://github.com/higgsfield-ai/higgsfield",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/7bdd2a34aba379073476751e7c9c9c522acaac75efe0d790bbf72a532769bdda/higgsfield-ai/higgsfield\" referrerpolicy=\"no-referrer\"><br>Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters<br><br>Language: Jupyter Notebook<br>Stars: 4757<br>Forks: 880",
+      "contentSnippet": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters\nLanguage: Jupyter Notebook\nStars: 4757\nForks: 880",
+      "creator": "higgsfield-ai",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "docling-project/docling",
+      "link": "https://github.com/docling-project/docling",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/826168160/d3c8a8f9-af99-449f-856b-4ab9c897cce2\" referrerpolicy=\"no-referrer\"><br>Get your documents ready for gen AI<br><br>Language: Python<br>Stars: 66801<br>Forks: 4819",
+      "contentSnippet": "Get your documents ready for gen AI\nLanguage: Python\nStars: 66801\nForks: 4819",
+      "creator": "docling-project",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "cloudflare/quiche",
+      "link": "https://github.com/cloudflare/quiche",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/150891532/2e6cb65b-af39-4800-ba9c-846e87230de5\" referrerpolicy=\"no-referrer\"><br>🥧 Savoury implementation of the QUIC transport protocol and HTTP/3<br><br>Language: Rust<br>Stars: 11897<br>Forks: 1099",
+      "contentSnippet": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3\nLanguage: Rust\nStars: 11897\nForks: 1099",
+      "creator": "cloudflare",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "asciimoo/hister",
+      "link": "https://github.com/asciimoo/hister",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/6e9cbf412d650dcd98a1954241ae29fb3753468c1bf5395b530d3dee4959785c/asciimoo/hister\" referrerpolicy=\"no-referrer\"><br>Your own search engine<br><br>Language: Go<br>Stars: 5121<br>Forks: 212",
+      "contentSnippet": "Your own search engine\nLanguage: Go\nStars: 5121\nForks: 212",
+      "creator": "asciimoo",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "ruanyf/weekly",
+      "link": "https://github.com/ruanyf/weekly",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/12fb8eaf1e273c55f37e3a1bc2e9fd564a1b7c6c63a6135487626e777985e036/ruanyf/weekly\" referrerpolicy=\"no-referrer\"><br>科技爱好者周刊，每周五发布<br><br>Language: Unknown<br>Stars: 103015<br>Forks: 4422",
+      "contentSnippet": "科技爱好者周刊，每周五发布\nLanguage: Unknown\nStars: 103015\nForks: 4422",
+      "creator": "ruanyf",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "ZuodaoTech/everyone-can-use-english",
+      "link": "https://github.com/ZuodaoTech/everyone-can-use-english",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/03e8bc77eeabf1068c8211e1d862c488e951975774496221e586a00157169c9c/ZuodaoTech/everyone-can-use-english\" referrerpolicy=\"no-referrer\"><br>人人都能用英语<br><br>Language: TypeScript<br>Stars: 37694<br>Forks: 5201",
+      "contentSnippet": "人人都能用英语\nLanguage: TypeScript\nStars: 37694\nForks: 5201",
+      "creator": "ZuodaoTech",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "anthropics/knowledge-work-plugins",
+      "link": "https://github.com/anthropics/knowledge-work-plugins",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0fe628ab59fd041de81854bd4b53b90d780762a4f9ad92a626fe9e253c021f53/anthropics/knowledge-work-plugins\" referrerpolicy=\"no-referrer\"><br>Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork<br><br>Language: Python<br>Stars: 25010<br>Forks: 2979",
+      "contentSnippet": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork\nLanguage: Python\nStars: 25010\nForks: 2979",
+      "creator": "anthropics",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "cactus-compute/needle",
+      "link": "https://github.com/cactus-compute/needle",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/649b7ddab0def9a5cd903e925ec6f991ffcbebafcd8422cf708ffcee496cd390/cactus-compute/needle\" referrerpolicy=\"no-referrer\"><br>Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.<br><br>Language: Python<br>Stars: 11462<br>Forks: 729",
+      "contentSnippet": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.\nLanguage: Python\nStars: 11462\nForks: 729",
+      "creator": "cactus-compute",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "yynxxxxx/Codex-X",
+      "link": "https://github.com/yynxxxxx/Codex-X",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/884240e9a91d805a45f2bcd12eb6ecfa829dda75b3a9942a2a9e907d209298ef/yynxxxxx/Codex-X\" referrerpolicy=\"no-referrer\"><br>OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。<br><br>Language: Rust<br>Stars: 3334<br>Forks: 440",
+      "contentSnippet": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。\nLanguage: Rust\nStars: 3334\nForks: 440",
+      "creator": "yynxxxxx",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-09-19T14:30:06.453Z"
+}
