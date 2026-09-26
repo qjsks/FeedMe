@@ -1,0 +1,219 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "paperclipai/paperclip",
+      "link": "https://github.com/paperclipai/paperclip",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/1e82a4b8e12752f8140356c05e1f021a200838458c9626ad1b0a44b667321580/paperclipai/paperclip\" referrerpolicy=\"no-referrer\"><br>The open-source app everyone uses to manage agents at work<br><br>Language: TypeScript<br>Stars: 86901<br>Forks: 15394",
+      "contentSnippet": "The open-source app everyone uses to manage agents at work\nLanguage: TypeScript\nStars: 86901\nForks: 15394",
+      "creator": "paperclipai",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "vectorize-io/hindsight",
+      "link": "https://github.com/vectorize-io/hindsight",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/8e8911800f74baffaa2523b34961fbe78bec6f6cdf64ab38ae6c38b2c281131e/vectorize-io/hindsight\" referrerpolicy=\"no-referrer\"><br>Hindsight: Agent Memory That Learns<br><br>Language: Python<br>Stars: 31894<br>Forks: 3544",
+      "contentSnippet": "Hindsight: Agent Memory That Learns\nLanguage: Python\nStars: 31894\nForks: 3544",
+      "creator": "vectorize-io",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "NVIDIA/Model-Optimizer",
+      "link": "https://github.com/NVIDIA/Model-Optimizer",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/2ebc7545717e9376346e3d3135217d40b6585b55d2230158e2671122fa14a75c/NVIDIA/Model-Optimizer\" referrerpolicy=\"no-referrer\"><br>A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.<br><br>Language: Python<br>Stars: 4697<br>Forks: 664",
+      "contentSnippet": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.\nLanguage: Python\nStars: 4697\nForks: 664",
+      "creator": "NVIDIA",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "dream-num/univer",
+      "link": "https://github.com/dream-num/univer",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/543101941/085c0737-5cb6-434f-ac47-1c26f51c46d0\" referrerpolicy=\"no-referrer\"><br>The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.<br><br>Language: TypeScript<br>Stars: 19134<br>Forks: 1627",
+      "contentSnippet": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.\nLanguage: TypeScript\nStars: 19134\nForks: 1627",
+      "creator": "dream-num",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "tensorflow/tensorflow",
+      "link": "https://github.com/tensorflow/tensorflow",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/015d73a1b1cb6c11df944e3e521542bb572e08b6724b2b4461233218f47b1596/tensorflow/tensorflow\" referrerpolicy=\"no-referrer\"><br>An Open Source Machine Learning Framework for Everyone<br><br>Language: C++<br>Stars: 200410<br>Forks: 77574",
+      "contentSnippet": "An Open Source Machine Learning Framework for Everyone\nLanguage: C++\nStars: 200410\nForks: 77574",
+      "creator": "tensorflow",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "rohitg00/ai-engineering-from-scratch",
+      "link": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1185590488/a8b65f74-921c-4682-94c5-7cb82b65ba2c\" referrerpolicy=\"no-referrer\"><br>Learn it. Build it. Ship it for others.<br><br>Language: Python<br>Stars: 58249<br>Forks: 10109",
+      "contentSnippet": "Learn it. Build it. Ship it for others.\nLanguage: Python\nStars: 58249\nForks: 10109",
+      "creator": "rohitg00",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "openbao/openbao",
+      "link": "https://github.com/openbao/openbao",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/a999330cfc8b3ea520d8779d0bce9d3f50b86175b4553165c23407c57f9f54ad/openbao/openbao\" referrerpolicy=\"no-referrer\"><br>OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.<br><br>Language: Go<br>Stars: 7958<br>Forks: 590",
+      "contentSnippet": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.\nLanguage: Go\nStars: 7958\nForks: 590",
+      "creator": "openbao",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "block/buzz",
+      "link": "https://github.com/block/buzz",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/b7ec96edccccd273e1dc3a9907b6b1ee1fe36ad9176198c86fea86f105f9370a/block/buzz\" referrerpolicy=\"no-referrer\"><br>A hive mind communication platform<br><br>Language: Rust<br>Stars: 34790<br>Forks: 4594",
+      "contentSnippet": "A hive mind communication platform\nLanguage: Rust\nStars: 34790\nForks: 4594",
+      "creator": "block",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "microsoft/vscode",
+      "link": "https://github.com/microsoft/vscode",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/eab66852d634c693c83e3f3889873ec90b1e10a3882ac71f5d07836cdfddeeb4/microsoft/vscode\" referrerpolicy=\"no-referrer\"><br>Visual Studio Code<br><br>Language: TypeScript<br>Stars: 193044<br>Forks: 43510",
+      "contentSnippet": "Visual Studio Code\nLanguage: TypeScript\nStars: 193044\nForks: 43510",
+      "creator": "microsoft",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "zhaoxuya520/reverse-skill",
+      "link": "https://github.com/zhaoxuya520/reverse-skill",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/f210a17b2086f8a6a5b09c80d55223382b7602505638d6d0abce677210220df1/zhaoxuya520/reverse-skill\" referrerpolicy=\"no-referrer\"><br>Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端<br><br>Language: PowerShell<br>Stars: 37920<br>Forks: 5265",
+      "contentSnippet": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端\nLanguage: PowerShell\nStars: 37920\nForks: 5265",
+      "creator": "zhaoxuya520",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "llvm/llvm-project",
+      "link": "https://github.com/llvm/llvm-project",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/72143529ffce25be7be6a869f3de58ee32078872bde6b640e212b9b72862aad3/llvm/llvm-project\" referrerpolicy=\"no-referrer\"><br>The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.<br><br>Language: LLVM<br>Stars: 40725<br>Forks: 18818",
+      "contentSnippet": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.\nLanguage: LLVM\nStars: 40725\nForks: 18818",
+      "creator": "llvm",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "anthropics/claude-code-action",
+      "link": "https://github.com/anthropics/claude-code-action",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/fd5fcd6bdf13f1e8dcee49193cd2d34c5118a85a0e6b32ad73e4255d7a29040c/anthropics/claude-code-action\" referrerpolicy=\"no-referrer\"><br><br><br>Language: TypeScript<br>Stars: 9054<br>Forks: 2161",
+      "contentSnippet": "Language: TypeScript\nStars: 9054\nForks: 2161",
+      "creator": "anthropics",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "actions/runner-images",
+      "link": "https://github.com/actions/runner-images",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/9329b3745392aae9df5d0cabbdc76b2f2b5b9c821e5c468bf17c61635f7df6da/actions/runner-images\" referrerpolicy=\"no-referrer\"><br>GitHub Actions runner images<br><br>Language: PowerShell<br>Stars: 13267<br>Forks: 3863",
+      "contentSnippet": "GitHub Actions runner images\nLanguage: PowerShell\nStars: 13267\nForks: 3863",
+      "creator": "actions",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "mobile-next/mobile-mcp",
+      "link": "https://github.com/mobile-next/mobile-mcp",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/9e7fb5b47491f357e5dda4f5a7f707671790f69b47405793915ead92b0f93d75/mobile-next/mobile-mcp\" referrerpolicy=\"no-referrer\"><br>Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)<br><br>Language: TypeScript<br>Stars: 7256<br>Forks: 636",
+      "contentSnippet": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)\nLanguage: TypeScript\nStars: 7256\nForks: 636",
+      "creator": "mobile-next",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "vercel/next.js",
+      "link": "https://github.com/vercel/next.js",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/70107786/4602445c-10a2-4903-a360-c96d70531f67\" referrerpolicy=\"no-referrer\"><br>The React Framework<br><br>Language: JavaScript<br>Stars: 142579<br>Forks: 33115",
+      "contentSnippet": "The React Framework\nLanguage: JavaScript\nStars: 142579\nForks: 33115",
+      "creator": "vercel",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-09-26T19:56:47.414Z"
+}
