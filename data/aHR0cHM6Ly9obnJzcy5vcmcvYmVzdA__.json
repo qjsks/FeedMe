@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": "ADHD, autism or complex trauma? [pdf]",
+      "link": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf",
+      "pubDate": "Sat, 03 Oct 2026 18:08:28 +0000",
+      "isoDate": "2026-10-03T18:08:28.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf\">https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49946403\">https://news.ycombinator.com/item?id=49946403</a></p>\n<p>Points: 200</p>\n<p># Comments: 211</p>\n",
+      "contentSnippet": "Article URL: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/30CC4826561366615BFAEC807CDE28A7/S0007125026108046a.pdf/adhd-autism-or-complex-trauma-the-complicated-nature-of-the-question.pdf\nComments URL: https://news.ycombinator.com/item?id=49946403\nPoints: 200\n# Comments: 211",
+      "creator": "skeptical1884",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Hole Punch: Sling your spaceship around gravitational fields",
+      "link": "https://notoriousbfg.com/hole-punch/",
+      "pubDate": "Sat, 03 Oct 2026 18:06:45 +0000",
+      "isoDate": "2026-10-03T18:06:45.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://notoriousbfg.com/hole-punch/\">https://notoriousbfg.com/hole-punch/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49946393\">https://news.ycombinator.com/item?id=49946393</a></p>\n<p>Points: 208</p>\n<p># Comments: 53</p>\n",
+      "contentSnippet": "Article URL: https://notoriousbfg.com/hole-punch/\nComments URL: https://news.ycombinator.com/item?id=49946393\nPoints: 208\n# Comments: 53",
+      "creator": "trwhite",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
+      "link": "https://tej.as/blog/aleph-alpha-kolibri",
+      "pubDate": "Sat, 03 Oct 2026 10:43:51 +0000",
+      "isoDate": "2026-10-03T10:43:51.000Z",
+      "content": "\n<p><a href=\"https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/\" rel=\"nofollow\">https://aleph-alpha.com/en/blog/kolibri-has-landed-a-soverei...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49943034\">https://news.ycombinator.com/item?id=49943034</a></p>\n<p>Points: 409</p>\n<p># Comments: 11</p>\n",
+      "contentSnippet": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-soverei...\nComments URL: https://news.ycombinator.com/item?id=49943034\nPoints: 409\n# Comments: 11",
+      "creator": "tejaskumar__",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Kolibri: A Sovereign Open-Weight Model",
+      "link": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+      "pubDate": "Sat, 03 Oct 2026 09:36:04 +0000",
+      "isoDate": "2026-10-03T09:36:04.000Z",
+      "content": "\n<p>tech report: <a href=\"https://aleph-alpha.com/downloads/tech-report.pdf\" rel=\"nofollow\">https://aleph-alpha.com/downloads/tech-report.pdf</a><p>additional paper: <a href=\"https://tej.as/blog/aleph-alpha-kolibri\" rel=\"nofollow\">https://tej.as/blog/aleph-alpha-kolibri</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49942706\">https://news.ycombinator.com/item?id=49942706</a></p>\n<p>Points: 480</p>\n<p># Comments: 293</p>\n",
+      "contentSnippet": "tech report: https://aleph-alpha.com/downloads/tech-report.pdf\nadditional paper: https://tej.as/blog/aleph-alpha-kolibri\nComments URL: https://news.ycombinator.com/item?id=49942706\nPoints: 480\n# Comments: 293",
+      "creator": "bastitx",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Extra Big Ass Intelligence",
+      "link": "https://www.extrabigassintelligence.com/",
+      "pubDate": "Sat, 03 Oct 2026 03:19:10 +0000",
+      "isoDate": "2026-10-03T03:19:10.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.extrabigassintelligence.com/\">https://www.extrabigassintelligence.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49941114\">https://news.ycombinator.com/item?id=49941114</a></p>\n<p>Points: 477</p>\n<p># Comments: 119</p>\n",
+      "contentSnippet": "Article URL: https://www.extrabigassintelligence.com/\nComments URL: https://news.ycombinator.com/item?id=49941114\nPoints: 477\n# Comments: 119",
+      "creator": "34679",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Newgrounds.com – A community of games, music, and art",
+      "link": "https://www.newgrounds.com/",
+      "pubDate": "Sat, 03 Oct 2026 00:55:25 +0000",
+      "isoDate": "2026-10-03T00:55:25.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.newgrounds.com/\">https://www.newgrounds.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49940394\">https://news.ycombinator.com/item?id=49940394</a></p>\n<p>Points: 433</p>\n<p># Comments: 128</p>\n",
+      "contentSnippet": "Article URL: https://www.newgrounds.com/\nComments URL: https://news.ycombinator.com/item?id=49940394\nPoints: 433\n# Comments: 128",
+      "creator": "azhenley",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Things that apparently cause cancer",
+      "link": "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer",
+      "pubDate": "Sat, 03 Oct 2026 00:23:11 +0000",
+      "isoDate": "2026-10-03T00:23:11.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer\">https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49940219\">https://news.ycombinator.com/item?id=49940219</a></p>\n<p>Points: 203</p>\n<p># Comments: 75</p>\n",
+      "contentSnippet": "Article URL: https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer\nComments URL: https://news.ycombinator.com/item?id=49940219\nPoints: 203\n# Comments: 75",
+      "creator": "timpera",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Zig v0.17.0",
+      "link": "https://ziglang.org/download/0.17.0/release-notes.html",
+      "pubDate": "Fri, 02 Oct 2026 20:56:36 +0000",
+      "isoDate": "2026-10-02T20:56:36.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://ziglang.org/download/0.17.0/release-notes.html\">https://ziglang.org/download/0.17.0/release-notes.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49938521\">https://news.ycombinator.com/item?id=49938521</a></p>\n<p>Points: 261</p>\n<p># Comments: 196</p>\n",
+      "contentSnippet": "Article URL: https://ziglang.org/download/0.17.0/release-notes.html\nComments URL: https://news.ycombinator.com/item?id=49938521\nPoints: 261\n# Comments: 196",
+      "creator": "ErenayDev",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Updates to Full Disk Access in macOS",
+      "link": "https://developer.apple.com/news/?id=p6zjojqw",
+      "pubDate": "Fri, 02 Oct 2026 19:37:01 +0000",
+      "isoDate": "2026-10-02T19:37:01.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://developer.apple.com/news/?id=p6zjojqw\">https://developer.apple.com/news/?id=p6zjojqw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49937631\">https://news.ycombinator.com/item?id=49937631</a></p>\n<p>Points: 287</p>\n<p># Comments: 203</p>\n",
+      "contentSnippet": "Article URL: https://developer.apple.com/news/?id=p6zjojqw\nComments URL: https://news.ycombinator.com/item?id=49937631\nPoints: 287\n# Comments: 203",
+      "creator": "notfirstpost",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Make Tmux the OS",
+      "link": "https://matduggan.com/what-does-my-dream-os-ui-look-like/",
+      "pubDate": "Fri, 02 Oct 2026 19:29:07 +0000",
+      "isoDate": "2026-10-02T19:29:07.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://matduggan.com/what-does-my-dream-os-ui-look-like/\">https://matduggan.com/what-does-my-dream-os-ui-look-like/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49937540\">https://news.ycombinator.com/item?id=49937540</a></p>\n<p>Points: 187</p>\n<p># Comments: 115</p>\n",
+      "contentSnippet": "Article URL: https://matduggan.com/what-does-my-dream-os-ui-look-like/\nComments URL: https://news.ycombinator.com/item?id=49937540\nPoints: 187\n# Comments: 115",
+      "creator": "weaksauce",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Muse Gadgets",
+      "link": "https://gadgets.muse.ai",
+      "pubDate": "Fri, 02 Oct 2026 19:26:54 +0000",
+      "isoDate": "2026-10-02T19:26:54.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://gadgets.muse.ai\">https://gadgets.muse.ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49937504\">https://news.ycombinator.com/item?id=49937504</a></p>\n<p>Points: 239</p>\n<p># Comments: 107</p>\n",
+      "contentSnippet": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 239\n# Comments: 107",
+      "creator": "anant",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Apple Pass Designer",
+      "link": "https://developer.apple.com/pass-designer/",
+      "pubDate": "Fri, 02 Oct 2026 19:06:56 +0000",
+      "isoDate": "2026-10-02T19:06:56.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://developer.apple.com/pass-designer/\">https://developer.apple.com/pass-designer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49937276\">https://news.ycombinator.com/item?id=49937276</a></p>\n<p>Points: 541</p>\n<p># Comments: 323</p>\n",
+      "contentSnippet": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 541\n# Comments: 323",
+      "creator": "soheilpro",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "From the creator of Redis; run LLM locally with ds4",
+      "link": "https://dwarfstar.sh/",
+      "pubDate": "Fri, 02 Oct 2026 18:01:16 +0000",
+      "isoDate": "2026-10-02T18:01:16.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://dwarfstar.sh/\">https://dwarfstar.sh/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49936575\">https://news.ycombinator.com/item?id=49936575</a></p>\n<p>Points: 341</p>\n<p># Comments: 98</p>\n",
+      "contentSnippet": "Article URL: https://dwarfstar.sh/\nComments URL: https://news.ycombinator.com/item?id=49936575\nPoints: 341\n# Comments: 98",
+      "creator": "fibo",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "ICC judge on what U.S. sanctions mean for her and global courts",
+      "link": "https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost",
+      "pubDate": "Fri, 02 Oct 2026 17:02:31 +0000",
+      "isoDate": "2026-10-02T17:02:31.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost\">https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49935867\">https://news.ycombinator.com/item?id=49935867</a></p>\n<p>Points: 219</p>\n<p># Comments: 170</p>\n",
+      "contentSnippet": "Article URL: https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost\nComments URL: https://news.ycombinator.com/item?id=49935867\nPoints: 219\n# Comments: 170",
+      "creator": "rbanffy",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Supabase is acquiring Turso",
+      "link": "https://supabase.com/blog/supabase-is-acquiring-turso",
+      "pubDate": "Fri, 02 Oct 2026 15:43:03 +0000",
+      "isoDate": "2026-10-02T15:43:03.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://supabase.com/blog/supabase-is-acquiring-turso\">https://supabase.com/blog/supabase-is-acquiring-turso</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49934784\">https://news.ycombinator.com/item?id=49934784</a></p>\n<p>Points: 216</p>\n<p># Comments: 117</p>\n",
+      "contentSnippet": "Article URL: https://supabase.com/blog/supabase-is-acquiring-turso\nComments URL: https://news.ycombinator.com/item?id=49934784\nPoints: 216\n# Comments: 117",
+      "creator": "cvburgess",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "One month coding with GLM 5.3 Flash",
+      "link": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
+      "pubDate": "Fri, 02 Oct 2026 15:29:15 +0000",
+      "isoDate": "2026-10-02T15:29:15.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://wagtail.org/blog/one-month-on-glm-53-flash/\">https://wagtail.org/blog/one-month-on-glm-53-flash/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49934620\">https://news.ycombinator.com/item?id=49934620</a></p>\n<p>Points: 220</p>\n<p># Comments: 177</p>\n",
+      "contentSnippet": "Article URL: https://wagtail.org/blog/one-month-on-glm-53-flash/\nComments URL: https://news.ycombinator.com/item?id=49934620\nPoints: 220\n# Comments: 177",
+      "creator": "ThibWeb",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "AI Makes Me Sad",
+      "link": "https://mondobe.com/ai-makes-me-sad",
+      "pubDate": "Fri, 02 Oct 2026 15:18:00 +0000",
+      "isoDate": "2026-10-02T15:18:00.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://mondobe.com/ai-makes-me-sad\">https://mondobe.com/ai-makes-me-sad</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49934487\">https://news.ycombinator.com/item?id=49934487</a></p>\n<p>Points: 190</p>\n<p># Comments: 237</p>\n",
+      "contentSnippet": "Article URL: https://mondobe.com/ai-makes-me-sad\nComments URL: https://news.ycombinator.com/item?id=49934487\nPoints: 190\n# Comments: 237",
+      "creator": "mondobe",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Big Tech ruined the cloud, so we're renaming ours",
+      "link": "https://www.home-assistant.io/blog/2026/10/02/big-tech-ruined-the-cloud-so-were-renaming-ours/",
+      "pubDate": "Fri, 02 Oct 2026 14:57:22 +0000",
+      "isoDate": "2026-10-02T14:57:22.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.home-assistant.io/blog/2026/10/02/big-tech-ruined-the-cloud-so-were-renaming-ours/\">https://www.home-assistant.io/blog/2026/10/02/big-tech-ruined-the-cloud-so-were-renaming-ours/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49934228\">https://news.ycombinator.com/item?id=49934228</a></p>\n<p>Points: 210</p>\n<p># Comments: 107</p>\n",
+      "contentSnippet": "Article URL: https://www.home-assistant.io/blog/2026/10/02/big-tech-ruined-the-cloud-so-were-renaming-ours/\nComments URL: https://news.ycombinator.com/item?id=49934228\nPoints: 210\n# Comments: 107",
+      "creator": "2sf5",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "The Forgetful CPU (Linux on M4)",
+      "link": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+      "pubDate": "Fri, 02 Oct 2026 14:22:12 +0000",
+      "isoDate": "2026-10-02T14:22:12.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://yuka.dev/blog-2026-10-02-linux-m4.html\">https://yuka.dev/blog-2026-10-02-linux-m4.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49933869\">https://news.ycombinator.com/item?id=49933869</a></p>\n<p>Points: 260</p>\n<p># Comments: 192</p>\n",
+      "contentSnippet": "Article URL: https://yuka.dev/blog-2026-10-02-linux-m4.html\nComments URL: https://news.ycombinator.com/item?id=49933869\nPoints: 260\n# Comments: 192",
+      "creator": "signa11",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "With most information hidden, the game Stratego had stumped AI until now",
+      "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "pubDate": "Fri, 02 Oct 2026 14:11:24 +0000",
+      "isoDate": "2026-10-02T14:11:24.000Z",
+      "content": "\n<p><a href=\"https://www.nature.com/articles/s41586-026-11036-y\" rel=\"nofollow\">https://www.nature.com/articles/s41586-026-11036-y</a><p><a href=\"https://arxiv.org/abs/2511.07312\" rel=\"nofollow\">https://arxiv.org/abs/2511.07312</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49933740\">https://news.ycombinator.com/item?id=49933740</a></p>\n<p>Points: 277</p>\n<p># Comments: 142</p>\n",
+      "contentSnippet": "https://www.nature.com/articles/s41586-026-11036-y\nhttps://arxiv.org/abs/2511.07312\nComments URL: https://news.ycombinator.com/item?id=49933740\nPoints: 277\n# Comments: 142",
+      "creator": "PaulHoule",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "The Legend of von Neumann (1973) [pdf]",
+      "link": "https://gwern.net/doc/math/1973-halmos.pdf",
+      "pubDate": "Fri, 02 Oct 2026 13:18:32 +0000",
+      "isoDate": "2026-10-02T13:18:32.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://gwern.net/doc/math/1973-halmos.pdf\">https://gwern.net/doc/math/1973-halmos.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49933235\">https://news.ycombinator.com/item?id=49933235</a></p>\n<p>Points: 302</p>\n<p># Comments: 181</p>\n",
+      "contentSnippet": "Article URL: https://gwern.net/doc/math/1973-halmos.pdf\nComments URL: https://news.ycombinator.com/item?id=49933235\nPoints: 302\n# Comments: 181",
+      "creator": "suopspaces",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "On social reality in China",
+      "link": "https://www.lesswrong.com/posts/b5cSYh4emQb2qrGmK/on-social-reality-in-china",
+      "pubDate": "Fri, 02 Oct 2026 11:42:26 +0000",
+      "isoDate": "2026-10-02T11:42:26.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.lesswrong.com/posts/b5cSYh4emQb2qrGmK/on-social-reality-in-china\">https://www.lesswrong.com/posts/b5cSYh4emQb2qrGmK/on-social-reality-in-china</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49932402\">https://news.ycombinator.com/item?id=49932402</a></p>\n<p>Points: 245</p>\n<p># Comments: 239</p>\n",
+      "contentSnippet": "Article URL: https://www.lesswrong.com/posts/b5cSYh4emQb2qrGmK/on-social-reality-in-china\nComments URL: https://news.ycombinator.com/item?id=49932402\nPoints: 245\n# Comments: 239",
+      "creator": "thicTurtlLverXX",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
+      "link": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
+      "pubDate": "Fri, 02 Oct 2026 11:07:17 +0000",
+      "isoDate": "2026-10-02T11:07:17.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f\">https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49932147\">https://news.ycombinator.com/item?id=49932147</a></p>\n<p>Points: 389</p>\n<p># Comments: 79</p>\n",
+      "contentSnippet": "Article URL: https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f\nComments URL: https://news.ycombinator.com/item?id=49932147\nPoints: 389\n# Comments: 79",
+      "creator": "mariuz",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Shimano Bicycle Museum Review",
+      "link": "https://inrng.com/2026/10/shimano-bicycle-museum/",
+      "pubDate": "Fri, 02 Oct 2026 05:12:58 +0000",
+      "isoDate": "2026-10-02T05:12:58.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://inrng.com/2026/10/shimano-bicycle-museum/\">https://inrng.com/2026/10/shimano-bicycle-museum/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49930047\">https://news.ycombinator.com/item?id=49930047</a></p>\n<p>Points: 302</p>\n<p># Comments: 80</p>\n",
+      "contentSnippet": "Article URL: https://inrng.com/2026/10/shimano-bicycle-museum/\nComments URL: https://news.ycombinator.com/item?id=49930047\nPoints: 302\n# Comments: 80",
+      "creator": "pietroppeter",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "DeepSeek Harness Desktop for macOS and Windows",
+      "link": "https://www.deepseek.com/en/harness/",
+      "pubDate": "Fri, 02 Oct 2026 03:11:20 +0000",
+      "isoDate": "2026-10-02T03:11:20.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.deepseek.com/en/harness/\">https://www.deepseek.com/en/harness/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49929489\">https://news.ycombinator.com/item?id=49929489</a></p>\n<p>Points: 405</p>\n<p># Comments: 216</p>\n",
+      "contentSnippet": "Article URL: https://www.deepseek.com/en/harness/\nComments URL: https://news.ycombinator.com/item?id=49929489\nPoints: 405\n# Comments: 216",
+      "creator": "Kuyawa",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+      "link": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+      "pubDate": "Fri, 02 Oct 2026 02:51:27 +0000",
+      "isoDate": "2026-10-02T02:51:27.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.youtube.com/watch?v=NnV_cWeoo5Q\">https://www.youtube.com/watch?v=NnV_cWeoo5Q</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49929391\">https://news.ycombinator.com/item?id=49929391</a></p>\n<p>Points: 325</p>\n<p># Comments: 118</p>\n",
+      "contentSnippet": "Article URL: https://www.youtube.com/watch?v=NnV_cWeoo5Q\nComments URL: https://news.ycombinator.com/item?id=49929391\nPoints: 325\n# Comments: 118",
+      "creator": "usernomdeguerre",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "How Singapore's government-run dating service works",
+      "link": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
+      "pubDate": "Fri, 02 Oct 2026 01:56:52 +0000",
+      "isoDate": "2026-10-02T01:56:52.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works\">https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49929113\">https://news.ycombinator.com/item?id=49929113</a></p>\n<p>Points: 251</p>\n<p># Comments: 355</p>\n",
+      "contentSnippet": "Article URL: https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works\nComments URL: https://news.ycombinator.com/item?id=49929113\nPoints: 251\n# Comments: 355",
+      "creator": "danielfoster",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
+      "link": "https://stillwet.art/",
+      "pubDate": "Fri, 02 Oct 2026 00:27:56 +0000",
+      "isoDate": "2026-10-02T00:27:56.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://stillwet.art/\">https://stillwet.art/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49928566\">https://news.ycombinator.com/item?id=49928566</a></p>\n<p>Points: 370</p>\n<p># Comments: 108</p>\n",
+      "contentSnippet": "Article URL: https://stillwet.art/\nComments URL: https://news.ycombinator.com/item?id=49928566\nPoints: 370\n# Comments: 108",
+      "creator": "alstonite",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Tiny Brutalism",
+      "link": "https://placeholders.itch.io/tiny-brutalism",
+      "pubDate": "Thu, 01 Oct 2026 23:23:31 +0000",
+      "isoDate": "2026-10-01T23:23:31.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://placeholders.itch.io/tiny-brutalism\">https://placeholders.itch.io/tiny-brutalism</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49928192\">https://news.ycombinator.com/item?id=49928192</a></p>\n<p>Points: 185</p>\n<p># Comments: 32</p>\n",
+      "contentSnippet": "Article URL: https://placeholders.itch.io/tiny-brutalism\nComments URL: https://news.ycombinator.com/item?id=49928192\nPoints: 185\n# Comments: 32",
+      "creator": "abetusk",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Several vulnerabilities have been discovered in the Linux kernel",
+      "link": "https://lwn.net/Articles/1097401/",
+      "pubDate": "Thu, 01 Oct 2026 23:10:44 +0000",
+      "isoDate": "2026-10-01T23:10:44.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://lwn.net/Articles/1097401/\">https://lwn.net/Articles/1097401/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=49928121\">https://news.ycombinator.com/item?id=49928121</a></p>\n<p>Points: 572</p>\n<p># Comments: 405</p>\n",
+      "contentSnippet": "Article URL: https://lwn.net/Articles/1097401/\nComments URL: https://news.ycombinator.com/item?id=49928121\nPoints: 572\n# Comments: 405",
+      "creator": "luispa",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-10-04T00:42:28.379Z"
+}

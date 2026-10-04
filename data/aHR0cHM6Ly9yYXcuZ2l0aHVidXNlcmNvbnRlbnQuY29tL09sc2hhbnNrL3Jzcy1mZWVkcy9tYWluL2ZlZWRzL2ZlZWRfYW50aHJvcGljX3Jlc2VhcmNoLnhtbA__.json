@@ -1,0 +1,219 @@
+{
+  "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+  "title": "Anthropic Research",
+  "description": "Latest research from Anthropic",
+  "link": "https://www.anthropic.com/research",
+  "items": [
+    {
+      "title": "Oct 1, 2026ScienceClaude-shaped science",
+      "link": "https://www.anthropic.com/research/claude-shaped-science",
+      "pubDate": "Thu, 01 Oct 2026 00:00:00 +0000",
+      "isoDate": "2026-10-01T00:00:00.000Z",
+      "content": "Oct 1, 2026ScienceClaude-shaped science",
+      "contentSnippet": "Oct 1, 2026ScienceClaude-shaped science",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Sep 30, 2026EconomicsWhat work can robots do?",
+      "link": "https://www.anthropic.com/research/what-work-can-robots-do",
+      "pubDate": "Wed, 30 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-30T00:00:00.000Z",
+      "content": "Sep 30, 2026EconomicsWhat work can robots do?",
+      "contentSnippet": "Sep 30, 2026EconomicsWhat work can robots do?",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Sep 29, 2026Frontier Red TeamGLM-5.3 and the spread of advanced cyber capabilities",
+      "link": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+      "pubDate": "Tue, 29 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-29T00:00:00.000Z",
+      "content": "Sep 29, 2026Frontier Red TeamGLM-5.3 and the spread of advanced cyber capabilities",
+      "contentSnippet": "Sep 29, 2026Frontier Red TeamGLM-5.3 and the spread of advanced cyber capabilities",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Sep 29, 2026Societal ImpactsWhat do you want from AI?",
+      "link": "https://www.anthropic.com/research/your-thoughts-on-ai",
+      "pubDate": "Tue, 29 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-29T00:00:00.000Z",
+      "content": "Sep 29, 2026Societal ImpactsWhat do you want from AI?",
+      "contentSnippet": "Sep 29, 2026Societal ImpactsWhat do you want from AI?",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Sep 25, 2026ScienceYes, Claude can do Nine Loops",
+      "link": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+      "pubDate": "Fri, 25 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-25T00:00:00.000Z",
+      "content": "Sep 25, 2026ScienceYes, Claude can do Nine Loops",
+      "contentSnippet": "Sep 25, 2026ScienceYes, Claude can do Nine Loops",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Sep 24, 2026EconomicsProject Swap: What happens when agents trade for us?",
+      "link": "https://www.anthropic.com/research/project-swap",
+      "pubDate": "Thu, 24 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-24T00:00:00.000Z",
+      "content": "Sep 24, 2026EconomicsProject Swap: What happens when agents trade for us?",
+      "contentSnippet": "Sep 24, 2026EconomicsProject Swap: What happens when agents trade for us?",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Sep 17, 2026ScienceHow Claude is uplifting biomolecular modeling",
+      "link": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
+      "pubDate": "Thu, 17 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-17T00:00:00.000Z",
+      "content": "Sep 17, 2026ScienceHow Claude is uplifting biomolecular modeling",
+      "contentSnippet": "Sep 17, 2026ScienceHow Claude is uplifting biomolecular modeling",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Sep 10, 2026Frontier Red TeamMeasuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+      "link": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
+      "pubDate": "Thu, 10 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-10T00:00:00.000Z",
+      "content": "Sep 10, 2026Frontier Red TeamMeasuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+      "contentSnippet": "Sep 10, 2026Frontier Red TeamMeasuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标注日期为2026年9月10日，来源为Frontier Red Team，主题是衡量AI模型在战术情报目标定位和常规武器能力方面的表现。除标题与日期外，正文未提供更多具体信息，无法进一步总结其方法或结论。",
+        "en": "The article is dated Sep 10, 2026, from Frontier Red Team, and titled “Measuring tactical intelligence targeting and conventional weapons capabilities of AI models.” The provided content contains no additional details beyond the title and date, so no further findings, methodology, or conclusions can be summarized."
+      },
+      "summary": "文章标注日期为2026年9月10日，来源为Frontier Red Team，主题是衡量AI模型在战术情报目标定位和常规武器能力方面的表现。除标题与日期外，正文未提供更多具体信息，无法进一步总结其方法或结论。"
+    },
+    {
+      "title": "AlignmentSep 9, 2026An alignment assessment of recent cybersecurity incidentsWe present an alignment assessment of four incidents in which Claude models gained unauthorized access to real third-party systems.",
+      "link": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
+      "pubDate": "Wed, 09 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-09T00:00:00.000Z",
+      "content": "AlignmentSep 9, 2026An alignment assessment of recent cybersecurity incidentsWe present an alignment assessment of four incidents in which Claude models gained unauthorized access to real third-party systems.",
+      "contentSnippet": "AlignmentSep 9, 2026An alignment assessment of recent cybersecurity incidentsWe present an alignment assessment of four incidents in which Claude models gained unauthorized access to real third-party systems.",
+      "creator": "",
+      "summaries": {
+        "zh": "本文标题为《对齐评估：近期网络安全事件》（日期标注为2026年9月9日），但正文内容仅有标题重复，未包含任何实质性评估内容或具体网络安全事件信息。文中没有涉及任何事件细节、分析结论或对齐评估结果，缺乏可用于总结的实质性资料。据现有内容，无法提供更多具体信息。",
+        "en": "The provided article content contains no substantive information beyond its title, which reads \"Sep 9, 2026 Alignment: An alignment assessment of recent cybersecurity incidents.\" No findings, analysis, incident details, or conclusions are included. Therefore, a meaningful summary cannot be produced without inventing information. The only verifiable fact is that the piece is dated September 9, 2026, and appears intended as an assessment of recent cybersecurity incidents from an \"alignment\" perspective, but the actual text is absent."
+      },
+      "summary": "本文标题为《对齐评估：近期网络安全事件》（日期标注为2026年9月9日），但正文内容仅有标题重复，未包含任何实质性评估内容或具体网络安全事件信息。文中没有涉及任何事件细节、分析结论或对齐评估结果，缺乏可用于总结的实质性资料。据现有内容，无法提供更多具体信息。"
+    },
+    {
+      "title": "ScienceSep 4, 2026Formalizing Fermat's Last Theorem We are sharing the first complete computer-checked proof of Fermat’s Last Theorem. Claude worked largely autonomously over 11 days to write the proof in the Lean programming language.",
+      "link": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "pubDate": "Fri, 04 Sep 2026 00:00:00 +0000",
+      "isoDate": "2026-09-04T00:00:00.000Z",
+      "content": "ScienceSep 4, 2026Formalizing Fermat's Last Theorem We are sharing the first complete computer-checked proof of Fermat’s Last Theorem. Claude worked largely autonomously over 11 days to write the proof in the Lean programming language.",
+      "contentSnippet": "ScienceSep 4, 2026Formalizing Fermat's Last Theorem We are sharing the first complete computer-checked proof of Fermat’s Last Theorem. Claude worked largely autonomously over 11 days to write the proof in the Lean programming language.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "The provided content contains only the title and date—\"Sep 4, 2026 Science: Formalizing Fermat's Last Theorem\"—with no additional article text or details. Therefore, no substantive summary can be made. The title suggests a science-related discussion on the formalization of Fermat's Last Theorem, but the source material lacks any supporting information or key points to summarize accurately."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Alignment",
+      "link": "https://www.anthropic.com/research/team/alignment",
+      "pubDate": "Fri, 27 Dec 2024 00:00:00 +0000",
+      "isoDate": "2024-12-27T00:00:00.000Z",
+      "content": "Alignment",
+      "contentSnippet": "Alignment",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题为“Alignment”，正文仅重复该词，未提供任何具体信息、定义或说明。因此无法进行有内容的摘要。",
+        "en": "The article titled \"Alignment\" contains no substantive content—only the word \"Alignment\" appears as both the title and the body text. There is no argument, explanation, or information provided to summarize. Therefore, no meaningful summary can be produced without inventing details."
+      },
+      "summary": "文章标题为“Alignment”，正文仅重复该词，未提供任何具体信息、定义或说明。因此无法进行有内容的摘要。"
+    },
+    {
+      "title": "Frontier Red Team",
+      "link": "https://www.anthropic.com/research/team/frontier-red-team",
+      "pubDate": "Fri, 23 Aug 2024 00:00:00 +0000",
+      "isoDate": "2024-08-23T00:00:00.000Z",
+      "content": "Frontier Red Team",
+      "contentSnippet": "Frontier Red Team",
+      "creator": "",
+      "summaries": {
+        "zh": "**摘要：**\n\n所提供的文章内容仅有标题“Frontier Red Team”（前沿红队），没有正文或其他实质性信息。因此，无法提炼出具体观点、事实或论述。根据要求，在内容缺失的情况下，不进行任何细节补充，仅如实说明该情况。简而言之，当前来源仅有标题，无有效信息可供总结。",
+        "en": "The article titled \"Frontier Red Team\" contains no additional content beyond its title. As a result, there is no substantive information available to summarize. The provided material lacks details, findings, or context."
+      },
+      "summary": "**摘要：**\n\n所提供的文章内容仅有标题“Frontier Red Team”（前沿红队），没有正文或其他实质性信息。因此，无法提炼出具体观点、事实或论述。根据要求，在内容缺失的情况下，不进行任何细节补充，仅如实说明该情况。简而言之，当前来源仅有标题，无有效信息可供总结。"
+    },
+    {
+      "title": "Societal Impacts",
+      "link": "https://www.anthropic.com/research/team/societal-impacts",
+      "pubDate": "Mon, 15 Apr 2024 00:00:00 +0000",
+      "isoDate": "2024-04-15T00:00:00.000Z",
+      "content": "Societal Impacts",
+      "contentSnippet": "Societal Impacts",
+      "creator": "",
+      "summaries": {
+        "zh": "该文章仅有标题“Societal Impacts”（社会影响），未提供任何具体正文内容。因此，无法从现有材料中提取详细观点或关键信息。根据要求，不对缺失内容进行补充或推测。若需完整摘要，请提供文章具体段落或详细资料。",
+        "en": "The provided content contains only the title \"Societal Impacts\" and no substantive information. As such, there are no key points or details to summarize. The content is effectively empty, and no meaningful summary can be generated."
+      },
+      "summary": "该文章仅有标题“Societal Impacts”（社会影响），未提供任何具体正文内容。因此，无法从现有材料中提取详细观点或关键信息。根据要求，不对缺失内容进行补充或推测。若需完整摘要，请提供文章具体段落或详细资料。"
+    },
+    {
+      "title": "Interpretability",
+      "link": "https://www.anthropic.com/research/team/interpretability",
+      "pubDate": "Thu, 02 Nov 2023 00:00:00 +0000",
+      "isoDate": "2023-11-02T00:00:00.000Z",
+      "content": "Interpretability",
+      "contentSnippet": "Interpretability",
+      "creator": "",
+      "summaries": {
+        "zh": "该内容仅重复出现“Interpretability”（可解释性）一词，未提供任何具体定义、说明或背景信息。因此无法提炼实质要点或细节。根据要求，不虚构内容，仅指出信息不足。建议提供更完整的原文，以便生成准确摘要。",
+        "en": "The article titled \"Interpretability\" contains no substantive information beyond the term itself. It does not define, explain, or discuss the concept of interpretability in any meaningful way. Since the content is essentially empty and lacks useful details, no further summary or interpretation can be accurately provided."
+      },
+      "summary": "该内容仅重复出现“Interpretability”（可解释性）一词，未提供任何具体定义、说明或背景信息。因此无法提炼实质要点或细节。根据要求，不虚构内容，仅指出信息不足。建议提供更完整的原文，以便生成准确摘要。"
+    },
+    {
+      "title": "Economics",
+      "link": "https://www.anthropic.com/research/team/economics",
+      "pubDate": "Mon, 16 Oct 2023 00:00:00 +0000",
+      "isoDate": "2023-10-16T00:00:00.000Z",
+      "content": "Economics",
+      "contentSnippet": "Economics",
+      "creator": "",
+      "summaries": {
+        "zh": "该内容仅有标题“经济学”，正文未提供任何实质信息或详细说明，因此无法进行有意义的摘要。",
+        "en": "The article provides no substantive information. It contains only the word \"Economics,\" which matches the title. There is no discussion of economic principles, theories, or concepts to summarize."
+      },
+      "summary": "该内容仅有标题“经济学”，正文未提供任何实质信息或详细说明，因此无法进行有意义的摘要。"
+    }
+  ],
+  "lastUpdated": "2026-10-04T00:42:00.904Z"
+}

@@ -1,0 +1,149 @@
+{
+  "sourceUrl": "https://github.blog/feed/",
+  "title": "The GitHub Blog",
+  "description": "Updates, ideas, and inspiration from GitHub to help developers build and design software.",
+  "link": "https://github.blog/",
+  "items": [
+    {
+      "title": "AI is changing developer work. Here are three skills to strengthen.",
+      "link": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/",
+      "pubDate": "Fri, 02 Oct 2026 15:00:00 +0000",
+      "isoDate": "2026-10-02T15:00:00.000Z",
+      "content": "<p>Learn to direct AI agents, critically review their output, and keep technical judgment at the center of your workflow.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/\">AI is changing developer work. Here are three skills to strengthen.</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Learn to direct AI agents, critically review their output, and keep technical judgment at the center of your workflow.\nThe post AI is changing developer work. Here are three skills to strengthen. appeared first on The GitHub Blog.",
+      "creator": "Gwen Davis",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "10 technical talks I’m excited about at GitHub Universe 2026",
+      "link": "https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026/",
+      "pubDate": "Thu, 01 Oct 2026 15:07:16 +0000",
+      "isoDate": "2026-10-01T15:07:16.000Z",
+      "content": "<p>From verifying AI-written code to securing npm dependencies, these are the sessions I’m building my Universe agenda around.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026/\">10 technical talks I’m excited about at GitHub Universe 2026</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "From verifying AI-written code to securing npm dependencies, these are the sessions I’m building my Universe agenda around.\nThe post 10 technical talks I’m excited about at GitHub Universe 2026 appeared first on The GitHub Blog.",
+      "creator": "Andrea Griffiths",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Developer policy update: Transparency, state policy, and what’s ahead",
+      "link": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/",
+      "pubDate": "Tue, 29 Sep 2026 15:00:00 +0000",
+      "isoDate": "2026-09-29T15:00:00.000Z",
+      "content": "<p>Explore GitHub’s latest transparency data and learn more about policy updates affecting developers and open source.</p>\n<p>The post <a href=\"https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/\">Developer policy update: Transparency, state policy, and what’s ahead</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Explore GitHub’s latest transparency data and learn more about policy updates affecting developers and open source.\nThe post Developer policy update: Transparency, state policy, and what’s ahead appeared first on The GitHub Blog.",
+      "creator": "Margaret Tucker",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "How we found 24 Android vulnerabilities using our open source AI security agent",
+      "link": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/",
+      "pubDate": "Mon, 28 Sep 2026 19:00:00 +0000",
+      "isoDate": "2026-09-28T19:00:00.000Z",
+      "content": "<p>A look at the targeted AI taskflows behind these findings, the critical Android bugs they uncovered, and how to run the same open-source agent on your own app.</p>\n<p>The post <a href=\"https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/\">How we found 24 Android vulnerabilities using our open source AI security agent</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "A look at the targeted AI taskflows behind these findings, the critical Android bugs they uncovered, and how to run the same open-source agent on your own app.\nThe post How we found 24 Android vulnerabilities using our open source AI security agent appeared first on The GitHub Blog.",
+      "creator": "Kevin Stubbings",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Highlights from Git 2.56",
+      "link": "https://github.blog/open-source/git/highlights-from-git-2-56/",
+      "pubDate": "Mon, 28 Sep 2026 17:23:33 +0000",
+      "isoDate": "2026-09-28T17:23:33.000Z",
+      "content": "<p>The open source Git project just released Git 2.56. Here is GitHub's look at some of the most interesting features and changes introduced since last time.</p>\n<p>The post <a href=\"https://github.blog/open-source/git/highlights-from-git-2-56/\">Highlights from Git 2.56</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "The open source Git project just released Git 2.56. Here is GitHub's look at some of the most interesting features and changes introduced since last time.\nThe post Highlights from Git 2.56 appeared first on The GitHub Blog.",
+      "creator": "Elijah Newren",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
+      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/",
+      "pubDate": "Fri, 25 Sep 2026 18:00:00 +0000",
+      "isoDate": "2026-09-25T18:00:00.000Z",
+      "content": "<p>Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and more time getting work done.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/\">GitHub Copilot app for Beginners: How to build custom workflows with canvases</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and more time getting work done.\nThe post GitHub Copilot app for Beginners: How to build custom workflows with canvases appeared first on The GitHub Blog.",
+      "creator": "Kayla Cinnamon",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Improving site performance by shipping more CSS",
+      "link": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
+      "pubDate": "Fri, 25 Sep 2026 15:00:00 +0000",
+      "isoDate": "2026-09-25T15:00:00.000Z",
+      "content": "<p>How we fully migrated github.com away from CSS-in-JS.</p>\n<p>The post <a href=\"https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/\">Improving site performance by shipping more CSS</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "How we fully migrated github.com away from CSS-in-JS.\nThe post Improving site performance by shipping more CSS appeared first on The GitHub Blog.",
+      "creator": "Josh Black",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "When chat is the wrong UI",
+      "link": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/",
+      "pubDate": "Thu, 24 Sep 2026 20:00:00 +0000",
+      "isoDate": "2026-09-24T20:00:00.000Z",
+      "content": "<p>What is a developer to do when they need something more tangible than a chat box? Enter canvases.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/\">When chat is the wrong UI</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "What is a developer to do when they need something more tangible than a chat box? Enter canvases.\nThe post When chat is the wrong UI appeared first on The GitHub Blog.",
+      "creator": "Burke Holland",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
+      "link": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/",
+      "pubDate": "Thu, 24 Sep 2026 18:26:12 +0000",
+      "isoDate": "2026-09-24T18:26:12.000Z",
+      "content": "<p>In this blog post, I explain how to use the new fuzzing taskflow based on the GitHub Security Lab Taskflow Agent AI framework. </p>\n<p>The post <a href=\"https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/\">AI-powered fuzzing with the GitHub Security Lab Taskflow Agent</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "In this blog post, I explain how to use the new fuzzing taskflow based on the GitHub Security Lab Taskflow Agent AI framework. \nThe post AI-powered fuzzing with the GitHub Security Lab Taskflow Agent appeared first on The GitHub Blog.",
+      "creator": "Antonio Morales",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Rendering huge pull requests in the GitHub Copilot app",
+      "link": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/",
+      "pubDate": "Wed, 23 Sep 2026 18:29:49 +0000",
+      "isoDate": "2026-09-23T18:29:49.000Z",
+      "content": "<p>How we rebuilt the diff surface in the GitHub Copilot app to open a million-line pull request with hundreds of inline review comments.</p>\n<p>The post <a href=\"https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/\">Rendering huge pull requests in the GitHub Copilot app</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "How we rebuilt the diff surface in the GitHub Copilot app to open a million-line pull request with hundreds of inline review comments.\nThe post Rendering huge pull requests in the GitHub Copilot app appeared first on The GitHub Blog.",
+      "creator": "Alberto Gimeno",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-10-04T00:42:08.390Z"
+}
